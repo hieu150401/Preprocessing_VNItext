@@ -1,0 +1,266 @@
+1 . Giới_thiệu về gói Zone + : Là thuê_bao MobiZone có vùng Zone thuộc các khu_vực sau : 
+ 
+ 
+ 
+ 
+ 
+ Trung_tâm 
+ 
+ 
+ Các tỉnh 
+ 
+ 
+ 
+ Trung_tâm 1 
+ 
+ - Các tỉnh thuộc MBF KV 1 , MBF KV 4 , MBF KV 6 ( trừ Hà_Nội ) bao_gồm : Hà_Nam , Hà_Tĩnh , Hòa_Bình , Lai_Châu , Lào_Cai , Nghệ_An , Ninh_Bình , Phú_Thọ , Sơn_La , Thanh_Hóa , Vĩnh_Phúc , Yên_Bái , Điện_Biên 
+ 
+ 
+ 
+ Trung_tâm 3 
+ 
+ - Quảng_Bình , Quảng_Trị , Quảng_Ngãi , Bình_Định , Phú_Yên , Đắc_Lắc , Đắc Nông , Gia_Lai , Kon_Tum 
+ - Các huyện có thị_phần thấp thuộc các tình : Quảng_Nam , Huế và Khánh_Hòa 
+ 
+ 
+ 
+ Trung_tâm 4 
+ 
+ - Cần_Thơ , Tiền_Giang , Bến_Tre , Bạc_Liêu , Cà_Mau , Kiên_Giang , Trà_Vinh , An_Giang , Sóc_Trăng , Hậu_Giang , Đồng_Tháp , Vĩnh_Long 
+ 
+ 
+ 
+ Trung_tâm 5 
+ 
+ - Các tỉnh thuộc MBF KV 5 ( trừ Hải_Phòng ) bao_gồm : Hải_Dương , Hưng_Yên , Nam_Định , Quảng_Ninh , Bắc_Ninh , Bắc_Giang , Thái_Nguyên , Tuyên_Quang , Hà_Giang , Lạng_Sơn , Bắc_Kạn , Cao Bằng , Thái_Bình 
+ 
+ 
+ 
+ Trung_tâm 6 
+ 
+ - Bình_Dương , Bình_Thuận , Ninh_Thuận , Bình_Phước , Lâm_Đồng , Tây_Ninh 
+ 
+ 
+ 
+ 
+ 
+ 2 . C ách đăng_ký gói Zone + : 
+ 
+ 
+ Các bộ Zone + chỉ được phân_phối dưới dạng bộ hòa mạng mới . 
+ 
+ 
+ Loại bộ Zone + : bộ 0đ , bộ 25.000 đ và bộ 65.000 đ . 
+ 
+ 
+ Địa_chỉ mua bộ trọn_gói : các Cửa_hàng , Đại_lý chuyên tại các Tỉnh trực_thuộc Zone + . 
+ 
+ 
+ Thủ_tục : Thủ_tục đăng_ký thông_tin . 
+ 
+ 
+ 3 . Thời_hạn sử_dụng : 
+ 
+ 
+ Thời_hạn sử_dụng luôn là 60 ngày kể từ ngày thuê_bao có phát_sinh cước ( có giao_dịch trừ tiền ) 
+ 
+ 
+ Nếu trong vòng 60 ngày thuê_bao không phát_sinh cước thì sẽ bị khóa 1 chiều . Sau đó thuê_bao có 10 ngày để nhận cuộc_gọi . Quá 10 ngày này mà thuê_bao không nạp thêm tài_khoản sẽ bị khóa 2 chiều . 
+ 
+ 
+ Thời_hạn giữ số và thời_hạn cắt_hủy áp_dụng theo quy_định hiện_hành của thuê_bao trả trước . 
+ 
+ 
+ 4 . Các qui_định về Zone : 
+ 
+ Đăng_ký vùng Zone khi kích_hoạt : tương_tự MobiZone , khi kích_hoạt bộ Zone + trong vùng Zone thì hệ_thống sẽ tự_động đăng_ký vùng Zone đó cho thuê_bao ( trường_hợp vùng Zone đăng_ký không đúng thì KH có_thể nhắn_tin để đổi lại vùng Zone ) hoặc nếu kích_hoạt ngoài vùng Zone thì KH có_thể nhắn_tin để chủ_động đăng_ký vùng Zone ( chi_tiết xem tại qui_định của MobiZone ) 
+ 
+ Qui_định chuyển_đổi vùng đăng_ký : 
+ 
+ 
+ C huyển đổi trong các khu_vực thuộc danh_sách Zone + : khi gọi vẫn được áp_dụng cước theo qui_định InZone và OutZone 
+ 
+ 
+ C huyển đổi sang các Tỉnh / thành không có trong danh_sách Zone + : vẫn chuyển được , tuy_nhiên cước cuộc_gọi sẽ luôn là OutZone . 
+ 
+ 
+ Chuyển_đổi sang các Tỉnh / thành không có trong danh_sách Zone + : vẫn chuyển được nhưng toàn_bộ ưu_đãi của Zone + bị xóa_bỏ và thuê_bao trở_thành MobiZone thông_thường . 
+ 
+ 
+ 
+ 
+ Cách chuyển : KH có_thể dùng hình_thức chuyển_đổi tương_tự như khi chuyển_đổi Zone trong gói MobiZone : 
+ 
+ 
+ Soạn SMS : DOI _ MobiZone_tentinh gửi 999 ( 200đ / tin ) với " " _ " " là khoảng trống . Danh_sách tên tỉnh : Chi_tiết Ngoài cách viết như trong bảng chi_tiết danh_sách tên tỉnh , hệ_thống cũng sẽ chấp_nhận các cách viết sau , VD : 
+ 
+ 
+ DK_MobiZone_Vinh_Long 
+ 
+ 
+ DK_MobiZone_Vinhlong 
+ 
+ 
+ DK_MobiZone_VLO : với cách viết này , ĐTV có_thể nhớ theo nguyên_tắc : tỉnh có 2 chữ thì lấy chữ_cái đầu của chữ thứ nhất + 2 chữ_cái đầu của chữ thứ hai để tạo thành . 
+ 
+ 
+ 
+ 
+ Bấm USSD * 090 # , nhánh 9 , ( chi_tiết ) - áp_dụng từ 5 / 7 / 2012 
+ 
+ 
+ 
+ 
+ Phí chuyển_đổi Zone : . 
+ 
+ 
+ Lần đầu_tiên chuyển ( không tính lần đăng_ký ) : miễn_phí 
+ 
+ 
+ Từ lần thứ 2 : 20.000 đồng / lần ( đã VAT ) , trừ trên tài_khoản chính của TB. 
+ 
+ 
+ Không giới_hạn số lần chuyển_đổi . 
+ 
+ 
+ 
+ 
+ C huyển đổi sang gói cước khác : 
+ 
+ 
+ Zone + có_thể chuyển_đổi sang trả sau : quy_định , thủ_tục theo quy_định hiện_hành 
+ 
+ 
+ Zone + có_thể chuyển_đổi sang gói trả trước khác bằng lệnh SMS / USSD và theo quy_định hiện_hành . 
+ 
+ 
+ Ngay sau khi chuyển_đổi thành_công , KH sẽ không được hưởng ưu_đãi của chương_trình . 
+ 
+ 
+ Tuy_nhiên : thuê_bao trả sau và các gói trả trước khác KHÔNG chuyển sang Zone + được . 
+ 
+ 
+ 
+ 
+ Roaming Vinaphone : 
+ 
+ Thuê_bao TT 2 , 4 : không được sử_dụng dịch_vụ chuyển vùng trong nước với Vinaphone ( chưa được roaming Vina ) . 
+ Thuê_bao TT 1 , 3 , 5 , 6 : được mở dịch_vụ chuyển vùng trong nước với Vinaphone , và tính cước Outzone khi chuyển vùng . 
+ 
+ 
+ Tính_năng tra_cứu vùng đăng_ký sử_dụng - áp_dụng từ 5 / 7 / 2012 : soạn câu_lệnh " " KT_ZONE " " gửi 999 ( trong đó " " _ " " là dấu cách ) , cước 200đ / sms 
+ 1 . Cước thoại và SMS trong nước : 
+ 
+ 
+ 
+ 
+ 
+ 
+ Nội_dung 
+ 
+ 
+ Inzone ( có VAT ) 
+ 
+ 
+ Outzone ( có VAT ) 
+ 
+ 
+ 
+ 
+ Gọi nội mạng trong nước 
+ 
+ 
+ G iờ bận 
+ 
+ 
+ 690đ / phút 
+ ( 69đ / 6s + 11,5 đ / 1s ) 
+ 
+ 
+ 1.880 đ / phút 
+ ( 188đ / 6s + 31,3 đ / 1s ) 
+ 
+ 
+ 
+ 
+ G iờ rỗi 
+ 
+ 
+ Bằng 50 % cước giờ bận 
+ 
+ 
+ 
+ 
+ Gọi liên mạng trong nước ( không phân_biệt giờ bận , giờ rỗi ) 
+ 
+ 
+ 690đ / phút 
+ ( 69đ / 6s + 11,5 đ / 1s ) 
+ 
+ 
+ 1.880 đ / phút 
+ ( 188đ / 6s + 31,3 đ / 1s ) 
+ 
+ 
+ 
+ 
+ SMS nội mạng / liên mạng trong nước ( giờ bận và rỗi ) 
+ 
+ 
+ 250đ / SMS 
+ 
+ 
+ 
+ 
+ Cước thông_tin đối_với dịch_vụ GTGT , gọi / nhắn_tin quốc_tế và các quy_định khác liên_quan đến cước . 
+ 
+ 
+ Áp_dụng theo quy_định hiện_hành của gói MobiZone 
+ 
+ 
+ 
+ 
+ 
+ 
+ - Lưu_ý các cuộc_gọi trong InZone vẫn bị tính cước OutZone : 
+ 
+ Gọi qua Music_Talk ( 9301 ) . 
+ Khi đang roaming với VinaPhone . ( Riêng thuê_bao thuộc TT 4 , không sử_dụng dịch_vụ Roaming với Vinaphone được ) 
+ 
+ 2 . Ưu_đãi hằng tháng : 
+ 
+ Đối_tượng Zone + được hưởng ưu_đãi : 
+ 
+ Các bộ trọn_gói Zone + có mệnh_giá 25.000 , 65.000 / bộ 
+ Các bộ Zone + M0 ( 0đ trong tài_khoản ) có thời_gian kích_hoạt từ 25 / 7 / 2012 trở về sau . 
+ KHÔNG cộng ưu_đãi có các bộ M0 kích_hoạt từ 24 / 7 / 2012 trở về trước 
+ 
+ 
+ Được cộng 300.000 cho 12 tháng , mỗi lần cộng là 25.000 đ / 30 ngày vào TK ĐK2 . 
+ Lần cộng đầu_tiên được thực_hiện ngay sau khi kích_hoạt thành_công ( gọi là N ) , thời_điểm cộng cho các lần sau sẽ là N + 30 ngày . 
+ Nếu KH bị khóa 1c hoặc 2c : 
+ 
+ Hệ_thống sẽ vẫn cộng vào tài_khoản thưởng định_kỳ như bình_thường . 
+ KH sẽ được mở chiều đi nhưng ngày sử_dụng chỉ là 1 ngày ( tính đến hết 24h của ngày cộng tiền ) . 
+ Nếu muốn sử_dụng bình_thường KH phải nạp thêm tiền vào tài_khoản . 
+ 
+ 
+ Trong 30 ngày nếu không sử_dụng hết , thì sẽ bị mất , không được cộng dồn . 
+ 
+ 3 . Nguyên_tắc tính cước : 
+ 
+ - Qui_định giờ bận và rỗi của thoại : áp_dụng từ 04 / 06 / 2009 
+ 
+ Giờ rỗi ( OffPeak - giảm 50 % ) : từ 23h ngày hôm trước đến 05h : 59 ’ : 59 " " sáng ngày hôm sau . Ngoại_trừ các ngày sau sẽ không áp_dụng cước giờ rỗi từ 23h đến 05h59 ’ : 59 " " ngày hôm sau : 
+ 
+ Từ đêm giáng_sinh ( 24 / 12 ) . 
+ Từ đêm giao_thừa tết dương_lịch ( 31 / 12 ) . 
+ Từ đêm giao_thừa tết âm_lịch . 
+ 
+ 
+ Giờ bận ( Peak ) : từ 6h đến 22h : 59 ’ : 59 " " các ngày thường , và khoảng thời_gian không áp_dụng giờ rỗi của ngày giáng_sinh , tết âm_lịch và tết dương_lịch . 
+ 
+ - Qui_định giờ bận và rỗi của SMS : 
+ 
+ Giờ rỗi : từ 1h sáng đến 5h sáng tất_cả các ngày trong tuần . 
+ Giờ bận : sau 5 sáng đến trước 1h sáng của tất_cả các ngày trong tuần . 

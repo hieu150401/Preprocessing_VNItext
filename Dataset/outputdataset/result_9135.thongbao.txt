@@ -1,0 +1,18 @@
+
+ MobiFone không tăng_giá mà là cung_cấp gói MIU mới với dung_lượng lớn hơn . Gói MIU mới với giá cước 50.000 đ sử_dụng trong 30 ngày , với dung_lượng 600MB , sử_dụng quá 600MB KH sẽ truy_cập data miễn_phí ở tốc_độ mạng 2G . Với dung_lượng gói nhiều hơn sẽ giúp anh / chị thêm cơ_hội , thời_gian lướt net , đọc báo với tốc_độ đường truyền như_ý nhiều hơn . 
+ Song_song đó , MobiFone còn có các điều_chỉnh mới mang lại nhiều lợi_ích đến KH : 
+ 
+ Cung_cấp gói mới Big MIU : với giá cước 200.000 được miễn_phí 3,5 GB tốc_độ cao , quá 3,5 G KH sẽ truy_cập data miễn_phí ở tốc_độ mạng 2G . 
+ Phương_thức tính cước cũ từ 10kB + 10kB được áp_dụng thành 50kB + 50kB ... 
+ 
+ 
+ 
+ Ở các vùng giáp_ranh biên_giới , hiện_tượng giao_thoa sóng giữa các mạng của hai quốc_gia luôn_luôn xảy ra . Nguyên_nhân là do các mạng phải phát_sóng đủ mạnh để đảm_bảo chất_lượng dịch_vụ cho khách_hàng , nên sẽ có hiện_tượng sóng di_động của mạng nước bạn chờm vào lãnh_thổ của Việt_Nam cũng tương_tự như sóng di_động của MobiFone phát chờm sang lãnh_thổ của nước bạn . Và các thuê_bao đang trong nước nhưng gần khu_vực biên_giới , có_thể cập_nhật sóng mạng khách và bị tính cước chuyển vùng Quốc_tế . 
+ Để tránh trường_hợp này thi anh / chị nên huỷ dịch_vụ CVQT khi không có nhu_cầu sử_dụng , hoặc vào chức_năng điện_thoại chọn mạng nhân_công ( và chọn mạng MobiFone ) để tránh bị tình_trạng cập_nhật mạng khách khi ở khu_vực biên_giới . 
+ 
+ 
+ Theo qui_định của Hiệp_hội di_động toàn_cầu , khi khách_hàng chuyển vùng vào mạng khách , mạng chủ phải gửi tin nhắn ( tin nhắn này được gọi là Welcome SMS ) thông_báo nhập mạng nước_ngoài thành_công . 
+ Đối_với trường_hợp này , mặc_dù anh / chị đứng trên lãnh_thổ Việt_Nam nhưng do thiết_bị của anh / chị đã cập nhập vào mạng nước bạn nên hệ_thống hiểu là anh / chị đang ở nước bạn và gửi tin nhắn đến anh / chị . Hiện_nay đối_với các trường_hợp KH đang ở vùng_biên_giới Trung_Quốc , Lào , Campuchia nội_dung tin Welcome SMS của MobiFone sẽ có nội_dung nhằm cảnh_báo đến KH lưu_ý lựa_chọn mạng khi ở vùng_biên_giới để tránh phát_sinh cước ngoài ý_muốn . 
+ Vì_vậy anh / chị nên huỷ dịch_vụ CVQT khi không có nhu_cầu sử_dụng , hoặc vào chức_năng điện_thoại chọn mạng nhân_công ( và chọn mạng MobiFone ) để tránh bị tình_trạng cập_nhật mạng khách khi ở khu_vực biên_giới . 
+ 
+ Anh / chị vẫn có_thể sử_dụng mạng của MobiFone bằng cách vào chức_năng điện_thoại chọn mạng nhân_công ( và chọn mạng MobiFone ) , điều này giúp anh / chị tránh tình_trạng tự_động cập_nhật mạng khách . Sau khi chọn mạng MobiFone thành_công anh / chị sẽ sử_dụng dụng dịch_vụ hoàn_toàn bình_thường , không cần phải chuyển_đổi gì cả . 

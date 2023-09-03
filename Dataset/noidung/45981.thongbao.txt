@@ -1,0 +1,1 @@
+ Câu lệnh HỦY: - Hủy từng gói: HUY_<tên gói> - Hủy cả dịch vụ: HUY 

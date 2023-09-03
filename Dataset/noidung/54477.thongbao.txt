@@ -1,0 +1,1 @@
+ S TT Đầu số Mức cước hiện tại (đồng/phút) Mức cước điều chỉnh (đồng/phút) Thời gian áp dụng Chưa bao gồm thuế VAT Đã bao gồm thuế VAT Chưa bao gồm thuế VAT Đã bao gồm thuế VAT 1 19008673 909 1.000 909 1000 Gia hạn từ 19/8/2022 đến 15/12/2022 2 1900986843 1.364 1.500 909 1000 Từ 20/8/2022 

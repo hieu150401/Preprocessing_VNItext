@@ -1,0 +1,406 @@
+I. THỂ_LỆ CHUNG : 
+ 1 . Lựa_chọn thí_sinh 
+ Thí_sinh của mỗi đối_tác sẽ lần_lượt tham_gia 2 vòng thi : 
+ 
+ Vòng thi tập_thể : Bao_gồm 10 thí_sinh / đối_tác 
+ Vòng thi cá_nhân : 1 thí_sinh / đối_tác được lựa_chọn từ những thí_sinh còn lại đạt trong vòng thi tập_thể / đối_tác 
+ 
+ 2 . Hình_thức : 
+ 
+ MC lần_lượt đưa ra câu hỏi của BTC ( theo cấp_độ khó dần ) , các thí_sinh cùng trả_lời câu hỏi , thời_gian suy_nghĩ và đưa ra câu trả_lời là 15s , thời_gian sẽ được bắt_đầu tính kế từ khi MC có hiệu_lệnh báo " " BẮT_ĐẦU " " . Câu trả_lời sẽ được viết lên giấy trắng A4 , và các thí_sinh sẽ giơ cao ( cao qua đầu ) câu trả_lời của mình , và giữ nguyên để ban Giám_sát kiểm_tra , cho đến khi có hiệu_lệnh của MC hạ xuống . 
+ 
+ II. VÒNG THI TẬP_THỂ 
+ 
+ Các thí_sinh sẽ lần_lượt trả_lời từ 10 - 15 câu hỏi của BTC ( cấp_độ khó dần ) 
+ Thí_sinh nào có câu trả_lời sai , hoặc không có câu trả_lời sẽ bị loại ra khỏi sàn đấu sau mỗi câu hỏi . 
+ Trong phần thi này mỗi đội sẽ có 1 phao cứu_trợ : Khi MC nhận được tín_hiệu dùng phao cứu_trợ của đội , MC sẽ đọc 1 câu hỏi , đội đó cùng thảo_luận và đại_diện đưa ra phương_án trả_lời , câu trả_lời đúng sẽ nhận được phao cứu_trợ . MC sẽ cho đại_diện của đội bốc phao cứu_trợ ( cứu 1 người , cứu tất_cả ) . Theo đúng phao cứu_trợ được nhận , số_lượng thí_sinh được trở_lại sàn đấu cho câu hỏi tiếp_theo . 
+ Chú_ý : Phao cứu_trợ sẽ buộc phải sử_dụng , khi thí_sinh trên sàn đấu của 1 đội = 0 
+ Vòng thi sẽ kết_thúc khi trên sàn đấu còn 7 người , và cả 3 đội đã sử_dụng hết phao cứu_trợ . 
+ Cách xác_định giải tập_thể : 
+ 
+ Khi vòng thi kết_thúc , Giám_sát sẽ kiểm_tra , trên sàn đấu đội nào còn nhiều thí_sinh nhất sẽ giành giải nhất , tiếp_theo là giải nhì và giải ba . 
+ Lưu_ý : Trong trường_hợp hai đội có số_lượng người bằng nhau MC sẽ cho trả_lời thêm câu hỏi phụ để xác_định ra đội nào có số_lượng người ở lại nhiều hơn . 
+ 
+ 
+ 
+ III. Vòng thi cá_nhân 
+ Mỗi đội cử 1 đại_diện tham_gia vòng thi cá_nhân . 
+ 
+ 3 thí_sinh sẽ cùng lần_lượt trả_lời 5 câu hỏi . 
+ Chú_ý : tại vòng này các thí_sinh sẽ không bị loại khỏi sàn đâu nếu trả_lời sai hoặc không có câu trả_lời . 
+ Kết_thúc 5 câu hỏi chính và tính điểm . Mỗi câu trả_lời đúng là 10 điểm . Thí_sinh nào có điểm_cao nhất giành giải nhất , lần_lượt giải nhì , và giải ba . 
+ Trong trường_hợp sau 5 câu hỏi , các thí_sinh bằng điểm nhau , thì bước vào 3 câu hỏi phụ tiếp_theo , và vẫn tính điểm ( 10 điểm / 1 câu trả_lời đúng ) . 
+ 
+ IV. Cơ_cấu giải_thưởng 
+ Giải tập_thể : ( Hình_thức trao giải bằng tiền_mặt ) 
+ 
+ 01 giải nhất : 3.000.000 đồng 
+ 01 giải nhì : 2.000.000 đồng 
+ 01 giải ba : 1.500.000 đồng 
+ 
+ Giải cá_nhân : 
+ 
+ 01 giải nhất : 800.000 đồng 
+ 01 giải nhì : 500.000 đồng 
+ 01 giải ba : 300.000 đồng 
+ 
+ Giải dành cho khán_giả và tiết_mục văn_nghệ : 
+ ( Hình_thức trao giải bằng thẻ cào MobiFone ) 
+ 
+ 03 Giải dành cho khán_giả may_mắn : 100.000 đồng / giải 
+ 03 Giải dành cho câu hỏi khán_giả : 50.000 đồng / giải 
+ 02 Giải dành cho phao cứu_trợ : 100.000 đồng / giải 
+ 03 Giải dành cho tiết_mục ca_nhạc : 300.000 đồng / giải 
+ 
+ VI. Yêu_cầu đối_với thí_sinh : 
+ 
+ Là nhân_viên nữ của các đối_tác Mobitech , Trường Minh , Minh_Phúc . 
+ Mỗi thí_sinh sẽ có 1 bảng_số ID , dán trên ngực áo theo mầu đã đăng_ký của đội . 
+ Khi trên sàn đấu , tuyệt_đối_chấp_hành theo hiệu_lệnh của MC , không quay ngang_ngửa ảnh_hưởng đến thời_gian suy_nghĩ của các thí_sinh khác . 
+ 
+ VII. Yêu_cầu đối_với khán_giả đến cổ_vũ 
+ 
+ Khán_giả phải ở đúng vị_trí khu_vực được BTC sắp_xếp . 
+ Trong khi cuộc thi diễn ra , khán_giả không được nhắc , hoặc có những động_thái gây ảnh_hưởng đến các thí_sinh trên sàn thi_đấu . Trong trường_hợp khán_giả của đội nào vi_phạm nội_quy , tùy theo cấp_độ sẽ bị xử_phạt bằng các hình_thức như : cảnh_cáo , truất quyền dùng phao cứu_trợ . 
+ 
+ VII. Ban cố_vấn - Ban thư_ký - Ban_Giám_sát hội_thi 
+ Ban cố_vấn gồm : 
+ 1 . Vũ_Thị_Lan_Phương - Tổ_trưởng Tổ TTĐT Đài 1090 
+ 2 . Nguyễn_Thị_Thanh_Huyền - Chuyên_viên Tổ TTĐT Đài 1090 
+ 3 . Nguyễn_Thị Mỹ_Hà - Chuyên_viên Tổ TTĐT Đài 1090 
+ Ban thư_ký gồm : 
+ 1 . Ngô_Thị_Thu_Hằng - Tổ_trưởng Tổ gọi ra Đài 1090 
+ 2 . Lê_Thị_Phương - Chuyên_viên Tổ TTĐT Đài 1090 
+ Ban giám_sát gồm : 
+ 1 . Nguyễn_Thị_Kiều_Linh - Tổ_trưởng Tổ_Giám_sát 
+ 2 . Trần_Quỳnh_Vân - Tổ_trưởng Tổ xử_lý 
+ 3 . Đỗ_Giang_Thủy - Chuyên_viên tổ TTĐT 
+ 4 . Lê_Thị Cúc_Phương - Chuyên_viên tổ TTĐT 
+ 5 . Quách Hồng_Vân - Chuyên_viên tổ Giám_sát 
+ 6 . Phạm Hoàng_Anh - Chuyên_viên tổ Xử_lý 
+ 7 . Cao_Thị_Hòa - Đại_diện Công_ty Minh_Phúc 
+ 8 . Đại_diện Công_ty Trường_Minh 
+ 9 . Đại_diện Công_ty MobiTechs . 
+ Hội_trường chật kín người tham_gia , các thí_sinh của 3 đội đã nhanh_chóng sắp_xếp vào vị_trí : 
+ 
+ 
+ 8h30 , bà Lê Diễm_Ngọc - Trưởng đài HTKH 1090 khai_mạc hội thi : 
+ 
+ 
+ 
+ Hội_trường nóng dần lên qua từng câu hỏi : 
+ 
+ 
+ 
+ Thậm_chí cả 3 đội đã bị loại hết thí_sinh sau câu hỏi thứ 4 . Nhờ phao cứu_trợ , các thí_sinh đã được quay lại sàn_đấu 
+ 
+ Mặc_dù số người còn lại ở câu hỏi số 15 ít_nhất ( 4 người ) so với các đội còn lại , một_cách hết_sức bất_ngờ , đến câu thứ 16 đội Trường Minh đã trụ lại còn 3 người trong khi các đội còn lại đã bị loại hết . 
+ 
+ Tiếp đến vòng thi cá_nhân , ĐTV Vũ_Thị_Ngợi - Trường Minh cũng xuất_sắc vượt qua các thí_sinh còn lại để đoạt giải quán quân . 
+ 
+ Kết_quả chung_cuộc : 
+ 
+ 
+ 
+ 
+ 
+ STT 
+ 
+ 
+ Tên_đội 
+ 
+ 
+ Loại_giải 
+ 
+ 
+ Ghi_chú 
+ 
+ 
+ 
+ 
+ Giải tập_thể 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ Trường_Minh 
+ 
+ 
+ Nhất 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ MobiTechs 
+ 
+ 
+ Nhì 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ Minh_Phúc 
+ 
+ 
+ Ba 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Giải cá_nhân 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ Vũ_Thị_Ngợi - 3283 
+ 
+ 
+ Nhất 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ Nguyễn Thu_Hoài - 1150 
+ 
+ 
+ Nhì 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ Phạm_Thị_Hương - 2786 
+ 
+ 
+ Ba 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Giải dành cho khán_giả may_mắn : 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ Nguyễn_Thị Anh Điệp - 1105 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ Phạm_Lô_Giang - 3396 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ Đoàn_Thị_Hương - 2944 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Giải dành cho câu hỏi khán_giả : 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ Lê_Thị_Vân Anh 3365 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ Đỗ_Thị Mỹ_Hạnh - 2501 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ Đinh_Thị_Miền - 1205 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Giải dành cho phao cứu_trợ : 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ Mobitechs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ Trường_Minh 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Giải dành cho tiết_mục ca_nhạc : 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ Minh_Phúc 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ Trường_Minh 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ Mobitechs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Đội Trường Minh được trao giải Nhất trong lời ca " " Niềm tin chiến_thắng " " 
+ 
+ 
+ 
+ Mobitechs giành vị_trí thứ hai : 
+ 
+ 
+ 
+ Minh_Phúc về vị_trí ... cuối_cùng : 
+ 
+ 
+ 
+ Bà Vũ_Giang_Thủy - Phó_Đài_HTKH trao giải cá_nhân xuất_sắc : 
+ 
+ 
+ Hội thi Contact_Center Got_Talent đã khép lại , để lại trong lòng những người tham_dự về một lễ kỷ_niệm ngày Quốc_tế phụ_nữ vui_tươi và nhiều ấn_tượng tốt_đẹp

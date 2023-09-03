@@ -1,0 +1,1 @@
+Từ 7 / 6 / 2013 , khi KH gọi đến số thuê_bao không có thực : hệ_thống sẽ thông_báo " " thuê_bao quý_khách vừa gọi hiện không liên_lạc được , xin quý_khách vui_lòng gọi lại sau " " thay cho câu " " số máy không tồn_tại ... ... " " .

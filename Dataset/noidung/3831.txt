@@ -1,0 +1,121 @@
+  Địa chỉ truy cập: 
+ 
+ 
+ 
+ Từ 20/7/2012 sử dụng địa chỉ tra cứu tại http://10.151.22.140:8961/ 
+ 
+ User/Password : d1090 
+ 
+ 
+ 
+ Tra cứu TB 
+ Bước 1: Tra cứu TB: 
+ 
+ Từ menu chính -> Thuê bao -> Tra cứu Thuê bao . 
+ Nhập số TB cần tra cứu, sau đó nhấn nút [Tìm kiếm] 
+ 
+ 
+ Bước 2: Nhấn nút [Chi tiết Thuê Bao] hoặc kích đúp vào kết quả tìm kiếm số TB ở màn hình bên phải 
+ 
+ Bước 3: Chọn ở menu bên trái các thông tin cần tra cứu, thông tin chi tiết hiển thị ở màn hình bên phải 
+ Tra cứu thông tin danh bạ của TB MCA: 
+ 
+ Tra cứu thông tin Phone backup của TB MCA: 
+ 
+ Tra cứu lịch sử gói cước của TB MCA: 
+ 
+ Tra cứu lịch sử KM: 
+ 
+ Ghi chú: với hình thức KM theo số tin nhắn MCA: 
+ 
+ Giá trị trong cột Giá trị KM là số tin nhắn TB được hưởng theo chương trình KM 
+ Giá trị trong cột Đã SD là số tin nhắn TB đã sử dụng. 
+ 
+ Tra cứu lịch sử mở máy của TB MCA: 
+ 
+ Tra cứu lịch sử cuộc gọi nhỡ của TB MCA: 
+ 
+ Trường hợp TB roaming , Lý do gọi nhỡ có thể là TB từ chối cuộc gọi hoặc TB không nghe máy 
+  Địa chỉ truy cập: 
+ 
+ 
+ http://10.151.22.138:9090/Web . Từ 20/7/2012 sử dụng địa chỉ tra cứu tại http://10.151.22.140:8961/ 
+ 
+ User: d1090  -  Password: d1090  
+ Cách tra cứu sẽ cập nhật sau 
+  
+ 
+ - Chọn "	"Xem thông tin thuê bao"	" 
+ 
+ Trong đó có thể xem: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hồ sơ thuê bao: Kiểm tra thông tin KH đã đăng ký dịch vụ (trường hợp thuê bao chưa đăng ký dịch vụ hệ thống sẽ thông báo "	"  Không có thông tin về thuê bao, hoặc thuê bao chưa Active."	") 
+ 
+ 
+ 
+ 
+ Missed calls của thuê bao : Danh sách các cuộc Missed call của KH 
+ 
+ 
+ 
+ 
+ SMS Missed calls của thuê bao: Nội dung các tin nhắn KH nhận được từ 9232 
+ 
+ 
+ 
+ 
+ Black list thuê bao: Phần KH tự cài đặt không nhận tin nhắn báo từ 9232 
+ 
+ 
+ 
+ 
+ Lịch sử tin nhắn đến 9232: Lịch sử KH gửi tin nhắn đến tổng đài 9232 
+ 
+ 
+ 
+ 
+ 
+  
+ 1. Hồ sơ thuê bao: 
+ 
+ 
+ Chọn Hồ sơ thuê bao 
+ 
+ 
+ Nhập số điện thọai: theo mẫu 8490/8493/84121.... 
+ 
+ 
+ 
+  
+ 2. Xem Missed calls của thuê bao: 
+ 
+ 
+ Chọn từ ngày đến ngày 
+ 
+ 
+ Nhập số điện thọai 
+ 
+ 
+ Chọn nguyên nhân cuộc gọi lỡ 
+ 
+ 
+ 
+  
+ 3. Tra cứu SMS Missed calls: 
+  
+ 
+ 
+ 4. Tra cứu Black list của thuê bao: 
+ 
+ 
+ 
+ 5. Tra cứu lịch sử nhắn tin đến 9232: 
+  
+ 
+  
+   

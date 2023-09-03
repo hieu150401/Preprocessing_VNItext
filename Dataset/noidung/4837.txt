@@ -1,0 +1,654 @@
+ 1. Giới thiệu: 
+ 
+ 
+ Công ty Cổ phần Giải pháp Thanh toán Việt Nam (VNPAY) , chính thức thành lập vào tháng 3 năm 2007. Hoạt động trong lĩnh vực Tài chính - Ngân hàng, Công nghệ thông tin và Viễn thông. 
+ 
+ 
+ Với mục tiêu trở thành Công ty hàng đầu trong lĩnh vực thanh toán điện tử tại Việt Nam, từ khi thành lập đến nay, VNPAY đã liên kết, hợp tác với 31 ngân hàng, 7 công ty viễn thông và hơn 40 doanh nghiệp thương mại điện tử đưa ra nhiều giải pháp thanh toán đơn giản, tiện lợi như: Mobile Banking, Nạp tiền điện thoại VnTopup, Thanh toán hóa đơn VnPayBill, Ví điện tử VnMart, Sim đa năng, Cổng thanh toán VnPayment… 
+ 
+ 
+ Trong nhóm các tiện ích thanh toán ngân hàng trên nền di động, Nạp tiền điện thoại VnTopup được coi là một dịch vụ thế mạnh của VNPAY. Là công ty cung cấp giải pháp Topup trực tiếp đầu tiên trên thị trường, cùng với ưu thế là đã kết nối với nhiều ngân hàng lớn, VNPAY có thể cung cấp dịch vụ đến hơn 80% khách hàng của các ngân hàng trên toàn quốc như Agribank, VietinBank, BIDV, DongA Bank, Techcombank, Eximbank… và nhiều ngân hàng khác. 
+ 
+ 
+ 2. Các dịch vụ chính VNPAY cung cấp và phát triển gồm có: 
+ 
+ 
+ Mobile Banking: cho phép khách hàng truy vấn thông tin tài chính - ngân hàng qua điện thoại di động bằng cách gửi tin nhắn theo mẫu quy định tới tổng đài 8149. Dịch vụ Mobile Banking bao gồm các tiện ích: Vấn tin số dư tài khoản, Sao kê 5 giao dịch gần nhất, Nhận thông báo biến động số dư tài khoản, Tra cứu tỷ giá ngoại tệ, lãi suất ngân hàng, thông tin trợ giúp, Chuyển khoản bằng tin nhắn, Thanh toán hóa đơn trả sau qua tin nhắn; Nạp tiền điện thoại qua tin nhắn - VnTopup & các dịch vụ khác của ngân hàng (nếu có). 
+ 
+ 
+ Nạp tiền điện thoại VnTopup: là dịch vụ nạp tiền vào tài khoản điện thoại di động trả trước và trả sau qua tin nhắn SMS, Mobile Banking, Internet Banking hoặc tại máy ATM của ngân hàng, số tiền khách hàng yêu cầu nạp vào điện thoại sẽ được trừ trực tiếp trong tài khoản ngân hàng của khách hàng. 
+ 
+ 
+ Thanh toán hóa đơn VnPayBill: dịch vụ VnPayBIll giúp khách hàng của ngân hàng có thể thanh toán các hóa đơn dịch vụ (điện thoại trả sau, điện thoại cố định, Internet ADSL, điện, nước…) bằng cách nhắn tin từ điện thoại di động, qua Internet Banking, ATM của ngân hàng hoặc bằng hình thức ủy nhiệm thu tự động. Số tiền bị trừ trong tài khoản ngân hàng đúng bằng số tiền cước khách hàng sử dụng hóa đơn. 
+ 
+ 
+ Ví điện tử VnMart: VnMart là sản phẩm ví điện tử do VNPAY phát triển để làm phương tiện thanh toán khi thực hiện các giao dịch mua sắm trên các website thương mại điện tử. Với thuận lợi là khả năng kết nối đến các đối tác ngân hàng của VNPAY, các chủ ví VnMart có thể nạp tiền từ tài khoản ngân hàng vào ví để thực hiện thanh toán khi mua sắm trên website http://vban.vn của VNPAY hoặc các website thương mại điện tử có liên kết với VNPAY. 
+ 
+ 
+ Sim đa năng: là dịch vụ do VNPAY kết hợp cùng tất cả các mạng di động tại Việt Nam cung cấp, cho phép chủ thuê bao di động có thể trở thành một điểm bán hàng với các dịch vụ như: nạp tiền điện thoại trả trước, bán mã thẻ cào, thanh toán hóa đơn trả sau, bán bảo hiểm và các dịch vụ khác. Hoa hồng bán hàng linh hoạt và chiết khấu trước cho đại lý. 
+ 
+ 
+ Bán vé máy bay qua tổng đài 1900 55 55 20: cho phép khách hàng đặt vé máy bay của 30 hãng hàng không trong nước và quốc tê qua điện thoại. Khách hàng sẽ gọi điện đến tổng đài 1900 55 55 20 để được tư vấn, hỗ trợ các thông tin về lịch trình bay, giá vé,… Sau khi khách hàng cung cấp đầy đủ các thông tin cần thiết để đặt vé, tổng đài viên sẽ gửi một mã code book về điện thoại di động của khách hàng. Khách hàng sẽ thanh toán mã code tại các kênh của ngân hàng như Quầy giao dịch, Internet Banking hoặc ATM của ngân hàng chấp nhận thanh toán. 
+ 
+ 
+ Cổng thanh toán VnPayment: VNPAY phát triển và quản lý cổng thanh toán http://vnpayment.vn cho phép khách hàng có thể sử dụng tài khoản ngân hàng để thanh toán khi mua sắm hàng hóa và dịch vụ trên các website thương mại điện tử có kết nối đến VNPAY. 
+ 
+ 
+ 3. Nguồn tham khảo: 
+ 
+ 
+ www.vnpay.vn 
+ 
+ 
+ 4. Đối tác: 
+ a. Ngân hàng: 
+ 
+  
+ b. Viễn thông: 
+ 
+ 
+ c. Doanh nghiệp: 
+ 1. Định nghĩa: 
+ a. Dành cho KH cá nhân: 
+ 
+ 
+ VnTopup là dịch vụ nạp tiền điện thoại di động trả trước và trả sau từ tài khoản của khách hàng tại Ngân hàng. Khách hàng của các Ngân hàng hợp tác dịch vụ VnTopup với VNPAY có thể sử dụng tin nhắn SMS, Mobile Banking, ATM, Internet Banking hoặc truy cập website http://vban.vn để thực hiện giao dịch nạp tiền VnTopup. Số tiền khách hàng yêu cầu nạp vào điện thoại sẽ được trừ trực tiếp vào tài khoản của khách hàng tại ngân hàng và được nạp trực tiếp vào tài khoản điện thoại của khách hàng. Ngoài các chính sách giảm giá của từng Ngân hàng khi sử dụng VnTopup, khách hàng vẫn được hưởng đầy đủ chương trình khuyến mại của mạng viễn thông (nếu có). 
+ 
+ 
+ Ngoài việc có thể tự nạp tiền cho số thuê bao di động của mình, khách hàng còn có thể sử dụng dịch vụ VnTopup để nạp tiền cho thuê bao điện thoại của bạn bè, người thân, mua mã thẻ trả trước hoặc nạp tiền vào ví điện tử để thực hiện các giao dịch trên mạng. 
+ 
+ 
+ b. Dành cho ngân hàng: 
+ 
+ 
+ Ngoài việc cung cấp các dịch vụ Ngân hàng truyền thống, trong thời gian gần đây trên kênh Ngân hàng điện tử của các Ngân hàng Việt Nam đều có nhu cầu cần thiết phải mở rộng cung cấp thêm các dịch vụ giá trị gia tăng kèm theo. Khi cung cấp được nhiều dịch vụ giá trị gia tăng, ngân hàng sẽ thu hút được nhiều khách hàng cá nhân sử dụng tài khoản ngân hàng để thanh toán do đó sẽ mở rộng được các khách hàng mới sử dụng dịch vụ Ngân hàng điện tử 
+ 
+ 
+ Bên cạnh đó nhờ triển khai dịch vụ giá trị gia tăng với đối tác, ngân hàng cũng sẽ thu được một khoản phí dịch vụ xử lý thanh toán để bù đắp các chi phí vận hành của hệ thống và đem lại lợi nhuận cho Ngân hàng. Để đáp ứng yêu cầu này, vào những thời gian đầu tiên từ năm 2007, công ty VNPAY đã phối hợp với các Ngân hàng và công ty Viễn thông đưa ra dịch vụ VnTopup cho nhóm đối tượng khách hàng cá nhân. Dịch vụ VnTopup cho phép khách hàng Ngân hàng nạp tiền điện thoại trả trước và trả sau và thanh toán trực tiếp bằng tài khoản tại Ngân hang. Đây là dịch vụ hợp tác kinh doanh và chia sẻ thương hiệu VnTopup giữa hai đơn vị và cùng cung cấp cho một đối tượng là khách hàng cá nhân của Ngân hàng. Trong mô hình hợp tác kinh doanh này, VNPAY sẽ đóng vai trò là đơn vị vận hành dịch vụ và phối hợp chính cùng Ngân hàng để triển khai các chương trình quảng bá và giới thiệu dịch vụ với khách hàng. Qua đó dịch vụ VnTopup được triển khai thành công tại rất nhiều ngân hàng tại Việt Nam và là mô hình duy nhất tại các nước Đông Nam Á. 
+ 
+ 
+ Lợi ích của ngân hàng khi kết nối dịch vụ VnTopup: 
+ 
+ 
+ Thêm kênh phân phối tiện ích mới cho khách hàng mở tài khoản tại ngân hàng, tăng khả năng cạnh tranh 
+ 
+ 
+ Giữ chân khách hàng trung thành nhờ có nhiều tiện ích thanh toán gắn với chi tiêu hàng ngày của họ 
+ 
+ 
+ Gia tăng được dịch vụ của mình đối với khách hàng, thu hút khách hàng mở tài khoản tại ngân hàng, nhờ đó làm tăng nguồn huy động vốn 
+ 
+ 
+ Thu phí xử lý giao dịch từ công ty VNPAY khi khách hàng sử dụng dịch vụ VnTopup, đem lại lợi nhuận cho ngân hàng. 
+ 
+ 
+ Giảm thiểu thời gian giao dịch tại ngân hàng bằng cách thu hút khách hàng sử dụng Ngân hàng điện tử. 
+ 
+ 
+ 
+ 
+ Đầu mối liên hệ hợp tác dịch vụ: 
+ 
+ 
+ Phòng Kinh doanh - Công ty Cổ phần Giải pháp Thanh toán Việt Nam (VNPAY) 
+ 
+ 
+ ĐT: 04 3776 4668 - Ext 117 
+ 
+ 
+ Email: sale@vnpay.vn 
+ 
+ 
+ 
+ 
+ 2. Phạm vi áp dụng của VnTopup bao gồm: 
+ 
+ 
+ Nạp tiền cho điện thoại di động trả trước của tất cả các mạng viễn thông tại Việt Nam. 
+ 
+ 
+ Nạp tiền cho điện thoại di động trả sau của hai mạng Viettel, MobiFone. 
+ 
+ 
+ Mua thẻ cào điện thoại của các mạng viễn thông VinaPhone, Viettel, MobiFone. 
+ 
+ 
+ Mua thẻ game của các nhà cung cấp dịch vụ: Vinagame, FPT, VTC, DEC, VDC... 
+ 
+ 
+ Nạp tiền vào ví điện tử VnMart để mua hàng và thanh toán dịch vụ trực tuyến trên mạng Internet. 
+ 
+ 
+ 3. Ưu điểm của dịch vụ VnTopup: 
+ 
+ 
+ Nạp tiền điện thoại cho mình và cho người khác. 
+ 
+ 
+ Nạp tiền trực tiếp vào tài khoản điện thoại mà không cần tiền mặt hay thẻ cào 
+ 
+ 
+ Mọi lúc mọi nơi, không giới hạn thời gian 
+ 
+ 
+ Đơn giản chỉ bằng 1 tin nhắn 
+ 
+ 
+ Khách hàng vẫn được hưởng các chương trình khuyến mại của các mạng viễn thông 
+ 
+ 
+ Phương thức thanh toán hiện đại không dùng tiền mặt 
+ 
+ 
+ 4. Các đối tác đã sử dụng: 
+ I. Dành cho KH cá nhân: 
+ 1. Giới thiệu: 
+ 
+ 
+ Mobile Banking là gói dịch vụ tiện ích của Ngân hàng cung cấp cho khách hàng có tài khoản thực hiện các giao dịch với Ngân hàng qua tin nhắn SMS từ điện thoại di động. Hiện nay VNPAY đang hợp tác và cung cấp dịch vụ và tổng đài nhắn tin 8149 cho rất nhiều ngân hàng tại Việt Nam. Ngoài ra, khách hàng cũng có thể thực hiện các giao dịch tài chính khác qua SMS như: chuyển khoản nội bộ, nạp tiền điện thoại hoặc thanh toán hóa đơn. 
+ 
+ 
+ Với dịch vụ Mobile Banking, khách hàng có thể kiểm soát tài khoản ngân hàng của mình, tiết kiệm được thời gian và cập nhật thông tin tải khoản, tài chính Ngân hàng một cách nhanh nhất qua tin nhắn. 
+ 
+ 
+ 2. Các tiện ích của dịch vụ: 
+ 
+ 
+ Vấn tin số dư tài khoản 
+ 
+ 
+ Sao kê 05 giao dịch gần nhất 
+ 
+ 
+ Tự động nhận thông báo biến động số dư tài khoản. 
+ 
+ 
+ Chuyển khoản bằng tin nhắn 
+ 
+ 
+ Các dịch vụ thanh toán: Nạp tiền điện thoại di động - VnTopup, Thanh toán hóa đơn. 
+ 
+ 
+ Tra cứu tỷ giá ngoại tệ, lãi suất ngân hàng, thông tin trợ giúp 
+ 
+ 
+ v...v... 
+ 
+ 
+ 3. Ứng dụng  Mobile Banking: 
+ 
+ 
+ Mobile Banking là phần mềm ứng dụng do VNPAY nghiên cứu và phát triển. Ứng dụng Mobile Banking hiển thị được tất cả các giao dịch của Ngân hàng và có thể chạy trên được tất cả các loại điện thoại, điện thoại thông minh và máy tính bảng đang có trên thị trường. 
+ 
+ 
+ Ứng dụng Mobile Banking của VNPAY kết hợp sử dụng tính năng nhắn tin SMS cơ bản và các công nghệ tiên tiến trên các nền điện thoại thông minh như định vụ GPS, chụp ảnh và có thể sử dụng các kết nối GPRS, 3G, Wifi, để mang tới cho người dùng những trải nghiệm và tiện ích thanh toán mới, rất tiện dụng cho cuộc sống hàng ngày. 
+ 
+ 
+ Ứng dụng Mobile Banking hỗ trợ khách hàng trong việc nhớ các cú pháp nhắn tin, đồng thời làm đơn giản hóa các giao dịch mang tính phức tạp như chuyển khoản, thanh toán hóa đơn trả sau, v.v. nhờ giao diện rõ ràng, thân thiện. 
+ 
+ 
+ 4. Đối tác đã sử dụng: 
+  
+ II. Dành cho ngân hàng: 
+ 1. Giới thiệu: 
+ 
+ Mô hình hợp tác dịch vụ Mobile Banking giữa 2 bên nhằm mục đích tiết kiệm thời gian và nhân lực để nhanh nhất đưa dịch vụ ra khách hàng. Đồng thời với mô hình hợp tác dịch vụ, trong thời gian triển khai hai bên sẽ không ngừng phối hợp quảng bá, cải tiến chất lượng và mở rộng thêm nhiều dịch vụ mới 
+ 
+ 2. Hợp tác và tư vấn phát triển dịch vụ Mobile Banking: 
+ - Với mô hình hợp tác này, công ty VNPAY sẽ đóng vai trò tư vấn và phối hợp cùng Ngân hàng triển khai dịch vụ Mobile Banking: 
+ 
+ 
+ Tư vấn cho Ngân hàng các dịch vụ sẽ triển khai trên Mobile Banking. 
+ 
+ 
+ Cùng phối hợp với bộ phận nghiệp vụ, marketing để cùng khai thác và quảng bá tới khách hàng 
+ 
+ 
+ Cung cấp các dịch vụ giá trị gia tăng trên Mobile Banking 
+ 
+ 
+ Hỗ trợ vận hành và mở rộng dịch vụ để kết nối Mobile Banking với các đối tác khác 
+ 
+ 
+ - Thời gian triển khai dịch vụ thông thường 2 tháng từ khi ký kết đến đưa dịch vụ ra khách hàng do đó giúp Ngân hàng rút ngắn thời gian triển khai và tập trung nguồn lực vào các nghiệp vụ chính của Ngân hàng 
+ 3. Cung cấp giải pháp Mobile Banking: 
+ - Công ty VNPAY đã hoàn thiện và phát triển một giải pháp tổng thể về Mobile Banking để cung cấp cho các Ngân hàng. Giải pháp Mobile Banking bao gồm các thành phần chính sau: 
+ 
+ 
+ Hệ thống lõi Mobile banking để tập trung xử lý các giao dịch trực tuyến từ Mobile của khách hàng. 
+ 
+ 
+ Giao diện kết nối với hệ thống Core Banking, CMS, Switching hoặc Internet Banking. 
+ 
+ 
+ Giao diện kết nối với các nhà cung cấp dịch vụ và tổng đài SMS 
+ 
+ 
+ Hệ thống ứng dụng quản lý Mobile Banking: 
+ 
+ 
+ Đăng ký dịch vụ 
+ 
+ 
+ Quản lý nhà cung cấp 
+ 
+ 
+ Quản lý khách hàng 
+ 
+ 
+ Quản lý dịch vụ trên Mobile 
+ 
+ 
+ Cập nhật thông tin dịch vụ công cộng: ATM, chi nhánh, địa điểm 
+ 
+ 
+ Tra cứu giao dịch 
+ 
+ 
+ Quản lý phí 
+ 
+ 
+ Báo cáo 
+ 
+ 
+ 
+ 
+ Các ứng dụng Mobile Banking trên các nền điện thoại phổ biến: Nokia(Symbian), Android, IPhone, Window Mobile, BlackBerry và các dạng máy tính bảng Ipad và Android Tablet. 
+ 
+ 
+ Giải pháp Mobile Banking có thể giao tiếp với Ngân hàng qua SMS hoặc GPRS/3G/WiFi. 
+ 
+ 
+ - Với kinh nghiệm triển khai dịch vụ cho Ngân hàng nên giải pháp Mobile Banking của VNPAY được áp dụng các cơ chế bảo mật tiên tiến nhất như: 
+ 
+ 
+ Dữ liệu trao đổi đều được mã hóa và ký điện tử. 
+ 
+ 
+ Khi thực hiện các giao dịch tài chính, khách hàng đều phải xác thực mật khẩu 2 yếu tố qua SMS hoặc thiết bị token. 
+ 
+ 
+ Hệ thống tin nhắn được kết nối trực tiếp với tổng đài 8149 của VNPAY do đó giảm thiểu rủi ro và chất lượng không ổn định so với các giải pháp Mobile Banking khác. 
+ 
+ 
+ 4 . Cho thuê tổng đài tin nhắn 8149: 
+ - Tổng đài 8149 của VNPAY được đánh giá là một trong những tổng đài chất lượng nhất tại Việt Nam. Với khách hàng đang sử dụng là các Ngân hàng lớn và uy tín tại Việt Nam như: Agribank, Vietinbank, BIDV, Sacombank, Eximbank, DongABank, VPBank, OceanBank, LienvietPostBank, BaoVietBank, VietABank, NamABank, IndovinaBank ... 
+ - Các ưu điểm nổi bật của tổng đài 8149 cho dịch vụ Ngân hàng: 
+ 
+ 
+ Là tổng đài dùng riêng cho các dịch vụ Ngân hàng từ năm 2007. 
+ 
+ 
+ Chất lượng cao, tốc độ nhanh và ổn định. Tốc độ trung bình đạt 100 -> 150 SMS/giây. 
+ 
+ 
+ Vận hành 24/7, theo dõi thường xuyên dịch vụ và kịp thời phát hiện sự cố để thông báo cho đối tác. 
+ 
+ 
+ Đội ngũ chăm sóc và hỗ trợ khách hàng chuyên nghiệp qua tổng đài 1900555577, phối hợp chặt chẽ với các đồng nghiệp của Ngân hàng và Viễn thông để kịp thời giải quyết các khiếu nại của khách hàng về dịch vụ SMS. 
+ 
+ 
+ VNPAY đã triển khai các đường truyền tốc độ cao tới các nhà mạng và có các đường dự phòng để đảm bảo dịch vụ thông suốt. 
+ 
+ 
+ Kết nối được tất cả 7 nhà mạng viễn thông tại Việt Nam: Viettel, Mobifone, Vinaphone, Vietnamobile, SFone, EVNTelecom và Beeline. 
+ 
+ 
+ Có hỗ trợ gửi tin SMS kèm theo tên thương hiệu của Ngân hàng và không thu phí đặt tên thương hiệu đó. 
+ 
+ 
+ Hệ thống hạ tầng được đầu tư và triển khai với các thiết bị và máy chủ cấu hình cao nhất. Hệ thống được đặt tại DataCenter của VNPAY tại Hà Nội và TP HCM nên đáp ứng được yêu cầu an toàn và bảo mật cao nhất. 
+ 
+ 
+ Chi phí cho dịch vụ tin nhắn hợp lý, phù hợp với yêu cầu chất lượng dịch vụ cao và chuyên biệt của Ngân hàng. 
+ 
+ 
+ 5. Cung cấp dịch vụ SMS Marketing sử dụng tên thương hiệu Ngân hàng: 
+ - Cung cấp dịch vụ tin nhắn quảng cáo chính thức cho các bộ phận Marketing của các Ngân hàng để quảng cáo dịch vụ của Ngân hàng. Danh sách quảng cáo có thể do Ngân hàng cung cấp hoặc từ danh sách của các công ty Viễn thông. 
+ 6. Đầu mối liên hệ hợp tác dịch vụ: 
+ 
+ 
+ Phòng Kinh doanh - Công ty Cổ phần Giải pháp Thanh toán Việt Nam (VNPAY) 
+ 
+ 
+ ĐT: 04 3776 4668 - Ext 117 
+ 
+ 
+ Email: sale@vnpay.vn 
+ 
+ 1. Giới thiệu: 
+ a. Dành cho nhà cung cấp dịch vụ: 
+ 
+ 
+ Dịch vụ Bill Payment là kênh thanh toán mới giúp nhà cung cấp thu phí sử dụng dịch vụ thông qua tài khoản của khách hàng tại ngân hàng. Số tiền bị trừ trong tài khoản đúng bằng số tiền cước khách hàng sử dụng hóa đơn. Với việc kết nối Bill Payment, các nhà cung cấp dịch vụ sẽ có thêm một kênh thanh toán mới, giảm thiểu chi phí cho nhân viên thu cước, các điểm thu cước, phục vụ khách hàng ngày càng tốt hơn bằng việc đem lại cho họ nhiều tiện ích mới, đa dạng. Cùng với đó, phương thức thanh toán không dùng tiền mặt sẽ giúp tránh được các rủi ro xảy ra với các khoản tiền công ty thu được từ khách hàng như: mất tiền, tiền giả… 
+ 
+ 
+ Các nhà cung cấp triển khai dịch vụ thanh toán hóa đơn: 
+ 
+ 
+ Viettel: thanh toán cước điện thoại di động trả sau, cước Internet ADSL, cước điện thoại cố định không dây (HomePhone), cước điện thoại cố định có dây (PSTN). 
+ 
+ 
+ MobiFone: thanh toán cước điện thoại di động trả sau. 
+ 
+ 
+ S-Fone: thanh toán cước điện thoại di động trả sau. 
+ 
+ 
+ 
+ 
+ b. Dành cho Khách hàng: 
+ 
+ 
+ Dịch vụ VnPayBill - Thanh toán hóa đơn giúp khách hàng của Ngân hàng có thể thanh toán các hóa đơn dịch vụ (điện thoại di động trả sau, điện thoại cố định, Internet ADSL, điện, nước, …) bằng cách nhắn tin từ điện thoại di động, qua Internet Banking, máy ATM, đăng ký dịch vụ ủy nhiệm thu tự động tại ngân hàng hoặc thanh toán trực tuyến tại  website http://vban.vn . Số tiền bị trừ trong tài khoản ngân hàng đúng bằng số tiền cước khách hàng sử dụng hóa đơn. 
+ 
+ 
+ Các nhà cung cấp triển khai dịch vụ thanh toán hóa đơn: 
+ 
+ 
+ Viettel: Thuê bao điện thoại di động trả sau, thuê bao điện thoại cố định có dây (PSTN), thuê bao điện thoại cố định không dây (HomePhone), Internet ADSL. 
+ 
+ 
+ MobiFone: Thuê bao điện thoại di động trả sau. 
+ 
+ 
+ S-Fone: Thuê bao điện thoại di động trả sau . 
+ 
+ 
+ Tập đoàn Điện lực Việt Nam (EVN): hóa đơn tiền điện 
+ 
+ 
+ 
+ 
+ c. Dành cho ngân hàng: 
+ 
+ 
+ Thanh toán hóa đơn (Bill Payment) là dịch vụ công ty VNPAY cung cấp cho các Ngân hàng để khách hàng của Ngân hàng có thể dùng tài khoản của mình thanh toán cho các hóa đơn (điện thoại di động trả sau, điện thoại cố định, ADSL, …) qua các kênh thanh toán của ngân hàng như SMS, Internet Banking, Mobile Banking, ATM hoặc đăng ký nhờ thu tự động. Số tiền bị trừ trong tài khoản đúng bằng số tiền cước khách hàng sử dụng hóa đơn 
+ 
+ 
+ Lợi ích của ngân hàng khi kết nối dịch vụ thanh toán hóa đơn: 
+ 
+ 
+ Gia tăng dịch vụ đối với khách hàng, nhờ đó tăng khả năng cạnh tranh, thu hút khách hàng mở tài khoản tại ngân hàng 
+ 
+ 
+ Giữ chân khách hàng trung thành nhờ có nhiều tiện ích thanh toán gắn với chi tiêu hàng ngày của họ. 
+ 
+ 
+ Thu được khoản phí dịch vụ thanh toán do đó làm tăng lợi nhuận cho ngân hàng 
+ 
+ 
+ Giảm thiểu thời gian giao dịch tại ngân hàng cho khách hàng, phát triển các dịch vụ Ngân hàng điện tử 
+ 
+ 
+ Tạo đà để phát triển thêm nhiều loại hình khác như: thu tiền điện, tiền internet, truyền hình cáp, phí học đường… 
+ 
+ 
+ 
+ 
+ Đầu mối liên hệ hợp tác dịch vụ: 
+ 
+ 
+ Phòng Kinh doanh - Công ty Cổ phần Giải pháp Thanh toán Việt Nam (VNPAY). 
+ 
+ 
+ ĐT: 04 3776 4668 - Ext 117 
+ 
+ 
+ Email: sale@vnpay.vn 
+ 
+ 
+ 
+ 
+ 2. C ác đ ối tác đã sử dụng : 
+ 1. Dành cho Website TMĐT: 
+ a . Giới thiệu : 
+ 
+ 
+ Cổng thanh toán VnPayment là hệ thống trung gian truyền dẫn, trao đổi và xử lý các giao dịch thanh toán giữa người tiêu dùng có thẻ, tài khoản ngân hàng hoặc ví điện tử với các Doanh nghiệp cung cấp hàng hoá, dịch vụ trên Internet. Cổng thanh toán VnPayment do Công ty Cổ phần Giải pháp Thanh toán Việt Nam (VNPAY) xây dựng, triển khai và vận hành. Cổng thanh toán đáp ứng được yêu cầu cao nhất về các yếu tố bảo mật và được NHNN và các Ngân hàng tại Việt Nam chứng nhận. 
+ 
+ 
+ Chính thức đi vào hoạt động từ tháng 8/2011 với mục tiêu phát triển một phương thức thanh toán đơn giản, tiện lợi; làm giảm chi phí xã hội và thay đổi thói quen mua sắm truyền thống của đại bộ phận dân chúng, hiện nay cổng thanh toán VnPayment đã kết nối với 32 website thương mại điện tử của 25 đối tác Doanh nghiệp với nhiều loại hàng hóa, dịch vụ đa dạng và phong phú. 
+ 
+ 
+ Trong thời gian tới, VNPAY sẽ tiếp tục mở rộng kết nối với các Doanh nghiệp và Ngân hàng, nhằm đem lại lợi ích tối đa cho khách hàng. 
+ 
+ 
+ b . Mô hình kết nối Doanh nghiệp - Cổng thanh toán VnPayment: 
+ 
+ 
+ c . Lợi ích của Doanh nghiệp khi kết nối Cổng thanh toán VnPayment: 
+ 
+ 
+ Mở rộng nhiều hình thức thanh toán trực tuyến bằng thẻ hoặc tài khoản ngân hàng, thu hút được các khách hàng tiềm năng. 
+ 
+ 
+ Triển khai kết nối đơn giản, việc thanh toán dễ dàng do không cần phải mở tài khoản tại nhiều Ngân hàng. 
+ 
+ 
+ Mức phí cạnh tranh và nhận được nhiều hỗ trợ từ VNPAY trong quảng bá sản phẩm tới khách hàng Ngân hàng. 
+ 
+ 
+ d . Đầu mối liên hệ hợp tác dịch vụ: 
+ 
+ 
+ Phòng Thương mại điện tử - Công ty Cổ phần Giải pháp Thanh toán Việt Nam (VNPAY). ĐT: 04 3776 4668 - Ext 199 
+ 
+ 
+ 
+ 2. Dành cho ngân hàng: 
+ a. Giới thiệu: 
+ 
+ Với phương châm hoạt động "	"Cho cuộc sống đơn giản hơn"	", trong thời gian tới, VNPAY sẽ tiếp tục phát triển cơ sở hạ tầng kỹ thuật, đơn giản hoá các thủ tục thanh toán; đồng thời tăng cường hợp tác với các Doanh nghiệp cung cấp hàng hoá, dịch vụ và Ngân hàng nhằm đem lại nhiều sự lựa chọn hơn cho các Khách hàng có thẻ hoặc tài khoản tại Ngân hàng. 
+ 
+ b. Quy trình dịch vụ: 
+ 
+ c. Mô tả luồng giao dịch: 
+ 
+ 
+ Khách hàng lựa chọn hàng hoá, dịch vụ tại các website thương mại điện tử và chọn nút thanh toán. 
+ 
+ 
+ Khách hàng sẽ được chuyển đến giao diện cổng thanh toán VnPayment. Khách hàng lựa chọn hình thức thanh toán qua tài khoản Ngân hàng A và nhập các thông tin về tài khoản thẻ. 
+ 
+ 
+ Cổng thanh toán VnPayment chuyển thông tin về tài khoản thẻ và yêu cầu thanh toán đơn hàng sang hệ thống xác thực của Ngân hàng A. 
+ 
+ 
+ Ngân hàng A xác thực tính hợp lệ các thông tin, số dư tài khoản thẻ của Khách hàng và thực hiện thanh toán theo yêu cầu. Sau đó thông báo về kết quả thực hiện giao dịch sang cổng thanh toán VnPayment. 
+ 
+ 
+ Cổng thanh toán VnPayment gửi thông báo kết quả thực hiện giao dịch sang website thương mại điện tử, đồng thời hiển thị thông báo giao dịch đã thành công cho Khách hàng. 
+ 
+ 
+ 
+ d. Mô hình kết nối: 
+ 
+ 
+ e. Lợi ích Ngân hàng khi kết nối Cổng thanh toán VnPayment: 
+ 
+ 
+ Tăng tiện ích thẻ: Việc triển khai kết nối thanh toán trực tuyến trên cổng thanh toán VnPayment sẽ làm tăng tiện ích thẻ của Ngân hàng. Ngoài các tính năng truyền thống như rút tiền, chuyển tiền,… khách hàng còn có thể sử dụng thẻ để thực hiện các giao dịch thanh toán trực tuyến trên các website thương mại điện tử. Tính năng mới này chắc chắc sẽ nâng cao khả năng cạnh tranh với sản phẩm thẻ của các Ngân hàng khác 
+ 
+ 
+ Cơ hội quảng bá thương hiệu, sản phẩm thẻ : Trên cổng thanh toán VnPayment và các website khác do VNPAY phát triển và quản lý sẽ liên tục cập nhập và đăng tải các chương trình khuyến mại, tin tức về sản phẩm mới của Ngân hàng. Với số lượng khách hàng truy cập các website ngày càng tăng, đây chính là kênh quảng bá hiệu quả cho sản phẩm và thương hiệu của Ngân hàng. 
+ 
+ 
+ Chia sẻ lợi nhuận: Đối với các giao dịch thanh toán qua tài khoản Ngân hàng tại cổng thanh toán VnPayment, Ngân hàng sẽ được hưởng một khoản phí xử lý giao dịch. Mức phí này được tính dựa trên giá trị giao dịch thành công. 
+ 
+ 
+ Giảm chi phí phát triển đại lý chấp nhận thẻ trên Internet: Đối với các website TMĐT trên Internet, Ngân hàng không đủ nguồn lực để đi phát triển và kết nối. Việc hướng các website TMĐT sang cổng thanh toán VnPayment vừa làm giảm chi phí vận hành và kết nối đồng thời các website cũng được hỗ trợ dịch vụ tốt hơn. 
+ 
+ 
+ 
+ 
+ f. Đầu mối liên hệ hợp tác dịch vụ: 
+ 
+ 
+ Phòng Kinh doanh - Công ty Cổ phần Giải pháp Thanh toán Việt Nam (VNPAY) 
+ 
+ 
+ ĐT: 04 3776 4668 - Ext 117 
+ 
+ 
+ Email: sale@vnpay.vn 
+ 
+ 
+ Mobile: 0988 710 288 
+ 
+ 
+  
+ 1. Dành cho KH: 
+ a. Giới thiệu: 
+  
+ 
+ 
+ Ví điện tử VnMart là một tài khoản ví tiền trung gian do công ty VNPAY vận hành và được cấp theo theo Quyết định số 675/QĐ-NHNN ra ngày 30/03/2009 
+ 
+ 
+ Khách hàng có thể đăng ký ví điện tử dễ dàng tại website https://www.vnmart.vn . 
+ 
+ 
+ b. Các tính năng của ví điện tử VnMart: 
+ 
+ 
+ Mỗi ví điện tử gắn liền với 1 số điện thoại di động của khách hàng. 
+ 
+ 
+ Khách hàng có thể nạp tiền trực tiếp từ tài khoản ngân hàng vào ví điện tử. 
+ 
+ 
+ Sử dụng ví điện tử để thanh toán các dịch vụ, sản phẩm mua trực tuyến trên InternetAn toàn, bảo mật và tránh được rủi ro khi thực hiện mua hàng bằng thẻ tín dụng hoặc tài khoản ngân hàng.Có đầy đủ các tính năng để khách hàng quản lý ví điện tử trên Internet: Tra số dư, Xem lịch sử giao dịch tài khoản ví, Xem lịch sử mua hàngVí điện tử có cung cấp bản ứng dụng trên Mobile cho phép khách hàng thực hiện giao dịch thuận tiện trên điện thoại di động của mình. Quý khách soạn tin: SET VMB gửi 8149 để nhận đường link download ứng dụng Mobile VnMart 
+ 
+ 
+ Trong thời gian tới Ví điện tử VnMart được phát triển rộng rãi trong thanh toán các sản phẩm dịch vụ không online như: tiền taxi, hóa đơn mua hàng .... 
+ 
+ 
+ d. Đối tác đã sử dụng: 
+ 
+ 
+ 2. Dành cho Website TMĐT : 
+ a, Giới thiệu: 
+ 
+ 
+ Ví điện tử VnMart là một tài khoản ví tiền trung gian do công ty VNPAY vận hành và được cấp theo theo Quyết định số 675/QĐ-NHNN ra ngày 30/03/2009 
+ 
+ 
+ Trong mô hình kinh doanh TMĐT, công đoạn thanh toán là vai trò quan trọng nhất trong mô hình. Công ty VNPAY đưa ra giải pháp sử dụng Ví điện tử VnMart để thu hộ tiền cho các doanh nghiệp kinh doanh TMĐT với cách thức tích hợp đơn giản nhất. 
+ 
+ 
+ b. Các bước 
+ 
+ 
+ Bước 1 : Doanh nghiệp liên hệ với bộ phận TMĐT của VNPAY để đề xuất việc kết nối thu hộ 
+ 
+ 
+ Bước 3 : Kiểm tra và chạy thử dịch vụ 
+ 
+ 
+ Bước 4 : Thông báo cho khách hàng của website TMĐT và khách hàng đang sử dụng ví điện tử VnMart 
+ 
+ 
+ Mỗi doanh nghiệp khi kết nối sẽ được cấp 1 tài khoản Ví điện tử Doanh nghiệp với đầy đủ các chức năng quản lý tài khoản tại website www.vnmart.vn : Tra cứu số dư, Lịch sử giao dịch, dịch vụ SMS thông báo khi có đơn hàng thanh toán... 
+ 
+ 
+ Đối với các giao dịch thu hộ, khi đạt đến một thời điểm hoặc số tiền giao dịch nhất định, công ty VNPAY sẽ thực hiện chuyển tiền vào tài khoản của Doanh nghiệp tại Ngân hàng 
+ 
+ 
+ c. Lợi ích Doanh nghiệp khi kết nối ví điện tử VnMart : 
+ 
+ 
+ Mở rộng thêm khách hàng đang sở hữu Ví điện tử VnMart và khách hàng có tài khoản Ngân hàng. Đây là lượng khách hàng tiềm năng và đều có sẵn tiền trong tài khoản Ngân hàng để thực hiện mua bán trực tuyến/ 
+ 
+ 
+ Phối hợp với VNPAY để quảng bá sản phẩm dịch vụ trên các website và quầy giao dịch của Ngân hàng 
+ 
+ 
+ Thanh toán nhanh chóng, dễ dàng. Mức phí được hỗ trợ tối đa từ công ty VNPAY 
+ 
+ 
+ Được hỗ trợ kỹ thuật và ưu đãi trong cung cấp các dịch vụ tiện ích: SMS Marketing, Website bán hàng, Điểm trưng bày hàng mẫu.. 
+ 
+ 1. Giới thiệu: 
+ 
+ Là dịch vụ do công ty VNPAY kết hợp cùng tất cả các mạng di động tại Việt Nam cung cấp, cho phép chủ thuê bao di động có thể trở thành một điểm bán hàng với các dịch vụ cung cấp như: nạp tiền điện thoại trả trước, bán mã thẻ cào, thanh toán hóa đơn trả sau, bán bảo hiểm và các dịch vụ khác. Hoa hồng bán hàng linh hoạt và chiết khấu trước cho đại lý. 
+ 
+ 2. Lợi ích vượt trội của SIM đa năng VNPAY: 
+ 
+ 
+ Đăng ký dễ dàng không mất phí, chỉ cần 01 SIM cho mọi nhu cầu, thích hợp với mọi đời máy. 
+ 
+ 
+ Một tài khoản SIM, bán được nhiều thứ: nạp tiền điện thoại, thanh toán cước trả sau, thẻ game, bảo hiểm ô tô, xe máy,.... 
+ 
+ 
+ Hoa hồng hấp dẫn: chiết khấu 2 lần, lần đầu khi đặt hàng và lần bổ sung khi bán hàng. 
+ 
+ 
+ Tiết kiệm 90% vốn kinh doanh, chỉ cần 01 triệu đồng để trở thành đại lý thẻ cào nạp tiền cho tất cả các mạng. 
+ 
+ 
+ Bán hàng mọi lúc, mọi nơi, thao tác nạp tiền nhanh chóng, thuận tiện: qua tin nhắn SMS, online qua website www.simdanang.vn hoặc qua đại lý. 
+ 
+ 
+ Không phải quản lý mã thẻ, không lo thiếu hàng, không tồn kho. 
+ 
+ 
+ Quản lý dễ dàng tài khoản, tra cứu các giao dịch đã thực hiện, chuyển tiền cho Sim đa năng khác qua tin nhắn SMS hoặc trực tuyến trên www.simdanang.vn 
+ 
+ 
+ Nạp tiền trực tiếp và dễ dàng từ tài khoản ngân hàng. 
+ 
+ 
+ Dễ dàng phát triển kênh bán hàng riêng 
+ 
+ 
+ Được hỗ trợ bán hàng 24/7 
+ 
+ 
+ Được hoàn tiền nhanh chóng cho các giao dịch không thành công. 
+ 
+ 
+ 3. Đầu mối liên hệ hợp tác dịch vụ: 
+ 
+ 
+ Phòng Bán hàng - Công ty Cổ phần Giải pháp Thanh toán Việt Nam (VNPAY) 
+ 
+ 
+ Khu vực miền Bắc: 04 8585 8885 
+ 
+ 
+ Khu vực miền Nam: 08 3507 4546 
+  
+ 
+ 
+ 
+ 1. Giới thiệu: 
+ 
+ 
+ Dịch vụ tổng đài đặt vé hỗ trợ toàn quốc 1900 55 55 20 được vận hành bởi VnTicket là một đơn vị đối tác trực thuộc của VNPAY. Quý khách có thể gọi điện tới số tổng đài để đặt vé máy bay, tàu hỏa, xe buýt tại bất cứ đâu, ở bất kỳ thời điểm nào. Sau khi nhận được Mã thanh toán, quý khách có thể thanh toán trực tuyến trên website hoặc tại các kênh phân phối của Ngân hàng hợp tác với VNPAY như: Internet Banking, Mobile Banking, Máy ATM và Quầy Giao dịch. 
+ 
+ 
+ 2 . Các dịch vụ cung cấp trên tổng đài đặt vé 1900 55 55 20: 
+ 
+ 
+ Đặt vé máy bay 3 hãng hàng không trong nước: Vietnam Airline, Jetstar và Air Mekong 
+ 
+ 
+ Đặt vé máy bay của 27 hãng hàng không quốc tế: Air Asia, Tiger Airway, Quatas, ... 
+ 
+ 
+ Hiện tại khách hàng có thể gọi điện đặt vé và thanh toán tại: 
+ 
+ 
+ Cổng dịch vụ thanh toán và mua hàng trực tuyến tại địa chỉ http://vban.vn 
+ 
+ 
+ Trên Internet Banking của Ngân hàng Sacombank tại địa chỉ http://www.e-sacombank.com.vn 
+ 
+ 
+ Tại Quầy giao dịch của các Ngân hàng Agribank và Sacombank 
+ 
+ 
+ 
+ 

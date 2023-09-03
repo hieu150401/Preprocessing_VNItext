@@ -1,0 +1,1 @@
+ Một số lưu ý đối với cửa hàng và ĐLC: - Khi khách hàng hòa mạng, phải kiểm tra trước đó trong vòng 48h có hòa mạng số nào rồi hay không. - Kiểm tra kỹ CMND vì đang có tình trạng giả CMND (dán hình khác đè lên CMND , kiểm tra thử trên hệ thống mình có CMND nào trùng số mà khác ảnh không sẽ phát hiện được). 

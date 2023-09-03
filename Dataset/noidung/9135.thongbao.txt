@@ -1,0 +1,19 @@
+ 
+ MobiFone không tăng giá mà là cung cấp gói MIU mới với dung lượng lớn hơn. Gói MIU mới với giá cước 50.000đ sử dụng trong 30 ngày, với dung lượng 600MB, sử dụng quá 600MB KH sẽ truy cập data miễn phí ở tốc độ mạng 2G. Với dung lượng gói nhiều hơn sẽ giúp anh/ chị thêm cơ hội, thời gian lướt net, đọc báo với tốc độ đường truyền như ý nhiều hơn. 
+ Song song đó, MobiFone còn có các điều chỉnh mới mang lại nhiều lợi ích đến KH: 
+ 
+ Cung cấp gói mới Big MIU : với giá cước 200.000 được miễn phí 3,5GB tốc độ cao, quá 3,5G KH sẽ truy cập data miễn phí ở tốc độ mạng 2G. 
+ Phương thức tính cước cũ từ 10kB + 10kB được áp dụng thành 50kB + 50kB ... 
+ 
+ 
+ 
+ Ở các vùng giáp ranh biên giới, hiện tượng giao thoa sóng giữa các mạng của hai quốc gia luôn luôn xảy ra. Nguyên nhân là do các mạng phải phát sóng đủ mạnh để đảm bảo chất lượng dịch vụ cho khách hàng, nên sẽ có hiện tượng sóng di động của mạng nước bạn chờm vào lãnh thổ của Việt Nam cũng tương tự như sóng di động của MobiFone phát chờm sang lãnh thổ của nước bạn. Và các thuê bao đang trong nước nhưng gần khu vực biên giới, có thể cập nhật sóng mạng khách và bị tính cước chuyển vùng Quốc tế. 
+ Để tránh trường hợp này thi anh/ chị nên huỷ dịch vụ CVQT khi không có nhu cầu sử dụng, hoặc vào chức năng điện thoại chọn mạng nhân công (và chọn mạng MobiFone) để tránh bị tình trạng cập nhật mạng khách khi ở khu vực biên giới. 
+ 
+  
+ Theo qui định của Hiệp hội di động toàn cầu, khi khách hàng chuyển vùng vào mạng khách, mạng chủ phải gửi tin nhắn (tin nhắn này được gọi là Welcome SMS) thông báo nhập mạng nước ngoài thành công. 
+ Đối với trường hợp này, mặc dù anh/ chị đứng trên lãnh thổ Việt Nam nhưng do thiết bị của anh/ chị đã cập nhập vào mạng nước bạn nên hệ thống hiểu là anh/ chị đang ở nước bạn và gửi tin nhắn đến anh/ chị. Hiện nay đối với các trường hợp KH đang ở vùng biên giới Trung Quốc, Lào, Campuchia nội dung tin Welcome SMS của MobiFone sẽ có nội dung nhằm cảnh báo đến KH lưu ý lựa chọn mạng khi ở vùng biên giới để tránh phát sinh cước ngoài ý muốn. 
+ Vì vậy anh/ chị nên huỷ dịch vụ CVQT khi không có nhu cầu sử dụng, hoặc vào chức năng điện thoại chọn mạng nhân công (và chọn mạng MobiFone) để tránh bị tình trạng cập nhật mạng khách khi ở khu vực biên giới. 
+ 
+ Anh/ chị vẫn có thể sử dụng mạng của MobiFone bằng cách vào chức năng điện thoại chọn mạng nhân công (và chọn mạng MobiFone), điều này giúp anh/ chị tránh tình trạng tự động cập nhật mạng khách. Sau khi chọn mạng MobiFone thành công anh/ chị sẽ sử dụng dụng dịch vụ hoàn toàn bình thường, không cần phải chuyển đổi gì cả. 
+ 

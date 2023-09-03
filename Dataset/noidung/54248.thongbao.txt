@@ -1,0 +1,1 @@
+ Cụ thể: - Thông tin cũ Tỷ lệ chuyển: 100 điểm từ TK tặng = 90 điểm TK nhận. Điều kiện: tối thiểu 100 điểm / lần chuyển và là bội số của 100. - Thông tin điều chỉnh: Tỷ lệ chuyển: 100 điểm từ TK tặng = 8 0 điểm TK nhận. Số điểm tối thiểu để chuyển là 2.000 điểm. 

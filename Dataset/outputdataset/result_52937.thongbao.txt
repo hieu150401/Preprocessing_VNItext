@@ -1,0 +1,1 @@
+STT Đầu số Mức cước hiện_tại ( đồng / phút ) Mức cước điều_chỉnh ( đồng / phút ) Chưa VAT Đã có VAT Chưa VAT Đã có VAT 1 19003265 2.727 3.000 909 1.000 2 19003225 2.727 3.000 909 1.000

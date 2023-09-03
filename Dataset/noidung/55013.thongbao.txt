@@ -1,0 +1,1 @@
+ Cập nhật thông tin đến hiện tại như sau: Lỗi các gói data IP do lỗi kết nối đến CCSP của TT MDS đang xử lý, các giao dịch vẫn chưa thực hiện được. Lỗi liên quan đến các nghiệp vụ HRL đã xử lý xong, ĐTV kiểm tra lại (tra cứu, đấu sim, đăng ký/gia hạn/ hủy các gói cước khác gói data IP). Trung tâm TCTK đang quét gia hạn cho các thuê bao còn tiền trong tài khoản chính. 

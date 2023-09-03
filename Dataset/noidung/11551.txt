@@ -1,0 +1,182 @@
+ STT Ngày Tiêu đề Link liên quan </span
+> Nội dung Ví dụ Nhân viên 18 <span style="mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-
+language: AR-SA; mso-fareast-theme-font: minor-latin">06/11/2013 Kiểm tra Group của QSV, Q263 Chi tiết Trường hợp KH phản ánh gọi đến thành viên trong nhóm (<span s
+tyle="color: blue">đăng ký qua 9227) nhưng không được giảm cước, AC vui lòng vào T ra cứu 145U t ility (Bên trái màn hình)Family Group để xem KH có đăng đúng số hoặc đăng ký số đó thành công không? 1265963633 (FB) <span style="fo
+nt-size: small"> Trung 17 06/11/2013 Điều kiện cộng KM của bộ 0đ </s
+pan> Chi tiết KH phản ánh chưa được cộng KM 100% cho thẻ nạp đầu tiên của bộ 0đ , AC kiểm tra kỹ xem KH có bị khóa 2C không? Vì Điều kiện để được KM : 
+- Thẻ đầu tiên (KM 100%): nạp tiền trước khi bị khóa 2 chiều (kể từ khi kích hoạt). - 5 thẻ tiếp theo (KM 50%): nạp trước khi khoá 1 chiều, trước ngày thứ 90 kể từ ngày kích hoạt. 907815240 (FB) <span style="mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA; mso-fareast-theme-font: m
+inor-latin">Trung 
+ 
+ 16 
+ 06/11/2013 
+ CTKM duy trì KH trả trước tháng 11/2013 
+ Chi tiết 
+ 
+ Kiểm tra xem KH có thuộc đối tượng KM hay không, AC vui lòng kiểm tra các bước: 
+ - Tra cứu danh sách khuyến mãi hoặc Lịch sử khuyến mãi trên Tra cứu 145; 
+ - Tra cứu SMSQC xem 090 có gởi SMS KM không? (Vào http://cskh-vas.vms.com.vn:7777/sso/jsp/signoff-ex.jsp , chọn mục SMS QC 090) 
+ - Tra cứu chi tiết cuộc gọi xem KH có nạp tiền bằng M2U không? 
+ - 1227201049 (Không thuộc đối tượng) 
+ - 1222513434 (Thuộc đối tượng nhưng nạp bằng M2U) 
+ Trung 
+ 
+ 15 03/11/2013 Khu yến m ãi gói thoại TBTT (101, Y5 , Y20, ...) <td bgcolor="#e3ecf4" style="
+text-align: center"> KH đăng ký gói thoại TBTT cần lưu ý sau khi hệ thống phản hồi đã đăng ký gói thành công thì KH thực hiện cuộc gọi mới đ ược hưởng KM 939526056 (FB, g&
+oacute;i Y5) Năm 14 03/11/2013 Khuyến mãi gói <span style="color: black; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-f
+areast-language: EN-US; mso-bidi-language: AR-SA">t hoại 101 Chi tiết KH thuộc đối tượng mua gói 101 và đang ở Tp HCM: đề nghị KH KHÔNG mua gói . D o gói này sẽ không đư&#790
+7;c tính KM khi gọi tại TpHCM. 907385646 (FB) Năm 13 01/11/2013 KM kết bạn <td bgcolor="#e3ecf4" style="text-align: cente
+r"> KH phản ánh có đăng ký gói kết bạn nhưng gọi vẫn bị trừ tiền , Đ TV vào T ra cứu 145/ Tra cứu tài khoản phụ IN ICC , dòng Tai khoan thoai KM co thoi han (VOICE_TH) (s) và chi tiết cước kiểm tra xem thuê bao KH còn số phút gọi miễn phí không, nếu số phút gọi miễn phí hết thì 
+ KH thực hiện cuộc gọi sẽ bị trừ cước 907275849 Năm 
+
+ 12 29/10/2013 Nâng cấp gói cước KM VNPT Chi tiết Trường hợp KH soạn tin nâng cấp gói cước VNPT máy báo: "	"Qúy khách không đủ điều kiện đ&#78
+75; tham gia chương trinh"	", AC vui lòng vào LS gói cước (Tra cứu 145) xem gói cước hết hạn ngày nào? Nếu chu kỳ cuối thì thông báo với KH luôn vì theo quy định: "	"Không được nâng cấp vào chu kỳ cuối của thời gian hưởng KM"	" 939937022 Trung 
+ 
+ 11 
+ 29/10/2013 
+ 
+ Chìa khóa vàng 
+ 
+ Chi tiết 
+ 
+ KH phản ánh nhận nhiều hơn 15 câu hỏi của DV chìa khóa vàng: 
+ Nguyên nhân: Sau khi nhận đủ 15 câu hỏi, hệ thống sẽ gởi tiếp câu hỏi thứ 16. Nếu câu hỏi thứ 16 KH tiếp tục trả lời thì có nghĩa KH đăng ký nhận thêm 15 câu hỏi tiếp theo . 
+ 
+ 
+ 939059484 
+ 
+ Trung 
+ 
+ 
+ 10 
+ 27/10/2013 
+ 
+ Khuyến mại ĐK gói Y70 
+ 
+ 
+ 
+ Khách hàng đăng ký thêm gói cước trong thời gian gói cũ còn hiệu lực thì số phút được cộng dồn còn thời gian sử dụng sẽ tính theo gói cước trước đó. 
+ 
+ 
+ 1285036572 
+ 
+ 
+ Năm 
+ 
+ 
+ 
+ 9 
+ 27/10/2013 
+ 
+ Khuyến mại định kỳ bộ 0đ và M0 kích hoạt tháng 07 
+ 
+ Chi tiết 
+ 
+ Đối với thuê bao kích hoạt tháng 07/2013 thì dk để nhận khuyến mại định kỳ ngoài việc nạp tiền thì thuê bao buộc phải ĐK nhận SMS QC thì mới đủ dk nhận KMDK. 
+ 
+ 
+ 1286934473 
+ 
+ Năm 
+ 
+ 
+ 8 
+ 27/10/2013 
+ 
+ Khuyến mãi kết bạn 
+ 
+ 
+ 
+ Thuê bao có đăng ký kết bạn, nhưng thực hiện cuộc gọi roaming sóng vina thì cuộc gọi không được hưởng khuyến mại, và bị trừ cước bình thường => ĐTV có thể tra cứu trả lời khách hàng. 
+ 
+ 
+ 939698508 
+ 
+ Năm 
+ 
+ 
+ 7 
+ 26/10/2013 
+ Cào thẻ thả ga - Nhận vé Megastar 
+ Chi tiết 
+ 
+ KH đã soạn tin Megastar_ gui 999 và đã nhận được mã code nhưng đã lỡ xóa mã code và hiện tại KH muốn nhận lại. Trường hợp này AC hướng dẫn KH truy cập vào website chương trình: http://hssv.mobifone.com.vn (đăng nhập bằng tài khoản Mobifone Portal). Đăng nhập xong chọn mục Xem điểm/đổi vé để biết mã 
+số và cung cấp mã số này khi đổi phiếu. 
+ 
+ 
+ 902101005 
+ 
+ Trung 
+ 
+ 
+ 6 
+ 24/10/2013 
+ KM kèm M9000 
+ Chi tiết 
+ Chương trình KM bán máy Smartphone M9000 (ZTE MF626+): Nếu thuê bao KH không đủ điều kiện nhận KM định kỳ thì KH cũng sẽ không được cập nhật gói MIU. Tuy nhiên hệ thống Selfcare sẽ vẫn lưu vết gói MIU để tiếp tục xét gia hạn KM cho KH nếu tháng sau KH đủ điều kiện (MIU được gia hạn trên Seflcare nhưng 145 không có vết) => KH sẽ không tự đăng ký gói MI khác để dùng tạm (vì Selfcare đang có vết MIU) 
+ => Nếu gặp trường hợp như trên và KH muốn đăng ký gói MI khác dùng tạm thì AC lưu ý với KH là "	" nếu đăng ký sẽ không được KM data cho các tháng sau nữa"	" và nhập FB để TXL hỗ trợ cho KH. 
+ 
+ LƯU Ý: Trường hợp Selfcare lưu vết mục đích là để xét KM MIU ở chu kỳ tiếp theo chứ thuê bao KH thực sự không có gói (tra cứu 145 không có vết) -> nếu truy cập thì vẫn tính theo M0 bình thường. 
+ 907431587 
+ Duy 
+ 
+ 
+ 5 
+ 23/10/2013 
+ Khuyến mãi khi mua bộ thiết bị PFC trả trước span> 
+ Chi tiết 
+ PFC kèm thiết bị hưởng KM định 1.7GB/tháng kích hoạt trong tháng 7 không được hưởng KM trong tháng 10, do rong tháng thứ 3 không nạp >=20.000đ, ĐTV lưu ý hướng dẫn KH nạp tiền để được cộng vào kỳ kế tiếp, số lần mất này sẽ được bảo lưu=> Không ghi nhận FB 
+ 1204765398 (FB) 
+ Năm 
+ 
+ 
+ 4 
+ 23/10/2013 
+ Cào thẻ thả ga - Nhận vé Megastar 
+ Chi tiết 
+ Cào thẻ thả ga nhận vé Megastar: KH phản ánh chưa nhận được tin nhắn khi tích lũy đủ 150 điểm sau 10h ngày hôm sau thì hướng dẫn KH soạn tin Megastar_<dia chi email> gui 999 để nhận mã số=> Không ghi nhận FB 
+ 909401375 (FB) 
+ Năm 
+ 
+ 
+ 3 
+ 23/10/2013 
+ Khuyến mãi gói 101 
+ 
+ KH thực hiện cuộc gọi không được ưu đãi khi có gói 101, do thuê bao khách hàng thực hiện cuộc gọi roaming sóng vina nên cuộc gọi đó không được hưởng khuyến mại, ĐTV lưu ý trả lời và hướng dẫn KH chọn mạng thủ công=> Không ghi nhận FB 
+ 939296181 (FB) 
+ Năm 
+ 
+
+ 
+ 2 
+ 22/10/2013 
+ Thoại 101, FnF không được ưu đãi khi Roaming sang vina 
+ 
+ TXL_MBF KV 9:Thoại 101, FnF không được ưu đãi khi thực hiện cuộc gọi roaming sang sóng vina (Homezone: 8491xxxxxxx), ĐTV lưu ý hướng dẫn KH chọn mạng thủ công Mobifone=> Không ghi nhận FB 
+ 
+ Thanh 
+ 
+ 
+ 1 
+ 
+ 11/10/2013 
+ 
+ 
+ TBTT phát triển mới tháng 7 không nhận được KM định kỳ 30K/tháng 
+ 
+ 
+ 
+ Chi tiết 
+ 
+ 
+ TBTT phát triển mới tháng 7 không nhận được KM định kỳ do TB không thực hiện đăng ký nhận SMS quảng cáo. 
+ => ĐTV lưu ý hướng dẫn KH đăng ký để hưởng KM lần sau. Cách xem TB có đăng ký nhận SMS quảng cáo hay không => xem file đính kèm . 
+ 
+ 1287978527, 1286928082, 1287978633 
+ 
+ 
+ Thanh 
+ 
+ 
+ 
+ ":"  STT Ngày Tiêu đề Link liên quan Nội dung Ví dụ Nhân viên 18 06/11/2013 Kiểm tra Group của QSV, Q263 Chi tiết Trường hợp KH phản ánh gọi đến thành viên trong nhóm ( đăng ký qua 9227) nhưng không được giảm cước, AC vui lòng vào T ra cứu 145U t ility (Bên trái màn hình)Family Group để xem KH có đăng đúng số hoặc đăng ký số đó thành công không? 1265963633 (FB) Trung 17 06/11/2013 Điều kiện cộng KM của bộ 0đ Chi tiết KH phản ánh chưa được cộng KM 100% cho thẻ nạp đầu tiên của bộ 0đ , AC kiểm tra kỹ xem KH có bị khóa 2C không? Vì Điều kiện để được KM : - Thẻ đầu tiên (KM 100%): nạp tiền trước khi bị khóa 2 chiều (kể từ khi kích hoạt). - 5 thẻ tiếp theo (KM 50%): nạp trước khi khoá 1 chiều, trước ngày thứ 90 kể từ ngày kích hoạt. 907815240 (FB) Trung 16 06/11/2013 CTKM duy trì KH trả trước tháng 11/2013 Chi tiết Kiểm tra xem KH có thuộc đối tượng KM hay không, AC vui lòng kiểm tra các bước: - Tra cứu danh sách khuyến mãi hoặc Lịch sử khuyến mãi trên Tra cứu 145; - Tra cứu SMSQC xem 090 có gởi SMS KM không? (Vào http://cskh-vas.vms.com.vn:7777/sso/jsp/signoff-ex.jsp , chọn mục SMS QC 090) - Tra cứu chi tiết cuộc gọi xem KH có nạp tiền bằng M2U không? - 1227201049 (Không thuộc đối tượng) - 1222513434 (Thuộc đối tượng nhưng nạp bằng M2U) Trung 15 03/11/2013 Khu yến m ãi gói thoại TBTT (101, Y5 , Y20, ...)  KH đăng ký gói thoại TBTT cần lưu ý sau khi hệ thống phản hồi đã đăng ký gói thành công thì KH thực hiện cuộc gọi mới đ ược hưởng KM 939526056 (FB, gói Y5) Năm 14 03/11/2013 Khuyến mãi gói t hoại 101 Chi tiết KH thuộc đối tượng mua gói 101 và đang ở Tp HCM: đề nghị KH KHÔNG mua gói . D o gói này sẽ không được tính KM khi gọi tại TpHCM. 907385646 (FB) Năm 13 01/11/2013 KM kết bạn  KH phản ánh có đăng ký gói kết bạn nhưng gọi vẫn bị trừ tiền , Đ TV vào T ra cứu 145/ Tra cứu tài khoản phụ IN ICC , dòng Tai khoan thoai KM co thoi han (VOICE_TH) (s) và chi tiết cước kiểm tra xem thuê bao KH còn số phút gọi miễn phí không, nếu số phút gọi miễn phí hết thì KH thực hiện cuộc gọi sẽ bị trừ cước 907275849 Năm 12 29/10/2013 Nâng cấp gói cước KM VNPT Chi tiết Trường hợp KH soạn tin nâng cấp gói cước VNPT máy báo: "	"Qúy khách không đủ điều kiện để tham gia chương trinh"	", AC vui lòng vào LS gói cước (Tra cứu 145) xem gói cước hết hạn ngày nào? Nếu chu kỳ cuối thì thông báo với KH luôn vì theo quy định: "	"Không được nâng cấp vào chu kỳ cuối của thời gian hưởng KM"	" 939937022 Trung 0ext-align: center" width="10%"> Link liên quan Nội dung Ví dụ Nhân viên 3 28/10/2013 Chưa cộng tiền kết nối dài lâu  Vào [Loyalty information] /tab Lịch sử thưởng để xem ngày được cộng tiền KNDL: Trả sau: xem Giải trình, tháng n đủ điểm thì thì tiền KNDL trừ vào tháng n+1 (tiền KNDL trừ không hết thì được giữ và trừ dần đến khi hết) . Trả trước: xem cột Ngày cộng thưởng (tab Lịch sử thưởng trong note Loyalty Information), chính là ngày cộng tiền KNDL vào KM3.  Điệp 2 28/10/2013 Thẻ hội viên KNDL  KH phản ánh chưa nhận được thẻ/ Yêu cầu cấp thẻ hội viên KNDL = > ĐTV kiểm tra nếu tên người sử dụng (ĐTV có thể hỏi KH hoặc xem trong Loyalty Information, tab Thông tin thẻ) và tên thuê bao khác nhau thì ĐTV hướng dẫn KH liên hệ CH đăng ký thông tin thuê bao cho đúng rồi liên hệ lại tổng đài yêu cầu chuẩn hóa thông tin cấp thẻ ( ĐTV hỏi và ghi nhận những thông tin sau vào FB: họ tên, ngày sinh, số CMND, ngày cấp, nơi cấp CMND, địa chỉ nhận thẻ). Lưu ý: chỉ cấp thẻ hội viên khi tên thuê bao và tên hội viên (người sử dụng ) trùng nhau.  Điệp 1 23/10/2013 Chúc mừng sinh nhật  Đối với TBTT phản ánh chưa nhận được tiền hoặc quà sinh nhật. ĐTV kiểm tra ngày sinh trong Note Loyalty nếu ngày sinh nhật đúng như KH phản ánh thì kiểm tra LS khuyến mãi xem đã được cộng tiền chưa? Nếu chưa thì mới nhập FB 902489439 (FB) Nghiêm \  STT Ngày Tiêu đề Link liên quan Nội dung Ví dụ Nhân viên 18 07/11/2013 Global Saving - Gọi quốc tế giá rẻ Chi tiết Trường hợp KH phản ánh đăng ký gói Global Saving - Gọi quốc tế giá rẻ thành công nhưng thực hiện cuộc gọi vẫn bị trừ cước , AC kiểm tra KH thực hiện cuộc gọi đúng thao tác không? (kiểm tra ở Tra cứu 145/Tra cứu ch i tiết cuộc gọi). Nếu thực hiện cuộc gọi không bấm theo theo tác Bấm 1714 + 00 + Mã quốc gia + Mã vùng /Mã mạng + Số điện thoại thì vẫn sẽ bị trừ phí bình thường. A C hướng dẫn KH thực hiện cuộc gọi đúng thao tác để hệ thống trừ dung lượng trong gói 1268864961 (FB) Thanh Toàn 17 7/11/2013 Chuyển tiếp cuộc gọi Chi tiết TB đã thực hiện chuyển tiếp cuộc gọi và sau đó bị tổng đài chặn 1 chiều (chặn mất máy...) thì: Phần chuyển tiếp sang 9232 - MCA, 980 - HTT..., sẽ bị mất (do lệnh chặn cuộc gọi và lệnh chuyển tiếp không thực hiện được cùng một lúc) Khi TB đã mở lại thông tin, cần bấm lại lệnh chuyển tiếp đến 9232, 980.... thì mới sử dụng được dịch vụ MCA, HTT hay chuyển tiếp. Khi thuê bao bị chặn chiều thì trạng thái chuyển tiếp KH trên MSC có dòng STATUS = PROV | REG | QUIESCENT . T rạng thái trên là hệ thống đang ngưng chuyển tiếp khi nào thuê bao được mở lại chiều thì thao tác chuyển tiếp lại là được. 909343753 (FB) Thanh Toàn 16 06/11/2013 Funring - Hình thức đăng ký Chi tiết Nếu tra cứu trên Funring Custcare thấy TB có trạng thái "	" Account opening / Closing mode: OWA"	" thì vết trên cho thấy do KH thao tác copy nhạc chờ từ số khác. A C kiểm tra thêm mục "	"The Log of Copying Tones"	" trên tra cứu Funring sẽ thấy vết KH copy bài hát từ số nào? T hời gian copy? Bài hát KH copy về là gì? K hi chưa có dịch vụ KH thao tác copy hệ thống sẽ sao chép bài hát về và mở dịch vụ F unring cho KH 939122600 Thanh Toàn 15 4/11/2013 MCA - Kiểm tra cờ 9232 Chi tiết Trường hợp kiểm tra TB của KH t rạng thái là hoạt động (Tra cứu MCA) , có cờ 9232 nhưng vẫn không nhận được SMS báo cuộc gọi nhỡ , ĐTV vào HLR xem ở CFNRC. Nếu có dữ liệu NCS = FALSE TPLID = 1 COU = SUBSCRIBER thì có nghĩa cờ này vẫn chưa sử dụng được. AC có thể vào Tra cứu 145/Đổi DV/Đấu lại Call Forwad để chuyển trạng thái về TRUE thì KH sẽ sử dụng bình thường 904543441 Trung 15 4/11/2013 Tự chặn cuộc gọi Chi tiết Trường hợp khi thực hiện cuộc gọi máy báo: "	"chú ý đang bật chặn cuộc gọi"	" , AC vui lòng kiểm tra HLR của số nhận. - Nếu: CBCOU = OPERATOR BAIC: TS 1X = PROV | ACT -> T ổng đài chặn: Kiểm tra ngày s ử dụng xem TB có bị chặn 2c không - Nếu: CBCOU = SUBCRIBER BAIC: TS 1X = PROV | ACT -> KH tự chặn: H ướng dẫn KH thao tác giải chặn 906884620 (Số gọi) 909494620 (Số nhận) Trung 13 4/11/2013 Funring - Cước trừ 02 lần trong 30 ngày Chi tiết Trường hợp KH phản ánh trong vòng 30 ngày mà trừ cước Funring đến 02 lần, theo quy định: Đến thời điểm trừ cước, hệ thống sẽ trừ 1 lần 9.000đ, nếu không thành công, hệ thống sẽ tiến hành trừ lại 5 lần (retry), mỗi lần cách nhau 5 ngày. Khi trừ thành công, thời gian sử dụng của chu kỳ đó tính từ thời điểm gia hạn (không phải từ thời điểm trừ thành công). 907430330 1224052523 Trung 12 4/11/2013 Hộp thư thoại - Không nghe lời chào cá nhân Chi tiết KH phản ánh không nghe được l ời chào cá nhân đã lưu của DV hộp thư thoại , ACE hướng dẫn KH gọi 981 -> 2 -> 1-> 2 -> 8 để cài đặt làm lời chào chung. Vì ở bước cuối cùng sau khi lưu, có đến 9 phím để KH lựa chọn, nhưng chỉ có phím 8 mới phát lời chào của KH cho tất cả các cuộc gọi đến 907818852 Trung 11 29/10/2013 Hủy không gia hạn MI Chi tiết Trường hợp KH yêu cầu hủy gia hạn gói MI, AC vui lòng hướng dẫn KH soạn KGH gởi 999 vì hệ thống chỉ có công cụ hủy gói thôi, chưa hủy gia hạn được 907583000 Trung 10 29/10/2013 mFilm Chi tiết Hiện tại dịch vụ Mfilm chỉ hổ trợ cho Điện thoại, máy tính bảng hỗ trợ Streaming/Download video và tương thích với Java, Brew, Symbian, Windows Mobile, iPhone, BlackBerry, Android,… Không xem trên laptop,máy tính bàn 1225836903 Trung 9 25/10/2013 Mobile Internet - Hạ băng thông truy cập chậm  Theo qui định mới của công ty về tốc độ truy cập của các gói data khi hạ băng thông sẽ giảm còn 32kbps. Với tốc độ này rất khó để xem video hoặc nghe nhạc. ACE có thể hướng dẫn KH thông cảm chuyển qua xem tin tức, đọc truyện hoặc truy cập các web tĩnh. 939727477 Trung 8 25/10/2013 TBC qua Email - Chỉ nhận được TBC, không nhận được CTC  Kiểm tra dòng "	"Dịch vụ thuê bao"	" trên tra cứu 145. Nếu có chữ "	"INCTGTN"	" thì KH mới nhận được CTC. Trường hợp không có thì hướng dẫn KH ra KH để đăng ký, không nhập FB  Trung 7 25/10/2013 Đăng ký/Từ chối nhận SMS QC từ 090 Chi tiết ĐTV tự vào link: http://10.54.47.15:8080/ Đăng nhập bằng user/pass đã được cấp, tiếp tục chọn -> Quản lý ĐK/TC nhận tin -> Danh mục TB ĐK/TC nhận tin -> Tạo mới -> Nhập số TB sau đó chọn Từ hối hoặc ĐK nhận tin -> Hoàn thành 907278452 Trung 6 25/10/2013 MCA - Không nhận được bản tin thông báo cuộc gọi nhỡ  Trường hợp KH phản ánh không nhận được bản tin MCA. ĐTV vui lòng kiểm tra 02 phần: HLR có cờ chưa? Trên Custcare trạng thái là gì?. - Nếu chưa có cờ: Hướng dẫn KH thao tác **62*9232#OK - Nếu trạng thái đã hủy hoặc không có dữ liệu: Hướng dẫn KH đăng ký lại 937692310, 937391751 (FB) Trung 5 25/10/2013 Gửi mật khẩu Portal  Khi KH yêu cầu gửi lại mật khẩu Portal, ĐTV cần vào trang "	"Thay đổi mật khẩu Web Portal"	" (mục Tra cứu thông tin KH) kiểm tra xem TB đã đăng ký thành viên chưa? Nếu chưa đăng ký thì hướng dẫn KH đăng ký. Có nhiều trường hợp TB chưa đăng ký thành viên nhưng ĐTV vẫn nhập FB yêu cầu gửi lại MK cho KH. 936991355 902789900 (FB) Nghiêm 4 25/10/2013 Call Barring  KH phản ánh số TB đã có trong danh sách BL rồi nhưng vẫn gọi cho KH được. ĐTV cần vào Selfcare (Tra cứu/Tra cứu log yêu cầu đăng ký,hủy) kiểm tra xem số thuê bao KH phản ánh đã có trong danh sách BL chưa, hoặc cập nhật có chính xác chưa? Nếu KH chưa cập nhật thành công hoặc không chính xác thì giải thích đến KH luôn và nhờ KH cập nhật lại. 935264883 (FB) Nghiêm 3 24/10/2013 GPRS Roaming Chi tiết Trường hơp KH có mua gói cước MI, còn dung lượng miễn phí nhưng truy cập vẫn bị tính phí. Lý do KH truy cập khi đang Roaming quốc tế. Gói cước MI chỉ áp dụng cho TB MobiFone (trả sau, trả trước) tại VN, không áp dụng khi CVQT. 905617528 (FB) Trung 2 22/10/2013 Tính cước GPRS  Trường hơp KH còn dung lượng từ 2MB trở xuống truy cập GPRS bị trừ phí, AC giải thích với KH như sau: Theo cơ chế tính cước thì hệ thống sẽ dự trữ 2MB trong dung lượng miễn phí của AC cho phiên truy cập đầu tiên. Do AC mở nhiều phiên truy cập cùng lúc và hệ thống đã dành 2MB còn lại trong dung lượng của AC cho phiên truy cập đầu nên các phiên truy cập sau bị trừ phí 933758142 (FB) Duy 1 22/10/2013 Cắt/đấu GPRS  Nếu KH có yêu cầu cắt/đấu GPRS, ĐTV có thể vào Tra cứu 145/ Đổi dịch vụ để làm hộ KH. Không cần nhập FB 0937527447 Đam  STT Ngày Tiêu đề Link liên quan Nội dung Ví dụ Nhân viên 3 01/11/2013 Kiểm tra thẻ cào  KH phản ánh nạp tiền không được ktra số KH bình thường và kiểm tra thẻ cào thấy Trạng thái thẻ : Suspended tức là thẻ cào đã bị khóa. AC hướng dẫn KH mang thẻ cào liên hệ CH đổi lại thẻ. 010721004297123 H. Nghiêm 2 30/10/2013 Liên quan đến hạn mức báo đỏ tự do  Khi KH phản ánh sao chưa sử dụng vượt hạn mức đã bị chặn báo đỏ thì ngoài kiểm tra mục Mức cước ứng trước (Tra cứu 145), ĐTV cần phải kiểm tra xem KH có đăng ký Số tiền hạn mức ( mục Số tiền hạn mức ở Tra cứu 145, tức KH có đăng ký hạn mức tự do không). Nếu có thì phải căn cứ vào Số tiền hạn mức để trả lời cho KH. Vì khi KH sử dụng vượt Số tiền hạn mức mà KH đăng ký sẽ bị chặn. Lưu ý số tiền hạn mức thường < Mức cước ứng trước 939394794 ( FB Nghiêm 1 26/10/2013 Chặn báo đỏ  Đối với trường hợp KH phản ánh bị chặn với lý do báo đỏ nhưng KH đã thanh toán tiền vẫn chưa được mở. AC vào tra cứu số TB áp dụng theo điều kiện mở báo đỏ: Tổng nợ trước + PS trong tháng (cước nóng) - thanh toán < 50% hạn mức sử dụng. Nếu số tiền của KH đang nợ không thỏa điều kiện để mở báo đỏ, AC nhờ KH nạp thêm tiền để được mở chặn theo yêu cầu. Không cần nhập FB . 0902408055 (FB) Hà  STT Ngày Tiêu đề Link liên quan Nội dung Ví dụ Nhân viên 3 27/10/2013 KM định kỳ QSV  Để cộng KM định kỳ ngoài việc thuê bao có tk >0đ thì phải nạp tiền tối thiểu 10k trước thời gian cộng KM 1 ngày. 939889627 Năm 2 22/10/2013 QSV_không nhận được KM định kỳ 25K Chi tiết TXL_MBF KV 9:QSV không nhận KM định kỳ 25.000đ do tại thời điểm quét KM TKC<=0 (SOD_SVT2_Monthly), ĐTV lưu ý kiểm tra trả lời và lưu ý KH cho chu kỳ kế tiếp => Không ghi nhận FB  Thanh 1 11/10/2013 Lỗi TBTTcòn tiền trong TK nhưng gọi đi báo tài khoản không đủ  TBTT còn tiền trong TK nhưng gọi đi báo tài khoản không đủ để thực hiện cuộc gọi. => Hướng dẫn KH tắt truy cập GPRS và thực hiện lại cuộc gọi. Nếu không thành công mới nhập FeedBack.  Thanh  STT Ngày Tiêu đề Link liên quan Nội dung Ví dụ Nhân viên 1 25/10/2013 EZ không thể nạp tiền cho sđt của mình  Hiện tại hệ thống EZ mới không cho phép EZ nạp tiền cho chính số EZ của mình => ĐTV có thể trả lời cho KH, không cần nhập FB 1282833787 (FB) Năm 

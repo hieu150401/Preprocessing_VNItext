@@ -1,0 +1,267 @@
+ 1. Giới thiệu về gói Zone +:  Là thuê bao MobiZone có vùng Zone thuộc các khu vực sau:  
+ 
+ 
+ 
+ 
+ 
+ Trung tâm 
+ 
+ 
+ Các tỉnh 
+ 
+ 
+ 
+ Trung tâm 1 
+ 
+ - Các tỉnh thuộc MBF KV 1, MBF KV 4, MBF KV 6 (trừ Hà Nội) bao gồm: Hà Nam, Hà Tĩnh, Hòa Bình, Lai Châu, Lào Cai, Nghệ An, Ninh Bình, Phú Thọ, Sơn La, Thanh Hóa, Vĩnh Phúc, Yên Bái, Điện Biên 
+ 
+ 
+ 
+ Trung tâm 3 
+ 
+ - Quảng Bình, Quảng Trị, Quảng Ngãi, Bình Định, Phú Yên, Đắc Lắc, Đắc Nông, Gia Lai, Kon Tum 
+ - Các huyện có thị phần thấp thuộc các tình: Quảng Nam, Huế và Khánh Hòa 
+ 
+ 
+ 
+ Trung tâm 4 
+ 
+ - Cần Thơ, Tiền Giang, Bến Tre, Bạc Liêu, Cà Mau, Kiên Giang, Trà Vinh, An Giang, Sóc Trăng, Hậu Giang, Đồng Tháp, Vĩnh Long 
+ 
+ 
+ 
+ Trung tâm 5 
+ 
+ - Các tỉnh thuộc MBF KV 5 (trừ Hải Phòng) bao gồm: Hải Dương, Hưng Yên, Nam Định, Quảng Ninh, Bắc Ninh, Bắc Giang, Thái Nguyên, Tuyên Quang, Hà Giang, Lạng Sơn, Bắc Kạn, Cao Bằng, Thái Bình 
+ 
+ 
+ 
+ Trung tâm 6 
+ 
+ - Bình Dương, Bình Thuận, Ninh Thuận, Bình Phước, Lâm Đồng, Tây Ninh 
+ 
+ 
+ 
+ 
+ 
+2. C ách đăng ký gói Zone+:  
+ 
+ 
+ Các bộ Zone + chỉ được phân phối dưới dạng bộ hòa mạng mới. 
+ 
+ 
+ Loại bộ Zone +: bộ 0đ , bộ 25.000đ và bộ 65.000đ . 
+ 
+ 
+ Địa chỉ mua bộ trọn gói: các Cửa hàng, Đại lý chuyên tại các Tỉnh trực thuộc Zone +. 
+ 
+ 
+ Thủ tục: Thủ tục đăng ký thông tin. 
+ 
+ 
+ 3 . Thời hạn sử dụng: 
+ 
+ 
+ Thời hạn sử dụng luôn là 60 ngày kể từ ngày thuê bao có phát sinh cước (có giao dịch trừ tiền) 
+ 
+ 
+ Nếu trong vòng 60 ngày thuê bao không phát sinh cước thì sẽ bị khóa 1 chiều. Sau đó thuê bao có 10 ngày để nhận cuộc gọi. Quá 10 ngày này mà thuê bao không nạp thêm tài khoản sẽ bị khóa 2 chiều. 
+ 
+ 
+ Thời hạn giữ số và thời hạn cắt hủy áp dụng theo quy định hiện hành của thuê bao trả trước. 
+ 
+ 
+ 4. Các qui định về Zone: 
+ 
+ Đăng ký vùng Zone khi kích hoạt: tương tự MobiZone, khi kích hoạt bộ Zone+ trong vùng Zone thì hệ thống sẽ tự động đăng ký vùng Zone đó cho thuê bao (trường hợp vùng Zone đăng ký không đúng thì KH có thể nhắn tin để đổi lại vùng Zone) hoặc nếu kích hoạt ngoài vùng Zone thì KH có thể nhắn tin để chủ động đăng ký vùng Zone (chi tiết xem tại qui định của MobiZone) 
+ 
+ Qui định chuyển đổi vùng đăng ký: 
+ 
+ 
+ C huyển đổi trong các khu vực thuộc danh sách Zone +: khi gọi vẫn được áp dụng cước theo qui định InZone và OutZone 
+ 
+ 
+ C huyển đổi sang các Tỉnh/ thành không có trong danh sách Zone +: vẫn chuyển được, tuy nhiên cước cuộc gọi sẽ luôn là OutZone . 
+ 
+ 
+ Chuyển đổi sang các Tỉnh/ thành không có trong danh sách Zone +: vẫn chuyển được nhưng toàn bộ ưu đãi của Zone+ bị xóa bỏ và thuê bao trở thành MobiZone thông thường. 
+ 
+ 
+ 
+ 
+ Cách chuyển: KH có thể dùng hình thức chuyển đổi tương tự như khi chuyển đổi Zone trong gói MobiZone: 
+ 
+ 
+ Soạn SMS: DOI _ MobiZone_tentinh gửi 999 (200đ/ tin) với "	"_"	" là khoảng trống. Danh sách tên tỉnh: Chi tiết Ngoài cách viết như trong bảng chi tiết danh sách tên tỉnh, hệ thống cũng sẽ chấp nhận các cách viết sau, VD: 
+ 
+ 
+ DK_MobiZone_Vinh Long 
+ 
+ 
+ DK_MobiZone_Vinhlong 
+ 
+ 
+ DK_MobiZone_VLO: với cách viết này, ĐTV có thể nhớ theo nguyên tắc: tỉnh có 2 chữ thì lấy chữ cái đầu của chữ thứ nhất + 2 chữ cái đầu của chữ thứ hai để tạo thành. 
+ 
+ 
+ 
+ 
+ Bấm USSD *090#, nhánh 9, ( chi tiết ) - áp dụng từ 5/7/2012 
+ 
+ 
+ 
+ 
+ Phí chuyển đổi Zone:. 
+ 
+ 
+ Lần đầu tiên chuyển (không tính lần đăng ký): miễn phí 
+ 
+ 
+ Từ lần thứ 2: 20.000 đồng/ lần (đã VAT), trừ trên tài khoản chính của TB. 
+ 
+ 
+ Không giới hạn số lần chuyển đổi. 
+ 
+ 
+ 
+ 
+ C huyển đổi sang gói cước khác: 
+ 
+ 
+ Zone + có thể chuyển đổi sang trả sau: quy định, thủ tục theo quy định hiện hành 
+ 
+ 
+ Zone + có thể chuyển đổi sang gói trả trước khác bằng lệnh SMS/USSD và theo quy định hiện hành. 
+ 
+ 
+ Ngay sau khi chuyển đổi thành công, KH sẽ không được hưởng ưu đãi của chương trình. 
+ 
+ 
+ Tuy nhiên: thuê bao trả sau và các gói trả trước khác KHÔNG chuyển sang Zone + được. 
+ 
+ 
+ 
+ 
+ Roaming Vinaphone: 
+ 
+ Thuê bao TT 2, 4: không được sử dụng dịch vụ chuyển vùng trong nước với Vinaphone (chưa được roaming Vina). 
+ Thuê bao TT 1, 3, 5, 6: được mở dịch vụ chuyển vùng trong nước với Vinaphone, và tính cước Outzone khi chuyển vùng. 
+ 
+ 
+ Tính năng tra cứu vùng đăng ký sử dụng- áp dụng từ 5/7/2012: soạn câu lệnh "	"KT_ZONE "	" gửi 999 (trong đó "	"_"	" là dấu cách), cước 200đ/ sms  
+ 1 . Cước thoại và SMS trong nước : 
+ 
+ 
+ 
+ 
+ 
+ 
+ Nội dung 
+ 
+ 
+ Inzone (có VAT) 
+ 
+ 
+ Outzone (có VAT) 
+ 
+ 
+ 
+ 
+ Gọi nội mạng trong nước 
+ 
+ 
+ G iờ bận 
+ 
+ 
+ 690đ/phút 
+ (69đ/6s + 11,5đ/1s) 
+ 
+ 
+ 1.880đ/phút 
+ (188đ/6s + 31,3đ/1s) 
+ 
+ 
+ 
+ 
+ G iờ rỗi 
+ 
+ 
+ Bằng 50% cước giờ bận 
+ 
+ 
+ 
+ 
+ Gọi liên mạng trong nước (không phân biệt giờ bận, giờ rỗi) 
+ 
+ 
+ 690đ/phút 
+ (69đ/6s + 11,5đ/1s) 
+ 
+ 
+ 1.880đ/phút 
+ (188đ/6s + 31,3đ/1s) 
+ 
+ 
+ 
+ 
+ SMS nội mạng / liên mạng trong nước (giờ bận và rỗi) 
+ 
+ 
+ 250đ/ SMS 
+ 
+ 
+ 
+ 
+ Cước thông tin đối với dịch vụ GTGT, gọi/ nhắn tin quốc tế và các quy định khác liên quan đến cước. 
+ 
+ 
+ Áp dụng theo quy định hiện hành của gói MobiZone 
+ 
+ 
+ 
+ 
+ 
+  
+- Lưu ý các cuộc gọi trong InZone vẫn bị tính cước OutZone: 
+ 
+ Gọi qua Music Talk (9301). 
+ Khi đang roaming với VinaPhone. (Riêng thuê bao thuộc TT 4, không sử dụng dịch vụ Roaming với Vinaphone được) 
+ 
+ 2. Ưu đãi hằng tháng: 
+ 
+ Đối tượng Zone+ được hưởng ưu đãi: 
+ 
+ Các bộ trọn gói Zone+ có mệnh giá 25.000, 65.000/ bộ 
+ Các bộ Zone+ M0 (0đ trong tài khoản) có thời gian kích hoạt từ 25/7/2012 trở về sau. 
+ KHÔNG cộng ưu đãi có các bộ M0 kích hoạt từ 24/7/2012 trở về trước 
+ 
+ 
+ Được cộng 300.000 cho 12 tháng, mỗi lần cộng là 25.000đ/30 ngày vào TK ĐK2. 
+ Lần cộng đầu tiên được thực hiện ngay sau khi kích hoạt thành công (gọi là N), thời điểm cộng cho các lần sau sẽ là N + 30 ngày. 
+ Nếu KH bị khóa 1c hoặc 2c: 
+ 
+ Hệ thống sẽ vẫn cộng vào tài khoản thưởng định kỳ như bình thường. 
+ KH sẽ được mở chiều đi nhưng ngày sử dụng chỉ là 1 ngày (tính đến hết 24h của ngày cộng tiền). 
+ Nếu muốn sử dụng bình thường KH phải nạp thêm tiền vào tài khoản. 
+ 
+ 
+ Trong 30 ngày nếu không sử dụng hết, thì sẽ bị mất, không được cộng dồn. 
+ 
+ 3. Nguyên tắc tính cước: 
+ 
+ - Qui định giờ bận và rỗi của thoại: áp dụng từ 04/06/2009 
+ 
+ Giờ rỗi (OffPeak - giảm 50%): từ 23h ngày hôm trước đến 05h:59’:59"	" sáng ngày hôm sau. Ngoại trừ các ngày sau sẽ không áp dụng cước giờ rỗi từ 23h đến 05h59’:59"	" ngày hôm sau: 
+ 
+ Từ đêm giáng sinh (24/12). 
+ Từ đêm giao thừa tết dương lịch (31/12). 
+ Từ đêm giao thừa tết âm lịch. 
+ 
+ 
+ Giờ bận (Peak): từ 6h đến 22h:59’:59"	" các ngày thường, và khoảng thời gian không áp dụng giờ rỗi của ngày giáng sinh, tết âm lịch và tết dương lịch. 
+ 
+ - Qui định giờ bận và rỗi của SMS: 
+ 
+ Giờ rỗi: từ 1h sáng đến 5h sáng tất cả các ngày trong tuần. 
+ Giờ bận: sau 5 sáng đến trước 1h sáng của tất cả các ngày trong tuần. 
+ 

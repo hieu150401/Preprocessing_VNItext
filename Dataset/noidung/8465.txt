@@ -1,0 +1,1206 @@
+  1. Đối tượng 
+ 
+ 
+ Khách hàng trả sau có thời gian hòa mạng tối thiểu 1 năm tính đến tháng có sinh nhật của khách hàng. Mức cước để lấy làm căn cứ tặng quà là mức cước đã thanh toán trung bình của 03 chu kỳ cước n-3, n-4, n-5 (với n là tháng sinh nhật). 
+ 
+ 
+ Khách hàng cao cấp trả trước đầu số Trung tâm IV và khách hàng cao cấp trả sau do Trung tâm IV quản l&lrm;&lrm;ý. Quà tặng không căn cứ vào mức cước sử dụng dịch vụ. 
+ 
+ 
+ Thuê bao nghiệp vụ, công vụ, sim thử KHÔNG được tham gia chương trình. 
+ 
+ 
+ 2. Loại quà tặng và hình thức thực hiện 
+  
+ 
+ 
+ 
+ 
+ 
+ STT 
+ 
+ 
+ 
+ 
+ Đối tượng 
+ 
+ 
+ 
+ 
+ Giá trị quà tặng 
+ 
+ 
+ (đồng/ phần) 
+ 
+ 
+ 
+ 
+ Loại quà tặng 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A. Khách hàng trả sau (SttA) 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ Cước TB < 300.000 đ 
+ 
+ 
+ 
+ 
+ 100.000 
+ 
+ 
+ 
+ 
+ (HT1) Tặng 01 dĩa thủy tinh 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 300.000 đ ≤ Cước TB < 500.000đ 
+ 
+ 
+ 
+ 
+ 200.000 
+ 
+ 
+ 
+ 
+ (HT2) Tặng 01 lọ hoa gốm sứ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ Cước TB >= 500.000 đ 
+ 
+ 
+ 
+ 
+ 300.000 
+ 
+ 
+ 
+ 
+ (HT3) Tặng 01 ví da nam hoặc 01 ví da nữ 
+ 
+ 
+ 
+ 
+ 
+ B. Khách hàng cao cấp 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ KH cao cấp trả trước và trả sau (SttB1) 
+ 
+ 
+ 
+ 
+ 300.000 
+ 
+ 
+ 
+ 
+ (HT3) Tặng 01 ví da nam hoặc 01 ví da nữ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ KH cao cấp là hội viên KNDL (SttB2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hạng Titan 
+ 
+ 
+ 
+ 
+ 300.000 
+ 
+ 
+ 
+ 
+ Tặng tiền trừ vào hóa đơn cước hoặc tặng tiền vào tài khoản KM2 hoặc 01 bình đựng nước hoặc phiếu tặng vé xem phim hoặc 01 bộ giftset mỹ phẩm L’Ocitance hoặc 01 bộ mở rượu cao cấp hoặc bộ giftset hoặc 01 bộ hộp lock&lock hoặc hoa tươi 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hạng Vàng 
+ 
+ 
+ 
+ 
+ 600.000 
+ 
+ 
+ 
+ 
+ Tặng tiền trừ vào hóa đơn cước hoặc tặng tiền vào tài khoản KM2 hoặc USB 3G hoặc 01 cravat hoặc 01 bộ giftset rượu hoặc 01 bộ mỹ phẩm L’Ocitance hoặc bộ mở rượu cao cấp hoặc 01 đồng hồ treo tường hoặc hoa tươi 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hạng Kim cương 
+ 
+ 
+ 
+ 
+ 1.000.000 
+ 
+ 
+ 
+ 
+ Tặng tiền trừ vào hóa đơn cước hoặc tặng tiền vào tài khoản KM2 hoặc 01 bộ giftset rượu cao cấp hoặc 01 bộ mỹ phẩm L’Ocitance hoặc 01 bộ chơi golf mini hoặc 01 bút viết cao cấp 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ Ghi chú: Đối tượng khách hàng SttB1, SttB2 không nằm trong các đối tượng khách hàng SttA. 
+ 
+ 
+ 
+ Thuê bao chuyển chủ quyền hoặc thanh lý hợp đồng trong tháng sinh nhật: không được nhận quà tặng từ chương trình. 
+ 
+ 
+ Khách hàng có thể lựa chọn một trong các loại quà tặng được nêu. Trong trường hợp quà tặng là hiện vật thì thiệp chúc mừng sinh nhật phải được tặng kèm quà tặng.    
+ 
+ 
+ 
+ 3. Hình thức thực hiện 
+ 
+ 
+ 
+ Đối tượng khách hàng cao cấp SttB2: Chi nhánh xuất danh sách khách hàng được tặng quà tại địa chỉ http://quasinhnhat.mobifone.com.vn /admin . 
+ 
+ 
+ Các đối tượng khách hàng còn lại: Chi nhánh thực hiện tặng quà cho khách hàng căn cứ vào số lượng quà tặng và nguồn chi phí được phân bổ. Chuyên viên CSKH tại chi nhánh phải đích thân thực hiện gửi quà tặng đến khách hàng quà tặng hình thức 3 (nếu có). 
+ 
+ 
+ Tặng quà sinh nhật/ ngày thành lập Công ty: phải tặng đúng người đang sử dụng dịch vụ và tặng vào đúng ngày sinh nhật khách hàng. Trong trường hợp không gặp được khách hàng thì phải thông báo đến khách hàng đã gửi quà tặng cho người thân hoặc đồng nghiệp của khách hàng . 
+ 
+ 
+ Nếu ngày sinh nhật/ thành lập Công ty của khách hàng rơi vào ngày thứ 7 và chủ nhật hoặc các ngày nghỉ lễ Tết, có thể tặng quà trước ngày sinh nhật từ một đến hai ngày. 
+ 
+ 
+ Kết hợp tặng quà chúc mừng sinh nhật thực hiện tư vấn mời khách hàng tham gia đăng ký dịch vụ gia tặng. 
+ 
+ 
+ 
+ 4. Nhắn tin đến khách hàng 
+ 
+ 
+ 
+ Nhắn tin chúc mừng sinh nhật : 
+ 
+ 
+ Đối tượng nhắn tin: thuê bao trả trước và trả sau. 
+ 
+ 
+ Đối với khách hàng cá nhân: "	"MobiFone xin gui nhung loi chuc tot dep nhat nhan dip sinh nhat Quy khach"	" . 
+ 
+ 
+ Đối với khách hàng Công ty: "	"MobiFone xin gui nhung loi chuc tot dep nhat nhan dip ky niem ngay thanh lap Quy cong ty/Quy co quan"	". 
+ 
+ 
+ Thời gian nhắn tin: vào đúng ngày sinh nhật/ thành lập Công ty của khách hàng. 
+ 
+ 
+ 
+ 
+ Nhắn tin kiểm tra triển khai tặng quà đến khách hàng: 
+ 
+ 
+ Đối với khách hàng cá nhân : "	" MobiFone da gui tang X vao ngay Y nhan ngay sinh nhat cua Quy khach, nguoi nhan Z. Cam on Quy khach da su dung dich vu cua MobiFone. Trong truong hop Quy khach chua nhan duoc qua tang vui long lien he 9090 (bam phim 2) de duoc ho tro"	" . 
+ 
+ 
+ Đối với công ty : "	"MobiFone da gui tang X vao ngay Y nhan dip ky niem ngay thanh lap Cong ty/ Co quan cua Quy khach, nguoi nhan Z. Cam on Quy khach da su dung dich vu cua MobiFone. Trong truong hop Quy khach chua nhan duoc qua tang vui long lien he 9090 (bam phim 2) de duoc ho tro"	". 
+ 
+ 
+ 
+ 
+ 
+   Trong đó:  X là loại quà tặng tặng cho khách hàng, Y là ngày thực hiện tặng quà của khách hàng, Z là tên người nhận. 
+ 
+ 
+ 
+ Thời gian thực hiện nhắn tin: vào ngày 05 và ngày 20 hàng tháng. 
+ 
+ 
+ 5. Thời gian thực hiện : Từ 01/01/2013 đến 31/03/2013 
+  
+ 6. Danh sách khách hàng nhận quà chúc mừng sinh nhật 
+ 
+ 
+ Tháng 01/2013: DS nhận quà - DS kiểm tra 
+ 
+ 
+ Tháng 02/2013: DS nhận quà - DS kiểm tra 
+ 
+ 
+ Tháng 03/2013: DS nhận quà  
+ 
+ 
+ 7. Công văn: CV4268/TTIV-CSKH 
+  1. Đối tượng 
+ 
+ 
+ Khách hàng trả sau có thời gian hòa mạng tối thiểu 1 năm tính đến tháng có sinh nhật của khách hàng. Mức cước để lấy làm căn cứ tặng quà là mức cước đã thanh toán trung bình của 03 chu kỳ cước n-3, n-4, n-5 (với n là tháng sinh nhật). 
+ 
+ 
+ Khách hàng cao cấp trả trước đầu số Trung tâm IV và khách hàng cao cấp trả sau do Trung tâm IV quản l&lrm;&lrm;ý. Quà tặng không căn cứ vào mức cước sử dụng dịch vụ. 
+ 
+ 
+ Thuê bao nghiệp vụ, công vụ, sim thử KHÔNG được tham gia chương trình. 
+ 
+ 
+ 2. Loại quà tặng và hình thức thực hiện 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ STT 
+ 
+ 
+ 
+ 
+ Đối tượng 
+ 
+ 
+ 
+ 
+ Giá trị quà tặng 
+ 
+ 
+ (đồng/ phần) 
+ 
+ 
+ 
+ 
+ Loại quà tặng 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A. Khách hàng trả sau (SttA) 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ Cước TB < 300.000 đ 
+ 
+ 
+ 
+ 
+ 100.000 
+ 
+ 
+ 
+ 
+ (HT1) Quà hiện vật hoặc trừ vào hóa đơn cước 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 300.000 đ ≤ Cước TB < 500.000đ 
+ 
+ 
+ 
+ 
+ 200.000 
+ 
+ 
+ 
+ 
+ (HT2) Quà hiện vật hoặc trừ vào hóa đơn cước 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ Cước TB >= 500.000 đ 
+ 
+ 
+ 
+ 
+ 300.000 
+ 
+ 
+ 
+ 
+ (HT3) Quà hiện vật hoặc trừ vào hóa đơn cước 
+ 
+ 
+ 
+ 
+ 
+ B. Khách hàng cao cấp 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ KH cao cấp trả trước và trả sau (SttB1) 
+ 
+ 
+ 
+ 
+ 300.000 
+ 
+ 
+ 
+ 
+ (HT3) Quà hiện vật hoặc trừ vào hóa đơn cước/cộng tiền vào tài khoản KM2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ KH cao cấp là hội viên KNDL (SttB2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hạng Titan 
+ 
+ 
+ 
+ 
+ 300.000 
+ 
+ 
+ 
+ Khách hàng lên web http://quasinhnhat.mobifone.com.vn để chọn quà tặng 
+ 
+ 
+ 
+ 
+ 
+ Hạng Vàng 
+ 
+ 
+ 
+ 
+ 600.000 
+ 
+ 
+ 
+ 
+ Khách hàng lên web http://quasinhnhat.mobifone.com.vn để chọn quà tặng 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hạng Kim cương 
+ 
+ 
+ 
+ 
+ 1.000.000 
+ 
+ 
+ 
+ 
+ Khách hàng lên web http://quasinhnhat.mobifone.com.vn để chọn quà tặng 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Ghi chú: Đối tượng khách hàng SttB1, SttB2 không nằm trong các đối tượng khách hàng SttA. 
+ 
+ 
+ 
+ Thuê bao chuyển chủ quyền hoặc thanh lý hợp đồng trong tháng sinh nhật: không được nhận quà tặng từ chương trình. 
+ 
+ 
+ Khách hàng có thể lựa chọn một trong các loại quà tặng được nêu. Trong trường hợp quà tặng là hiện vật thì thiệp chúc mừng sinh nhật phải được tặng kèm quà tặng.   
+ 
+ 
+ 
+ 3. Hình thức thực hiện 
+ 
+ 
+ 
+ Đối tượng khách hàng cao cấp SttB2: Chi nhánh xuất danh sách khách hàng được tặng quà tại địa chỉ http://quasinhnhat.mobifone.com.vn /admin . 
+ 
+ 
+ Các đối tượng khách hàng còn lại: Chi nhánh thực hiện tặng quà cho khách hàng căn cứ vào số lượng quà tặng và nguồn chi phí được phân bổ. Chuyên viên CSKH tại chi nhánh phải đích thân thực hiện gửi quà tặng đến khách hàng quà tặng hình thức 3 (nếu có). 
+ 
+ 
+ Tặng quà sinh nhật/ ngày thành lập Công ty: phải tặng đúng người đang sử dụng dịch vụ và tặng vào đúng ngày sinh nhật khách hàng. Trong trường hợp không gặp được khách hàng thì phải thông báo đến khách hàng đã gửi quà tặng cho người thân hoặc đồng nghiệp của khách hàng . 
+ 
+ 
+ Nếu ngày sinh nhật/ thành lập Công ty của khách hàng rơi vào ngày thứ 7 và chủ nhật hoặc các ngày nghỉ lễ Tết, có thể tặng quà trước ngày sinh nhật từ một đến hai ngày. 
+ 
+ 
+ Kết hợp tặng quà chúc mừng sinh nhật thực hiện tư vấn mời khách hàng tham gia đăng ký dịch vụ gia tặng. 
+ 
+ 
+ 
+ 4. Nhắn tin đến khách hàng 
+ 
+ 
+ 
+ Tin nhắn 1: 
+ 
+ 
+ Đối tượng nhắn tin: thuê bao trả trước và trả sau đang hoạt động 2 chiều/1 chiều trên mạng tại trung tâm IV. 
+ 
+ 
+ Đối với khách hàng cá nhân: "	"MobiFone xin gui nhung loi chuc tot dep nhat nhan dip sinh nhat Quy khach"	" .  
+ 
+ 
+ 
+ 
+ Tin nhắn 2: chỉ thực hiện nhắn tin cho các thuê bao lựa chọn hình thức tặng tiền. 
+ 
+ 
+ Đối với khách hàng cá nhân thường: "	"MobiFone gui tang X dong chuc mung sinh nhat Quy khach vao cuoc thang Y. Cam on Quy khach da dong hanh cung MobiFone trong thoi gian qua."	" 
+ 
+ 
+ Đối với khách hàng công ty: MobiFone gui tang X dong nhan dip ky niem ngay thanh lap Cong ty/Co quan cua Quy khach vao cuoc thang Y. Cam on Quy khach da dong hanh cung MobiFone trong thoi gian qua."	" 
+ 
+ 
+ Đối tượng khách hàng trả trước cao cấp : "	"Quy khach dang la khach hang cao cap cua MobiFone. MobiFone gui tang X dong vao tai khoan nhan ngay sinh nhat cua Quy khach. Cam on Quy khach da dong hanh cung MbiFone trong thoi gian qua."	" 
+ 
+ 
+ Đối tượng khách hàng trả sau cá nhân cao cấp: "	"Quy khach dang la khach hang cao cap cua MobiFone. MobiFone gui tang X dong vao hoa don cuoc nhan ngay sinh nhat cua Quy khach. Cam on Quy khach da dong hanh cung MbiFone trong thoi gian qua."	" 
+ 
+		 
+ 
+ Đối tượng khách hàng trả sau cao cấp là công ty: "	"Quy khach dang la khach hang cao cap cua MobiFone. MobiFone gui tang X dong vao hoa don cuoc nhan dip ky niem ngay thanh lap Cong ty/Co quan cua Quy khach. Cam on Quy khach da dong hanh cung MbiFone trong thoi gian qua."	" 
+ 
+ 
+ Thời gian nhắn tin: vào đúng ngày sinh nhật/ thành lập Công ty của khách hàng. 
+ 
+ 
+ Ghi chú: không nhắn tin cho đối tượng SttB2. 
+ 
+ 
+ X : là số tiền tặng khách hàng. Y là tháng sinh nhật/kỷ niệm thành lập của khách hàng. 
+ 
+ 
+ 
+ 
+ Nhắn tin kiểm tra triển khai tặng quà đến khách hàng: 
+ 
+ 
+ Đối với khách hàng cá nhân : "	" MobiFone DA GUI TANG X vao ngay Y nhan ngay sinh nhat cua Quy khach, nguoi nhan Z. Cam on Quy khach da su dung dich vu cua MobiFone. Trong truong hop Quy khach chua nhan duoc qua tang vui long lien he 9090 (bam phim 2) de duoc ho tro"	" . 
+ 
+ 
+ Đối với công ty : "	"MobiFone DA GUI TANG X vao ngay Y nhan dip ky niem ngay thanh lap Cong ty/ Co quan cua Quy khach, nguoi nhan Z. Cam on Quy khach da su dung dich vu cua MobiFone. Trong truong hop Quy khach chua nhan duoc qua tang vui long lien he 9090 (bam phim 2) de duoc ho tro"	". 
+ 
+ 
+ 
+ 
+ 
+   Trong đó:  X là loại quà tặng tặng cho khách hàng, Y là ngày thực hiện tặng quà của khách hàng, Z là tên người nhận. 
+ 
+ 
+ 
+ Thời gian thực hiện nhắn tin: vào ngày 05 và ngày 20 hàng tháng 
+ 
+ 
+ 5. Thời gian thực hiện : Từ 01/04/2013 đến 30/06/2013 
+ 6. Danh sách khách hàng nhận quà chúc mừng sinh nhật 
+ 
+ 
+ Tháng 04/2013: DS nhận quà 
+ 
+ 
+ Tháng 05/2013: DS nhận quà 
+ 
+ 
+ 7. Công văn tham khảo: 809/TTIV-CSKH  
+ 1. Tháng 06/2013 
+ a) Đối tượng 
+ 
+ Khách hàng hội viên Kim cương, Vàng, Titan của chương trình Kết nối dài lâu có ngày sinh nhật trong tháng 06/2013. 
+ Khách hàng cao cấp trả sau và trả trước có ngày sinh nhật trong tháng. 
+ 
+ b) Quy trình thực hiện 
+ Bước 1: Mời khách hàng lựa chọn quà 
+ 
+ Nhắn tin mới khách hàng chọn quà sinh nhật bằng tin nhắn định kỳ hàng tháng theo lịch như sau: 
+ 
+ 
+ 
+ 
+ 
+ Thời gian nhắn tin 
+ 
+ Ngày sinh nhật của khách hàng 
+ 
+ 
+ 
+ 
+ 
+ Ngày 1 
+ 
+ Từ ngày 8 đến ngày 15 
+ 
+ 
+ Ngày 8 
+ Từ ngày 16 đến ngày 23 
+ 
+ 
+ Ngày 16 
+ Từ ngày 24 đến ngày 31 
+ 
+ 
+ Ngày 24 
+ Từ ngày 1 đến ngày 7 
+ 
+ 
+ 
+ 
+ Nội dung nhắn tin: "	"Tu ngay X den Y, MobiFone kinh moi Quy khach CHON qua SINH NHAT bang tin nhan: MF_SN_So thu tu qua gui 9231. Vui long chon 1 trong cac qua tang sau: 1:A; 2:B; 3:C; 4:Z. MobiFone se gui tang hien vat den dia chi cua Quy khach vao ngay sinh nhat"	". 
+ 
+ Với: A. B, C: là các loại quà tặng; Z: trừ D đồng vào hóa đơn tháng sinh nhật (đối với thuê bao trả sau) hoặc cộng D đồng vào tài khoản khuyến mãi 2 (đối với thuê bao trả trước) với D là số tiền tương ứng với giá trị quà tặng của khách hàng. 
+ 
+ Tần suất nhắn tin: 02 lần/thuê bao. Lần 2 chỉ nhắn cho khách hàng chưa chọn quà. 
+ Tổng đài nhắn tin hiển thị trên máy khách hàng: MobiFone. 
+ 
+ Bước 2: Gọi ra chúc mừng sinh nhật và xin cuộc hẹn để tặng quà cho khách hàng. 
+ Bước 3: Tổng hợp danh sách khách hàng và triển khai tặng quà 
+ Bước 4: Cập nhật thông tin khách hàng đã nhận được quà 
+ Bước 5: Kiểm tra việc thực hiện tặng quà đến khách hàng 
+ c) Thời gian thực hiện : Từ ngày 10/06/2013 đến 30/06/2013 
+ 2. Quý III/2013 
+ a) Đối tượng: Khách hàng trả sau và trả trước có ngày sinh nhật trong quý II/2013 và là: 
+ 
+ Hội viên Kim cương, Vàng, Titan của chương trình Kết nối dài lâu. 
+ Khách hàng cao cấp trả sau và trả trước. 
+ Khách hàng được tặng quà hình thức 3. 
+ 
+ b) Nội dung thực hiện: 
+ 
+ Bước 1: Gọi ra chúc mừng sinh nhật và xin cuộc hẹn. 
+ Bước 2: Tổng hợp danh sách khách hàng và triển khai tặng quà. 
+ Bước 3: Cập nhật thông tin khách hàng đã được tặng quà. 
+ Bước 4: Kiểm tra việc thực hiện tặng quà đến khách hàng. 
+ 
+ c) Thời gian thực hiện : Từ ngày 01/07/2013 đến 30/09/2013 
+ 3. Công văn tham khảo : 1634/TTIV-CSKH ; 1872/TTIV-CSKH 
+ 1. Đối tượng 
+ 
+ Khách hàng trả sau có thời gian hòa mạng tối thiểu 1 năm tính đến tháng có sinh nhật của khách hàng. Mức cước để lấy làm căn cứ tặng quà là mức cước đã thanh toán trung bình của 03 chu kỳ cước n-3, n-4, n-5 (với n là tháng sinh nhật). 
+ Khách hàng cao cấp trả trước đầu số Trung tâm IV và khách hàng cao cấp trả sau do Trung tâm IV quản l&lrm;&lrm;ý. Quà tặng không căn cứ vào mức cước sử dụng dịch vụ. 
+ Thuê bao nghiệp vụ, công vụ, sim thử KHÔNG được tham gia chương trình. 
+ 
+ 2. Loại quà tặng và hình thức thực hiện: 
+ 
+ 
+ 
+ 
+ 
+ 
+ STT 
+ 
+ 
+ 
+ 
+ Đối tượng 
+ 
+ 
+ 
+ 
+ Giá trị quà tặng 
+ 
+ 
+ (đồng/ phần) 
+ 
+ 
+ 
+ 
+ Loại quà tặng 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A. Khách hàng trả sau (SttA) 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ Cước TB < 300.000 đ 
+ 
+ 
+ 
+ 
+ 100.000 
+ 
+ 
+ 
+ 
+ (HT1) Quà hiện vật hoặc trừ vào hóa đơn cước 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 300.000 đ ≤ Cước TB < 500.000đ 
+ 
+ 
+ 
+ 
+ 200.000 
+ 
+ 
+ 
+ 
+ (HT2) Quà hiện vật hoặc trừ vào hóa đơn cước 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ Cước TB >= 500.000 đ 
+ 
+ 
+ 
+ 
+ 300.000 
+ 
+ 
+ 
+ 
+ (HT3) Quà hiện vật hoặc trừ vào hóa đơn cước 
+ 
+ 
+ 
+ 
+ 
+ B. Khách hàng cao cấp 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ KH cao cấp trả trước và trả sau (SttB1) 
+ 
+ 
+ 
+ 
+ 300.000 
+ 
+ 
+ 
+ 
+ (HT3) Quà hiện vật hoặc trừ vào hóa đơn cước/cộng tiền vào tài khoản KM2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ KH cao cấp là hội viên KNDL (SttB2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hạng Titan 
+ 
+ 
+ 
+ 
+ 300.000 
+ 
+ 
+ 
+ Khách hàng lên web http://quasinhnhat.mobifone.com.vn để chọn quà tặng 
+ 
+ 
+ 
+ 
+ 
+ Hạng Vàng 
+ 
+ 
+ 
+ 
+ 600.000 
+ 
+ 
+ 
+ 
+ Khách hàng lên web http://quasinhnhat.mobifone.com.vn để chọn quà tặng 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hạng Kim cương 
+ 
+ 
+ 
+ 
+ 1.000.000 
+ 
+ 
+ 
+ 
+ Khách hàng lên web http://quasinhnhat.mobifone.com.vn để chọn quà tặng 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ghi chú: Đối tượng khách hàng SttB1, SttB2 không nằm trong các đối tượng khách hàng SttA. 
+ 
+ Thuê bao chuyển chủ quyền hoặc thanh lý hợp đồng trong tháng sinh nhật: không được nhận quà tặng từ chương trình. 
+ Khách hàng có ngày sinh nhật từ 01/7 đến 15/7 được cộng tiền trừ vào hóa đơn cước hoặc cộng tiền vào tài khoản KM2. Nếu quà tặng là hiện vật thì thiệp chúc mừng sinh nhật phải được tặng kèm quà tặng. 
+ 
+ 3. Hình thức thực hiện: 
+ 
+ Phòng CSKH nhắn tin mời khách hàng lựa chọn quà tặng 
+ Phòng CSKH thực hiện nhắn tin mời các khách hàng chọn quà sinh nhật bằng tin nhắn định kỳ hàng tháng theo lịch như sau: 
+ 
+ 
+ 
+ 
+ 
+ Thời gian nhắn tin 
+ Ngày sinh nhật của KH 
+ 
+ 
+ Ngày 20 và ngày 25 tháng n 
+ Từ ngày 1 đến ngày 15 của tháng n+1 
+ 
+ 
+ Ngày 5 và ngày 10 tháng n+1 
+ Từ ngày 16 đến ngày 23 của tháng n+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ Nội dung tin nhắn: "	" Tu ngay X den Y, MobiFone kinh moi Quy khach CHON qua SINH NHAT bang cach soan: MF_ SN_ so qua gui 9231(mien phi). So qua tang: 1: A; 2: B; 3: C; 4: Z. MobiFone se gui qua tang hien vat den dia chi cua Quy khach vao ngay sinh nhat. Chi tiet lien he 9090"	". 
+ 
+ Với: A, B, C: là các loại quà tặng; Z: Tru D dong vao hoa don thang sinh nhat (đối với thuê bao trả sau) hoặc Cong D dong vao tai khoan KM2 (đối với thuê bao trả trước) với D là số tiền tương ứng với giá trị quà tặng của khách hàng. 
+ Lưu ý : Do số lượng mỗi loại quà tặng có giới hạn, nên trường hợp KH chọn quà hệ thống báo hết quà, thì hướng dẫn KH chọn loại quà khác. 
+ 
+ Tần suất nhắn tin: 02 lần/TB. Lần 2 chỉ nhắn cho các khách hàng chưa chọn quà. 
+ Tổng đài nhắn tin hiển thị trên máy khách hàng: MobiFone 
+ Đối với những trường hợp khách hàng không nhắn tin lựa chọn quà tặng chi nhánh chủ động cập nhật quà tặng để tặng cho khách hàng theo số lượng quà tặng thực tế tồn kho. Thực hiện trước ngày 27 tháng n và 12 tháng n+1. 
+ Sau khi thực hiện tặng quà thành công các Chi nhánh cập nhật kết quả giao quà trong vòng 48h kể từ thời điểm giao quà cho khách hàng lên chương trình http://10.151.120.83:8047/nhantin/login.jsp . 
+ Phòng CSKH thực hiện nhắn tin thông báo thay đổi hình thức quà tặng khi không liên hệ được để tặng quà (nếu có) 
+ 
+ Đối với trả trước cao cấp: "	"Do khong lien he duoc Quy khach de tang qua sinh nhat trong thang N, MobiFone da gui tang Y dong, cong vao tai khoan KM2 vao ngay 15 tháng N+1/2013. Cam on Quy khach da su dung dich vu cua MobiFone"	". 
+ Đối với trả sau: "	" Do khong lien he duoc Quy khach de tang qua sinh nhat trong thang N, MobiFone da gui tang X dong, tru vao hoa don cuoc thang N/2013. Cam on Quy khach da su dung dich vu cua MobiFone"	". 
+ 
+ 
+ 
+ X là số tiền cộng vào TK KM2/trừ vào hóa đơn cước, N là tháng sinh nhật của khách hàng. 
+ 
+ Thời gian thực hiện nhắn tin: vào ngày 05 và ngày 20 hàng tháng 
+ 
+ 
+ 5. Thời gian thực hiện: Từ 01/07/2013 đến 31/07/2013 
+ 6 . Công văn tham khảo : 1888/TTIV-CSKH 
+ 1. Đối tượng: 
+ 
+ KH trả sau cá nhân có thời gian hòa mạng tối thiểu 1 năm tính đến tháng có sinh nhật của KH. Mức cước để lấy làm căn cứ tặng quà là mức cước đã thanh toán trung bình của 03 chu kỳ cước n-3, n-4, n-5 (với n là tháng sinh nhật). 
+ KH cao cấp trả trước đầu số MBF KV 9 và KH cao cấp trả sau do MBF KV 9 quản lý. Quà tặng không căn cứ vào mức cước sử dụng dịch vụ. 
+ TB nghiệp vụ, công vụ, sim thử không được tham gia chương trình. 
+ 
+ 2. Loại quà tặng và hình thức thực hiện: 
+ 
+ 
+ 
+ 
+ 
+ STT 
+ 
+ 
+ Đối tượng 
+ 
+ 
+ Giá trị quà tặng 
+ (đồng/ phần) 
+ 
+ 
+ Loại quà tặng 
+ 
+ 
+ 
+ 
+ 
+  A. Khách hàng trả sau (SttA) 
+ 
+ 
+ 
+  1 
+ 
+ 
+ Cước TB < 300.000 đ 
+ 
+ 
+ 100.000 
+ 
+ (HT1) 01 đĩa thủy tinh hoặc 02 ly thủy tinh hoặc 02 ly gốm sứ hoặc trừ vào hóa đơn cước. 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 300.000 đ ≤ Cước TB < 500.000đ 
+ 
+ 
+ 200.000 
+ 
+ (HT2) 04 ly gốm sứ hoặc 02 đĩa thủy tinh hoặc 06 ly whisky hoặc trừ vào hóa đơn cước. 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ Cước TB >= 500.000 đ 
+ 
+ 
+ 300.000 
+ 
+ (HT3) 01 cân sức khỏe hoặc 01 lọ hoa thủy tinh hoặc 1 hộp đựng thức ăn giữ nhiệt bằng điện hoặc trừ vào hóa đơn cước 
+ 
+ 
+ B. Khách hàng cao cấp 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ KH cao cấp trả trước và trả sau (SttB1) 
+ 
+ 
+ 300.000 
+ 
+ 
+ (HT3) 01 cân sức khỏe hoặc 01 lọ hoa thủy tinh hoặc 01 hộp đựng thức ăn giữ nhiệt bằng điện hoặc trừ vào hóa đơn cước/ cộng tiền vào TK KM2 đối với các KH trả trước đang có VLR tại các TT khác. 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ KH cao cấp là hội viên KNDL (SttB2) 
+ 
+ 
+ 
+ 
+ Hạng Titan 
+ 
+ 
+ 300.000 
+ 
+ 01 đồng hồ tranh hoặc 01 bộ bát sản phẩm hàn quốc the glass hoặc 01 ô cầm tay cao cấp hoặc 01 thẻ xem phim Magastar hoặc 01 bộ mỹ phẩm The Body Shop hoặc 01 sạc pin dự phòng hoặc hoa tươi 
+ 
+ 
+ 
+ Hạng Vàng 
+ 
+ 
+ 600.000 
+ 
+ 01 USB 3G hoặc 01 bộ bát sản phẩm hàn quốc glass clock hoặc 01 hộp trà + trà Ô Long hoặc 01 sạc pin dự phòng hoặc 01 caravat hoặc 01 bút viết cao cấp hoặc 01 bộ mỹ phẩm The Body Shop hoặc hoa tươi. 
+ 
+ 
+ 
+ Hạng Kim cương 
+ 
+ 
+ 1.000.000 
+ 
+ 01 bút máy cao cấp hoặc 01 bộ mỹ phẩm The Body Shop hoặc 01 đồng hồ để bàn hoặc 01 sạc pin dự phòng hoặc hoa tươi. 
+ 
+ 
+ 
+ 
+ 
+ Đối tượng KH SttA, SttB1: được chọn quà tặng qua tin nhắn. 
+ Đối tượng KH SttB2: được chọn quà tặng tại trang Web http://quatang.mobifone.com.vn 
+ Đối tượng KH SttB không nằm trong các đối tượng khách hàng SttA. 
+ 
+ Nếu quà tặng là hiện vật thì thiệp chúc mừng sinh nhật phải được tặng kèm quà tặng. 
+ Thuê bao chuyển chủ quyền hoặc thanh lý hợp đồng trong tháng sinh nhật: không nhận được quà tặng từ chương trình. 
+ 
+ 
+ 
+ 3. Hình thức thực hiện: 
+ 
+ Phòng CSKH nhắn tin mời KH SttA, SttB1 lựa chọn quà tặng, những trường hợp KH không nhắn tin chọn quà thì Phòng CSKH sẽ chủ động gán quà tự động căn cứ theo quà tặng tồn kho của các chi nhánh TTDĐ. 
+ Các chi nhánh thực hiện gọi ra hẹn gặp KH để tặng quà theo kịch bản. Thời gian tặng quà: vào đúng ngày sinh nhật. 
+ 
+ 4. Thời gian thực hiện: Từ 01/08/2013 đến 30/09/2013. 
+ 5. Công văn: 2154/TTIV-CSKH 1. Đối tượng: 
+ 
+ KH trả sau cá nhân có thời gian hòa mạng tối thiểu 1 năm tính đến tháng có sinh nhật của KH. Mức cước để lấy làm căn cứ tặng quà là mức cước đã thanh toán trung bình của 03 chu kỳ cước n-3, n-4, n-5 (với n là tháng sinh nhật). 
+ KH cao cấp trả trước đầu số MBF KV 9 và KH cao cấp trả sau do MBF KV 9 quản lý. Quà tặng không căn cứ vào mức cước sử dụng dịch vụ. 
+ TB nghiệp vụ, công vụ, sim thử không được tham gia chương trình. 
+ 
+ 2. Loại quà tặng và hình thức thực hiện: 
+ 
+ 
+ 
+ 
+ 
+ STT 
+ 
+ 
+ Đối tượng 
+ 
+ 
+ Giá trị quà tặng 
+ (đồng/ phần) 
+ 
+ 
+ Loại quà tặng 
+ 
+ 
+ 
+ 
+ 
+  A. Khách hàng trả sau (SttA) 
+ 
+ 
+ 
+  1 
+ 
+ 
+ Cước TB < 300.000 đ 
+ 
+ 
+ 100.000 
+ 
+ (HT1) 01 đĩa thủy tinh hoặc 02 ly thủy tinh hoặc 02 ly gốm sứ. 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 300.000 đ ≤ Cước TB < 500.000đ 
+ 
+ 
+ 200.000 
+ 
+ (HT2) 04 ly gốm sứ hoặc 02 đĩa thủy tinh hoặc 06 ly whisky. 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ Cước TB >= 500.000 đ 
+ 
+ 
+ 300.000 
+ 
+ (HT3) 01 cân sức khỏe hoặc 01 lọ hoa thủy tinh hoặc 1 hộp đựng thức ăn giữ nhiệt bằng điện. 
+ 
+ 
+ B. Khách hàng cao cấp 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ KH cao cấp trả trước và trả sau (SttB1) 
+ 
+ 
+ 300.000 
+ 
+ 
+ (HT3) 01 cân sức khỏe hoặc 01 lọ hoa thủy tinh hoặc 01 hộp đựng thức ăn giữ nhiệt bằng điện. 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ KH cao cấp là hội viên KNDL (SttB2) 
+ 
+ 
+ 
+ 
+ Hạng Titan 
+ 
+ 
+ 300.000 
+ 
+ Trừ vào hóa đơn cước/cộng tiền vào tài khoản KM2. 
+ 
+ 
+ 
+ Hạng Vàng 
+ 
+ 
+ 600.000 
+ 
+ 01 USB 3G hoặc 01 bộ bát sản phẩm hàn quốc glass clock hoặc 01 hộp trà + trà Ô Long hoặc 01 sạc pin dự phòng hoặc 01 caravat hoặc 01 bút viết cao cấp hoặc 01 bộ mỹ phẩm The Body Shop hoặc hoa tươi. 
+ 
+ 
+ 
+ Hạng Kim cương 
+ 
+ 
+ 1.000.000 
+ 
+ 01 bút máy cao cấp hoặc 01 bộ mỹ phẩm The Body Shop hoặc 01 đồng hồ để bàn hoặc 01 sạc pin dự phòng hoặc hoa tươi. 
+ 
+ 
+ 
+ 
+ 
+ Đối tượng KH SttA, SttB1: được chọn quà tặng qua tin nhắn. 
+ Đối tượng KH SttB2: được chọn quà tặng tại trang Web http://quatang.mobifone.com.vn . Riêng đối với hội viên Titan sẽ được cộng tiền trừ vào hóa đơn cước/cộng tiền vào tài khoản KM2. 
+ Đối tượng KH SttB không nằm trong các đối tượng khách hàng SttA. 
+ 
+ Nếu quà tặng là hiện vật thì thiệp chúc mừng sinh nhật phải được tặng kèm quà tặng. 
+ Thuê bao chuyển chủ quyền hoặc thanh lý hợp đồng trong tháng sinh nhật: không nhận được quà tặng từ chương trình. 
+ 
+ 
+ 
+ 3. Hình thức thực hiện: 
+ 
+ Phòng CSKH nhắn tin mời KH SttA, SttB1 lựa chọn quà tặng, những trường hợp KH không nhắn tin chọn quà thì Phòng CSKH sẽ chủ động gán quà tự động căn cứ theo quà tặng tồn kho của các chi nhánh TTDĐ. 
+ Các chi nhánh thực hiện gọi ra hẹn gặp KH để tặng quà theo kịch bản. Thời gian tặng quà: vào đúng ngày sinh nhật. 
+ 
+ 4. Thời gian thực hiện: Từ 01/10/2013 đến 30/10/2013. 
+ 5. Công văn: 2877/TTIV-CSKH 

@@ -1,0 +1,1 @@
+ 1. Bổ sung gói cước datacode add_on: Mã gói Giá gói (Đã bao gồm VAT) Dung lượng Thời hạn sử dụng DC_ON20 200,000 đồng 18GB 30 ngày 2. Điều chỉnh dung lượng: STT Mã gói Dung lượng hiện tại Dung lượng điều chỉnh 1 DataQT20 1GB 2GB 2 DC100 2.5GB 9GB 3 DC200 5.5GB 18GB 4 DC300 18GB 33GB 5 DC500 32GB 55GB 
