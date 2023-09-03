@@ -1,0 +1,1 @@
+- Thông_tin cũ : Thuê_bao đăng_ký gói cước cam_kết khi mua máy phải là thuê_bao thuộc đối_tượng của chương_trình Mỗi thuê_bao chỉ được nhận khuyến_mãi 01 lần từ_chương_trình Không áp_dụng chương_trình cho các khách_hàng mua máy kèm gói cước subsidy bằng voucher giảm_giá của chương_trình - Thông_tin mới : KH có_thể đăng_ký gói subsidy trên số TB được nhắn_tin hoặc trên số TB mới

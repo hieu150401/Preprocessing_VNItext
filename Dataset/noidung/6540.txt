@@ -1,0 +1,295 @@
+ 1 . Danh sách các DV trên hệ thống CSKH tập trung các DV GTGT: 
+  
+ 
+ 
+ 
+ 
+ ADC 
+ 
+ 
+ Mạng XH Zoota 
+ 
+ 
+ Mobilist 
+ 
+ 
+ SMPP GW HN 
+ 
+ 
+ 
+ 
+ Cổng thông tin Video 
+ 
+ 
+ MCA 
+ 
+ 
+ mPlus 
+ 
+ 
+ SMS QC 090 
+ 
+ 
+ 
+ 
+ DV trò chơi tương tác 
+ 
+ 
+ Media Call 
+ 
+ 
+ mSpace 
+ 
+ 
+ Thông tin Thời tiết 
+ 
+ 
+ 
+ 
+ FastMail 
+ 
+ 
+ mExpress 
+ 
+ 
+ mStory 
+ 
+ 
+ Thế giới nhạc 
+ 
+ 
+ 
+ 
+ FoneBackup 
+ 
+ 
+ mGame 
+ 
+ 
+ Music Talk 
+ 
+ 
+ Tin nhắn Video 
+ 
+ 
+ 
+ 
+ Funring 
+ 
+ 
+ mGame - SMS báo cáo 
+ 
+ 
+ mVoice 
+ 
+ 
+ USSD 
+ 
+ 
+ 
+ 
+ FunRing sáng tạo 
+ 
+ 
+ MobiClip 
+ 
+ 
+ MWorld 
+ 
+ 
+ Voice SMS 
+ 
+ 
+ 
+ 
+ Hệ thống Cắt - Mở DV 
+ 
+ 
+ MobiFone Info 
+ 
+ 
+ Ngoại hạng Anh 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ KM máy ĐT (bundling) 
+ 
+ 
+ MobiFun Live 
+ 
+ 
+ Nạp tiền 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ LiveScore 
+ 
+ 
+ Mobile TV 
+ 
+ 
+ SMPP GW HCM 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 2 . Hướng dẫn sử dụng: 
+  
+ a. Bước 1 : Đăng nhập trang CSKH tập trung: http://cskh-vas.vms.com.vn bằng account LDAP. 
+ 
+ 
+ 
+ - Lưu ý : Mỗi đơn vị, cá nhân có account sử dụng riêng. 
+ 
+  
+ b. Bước 2 : Cài cấu hình đăng nhập SSO cho các DV GTGT (Thực hiện cho lần đầu đăng nhập) 
+  
+ - Cách 1: Bấm trực tiếp lên các DV chưa được cài cấu hình SSO: 
+ 
+ 
+ K hi truy cập vào 1 DV chưa được cài cấu hình, hệ thống sẽ hiển thị cửa sổ cho người dùng tự cài, có hiện tên của DV tương ứng. Ví dụ: DV mSpace. 
+ 
+ 
+ 
+ 
+ 
+ Bấm "	" Lưu "	" để lưu cấu hình vào hệ thống. Người dùng quay trở lại tab "	" Hệ thống tích hợp "	" Bấm vào DV vừa được cài đặt để kiểm tra lại. DV sẽ tự động đăng nhập với account đã cài đăt. 
+ 
+ 
+ B ấm vào tab "	"Cấu hình tài khoản SSO "	" để kiểm tra cấu hình đã được lưu vào hệ thống chưa? 
+ 
+ 
+ 
+ 
+ 
+ D anh sách các DV đã và chưa được cài đặt hiện ra như hình dưới . 
+ 
+ 
+ Các DV có "	" Cập nhật | Xóa "	" là các DV đã cài cấu hình. Ví dụ: ADC 
+ 
+ 
+ Các DV chỉ có "	" Cập nhật "	" là các DV chưa được cài cấu hình. Ví dụ: Voice SMS 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ - Cách 2: Bấm vào tab "	"Cấu hình tài khoản SSO"	" cài đặt cho tất cả các DV 
+ 
+ 
+ Để quản lý các account đã cài đặt, người dùng truy cập theo link Cấu hình tài khoản SSO : 
+ 
+ 
+ 
+ 
+ 
+ Khi đó, hệ thống sẽ hiển thị danh sách các account cho tất cả các DV. Đối với các hệ thống chưa được cài cấu hình thì trường Tên đăng nhập và Mật khẩu được để trống: 
+ 
+ 
+ 
+ 
+ 
+ Người dùng có thể chọn Cập nhật hoặc Xóa account đăng nhập này tùy theo yêu cầu 
+ 
+ 
+ - Lưu ý: Nếu thay đổi mật khẩu trên trang CSKH của một DV, Quản trị CSKH phải vào mục "	"Cấu hình tài khoản SSO"	" để cập nhật lại mật khẩu đã thay đổi. 
+  
+ - Cách 3: Sử dụng tính năng tra cứu CSKH các DV GTGT 
+ 
+ 
+ Sau khi cài cấu hình đăng nhập SSO ở bước 2, để tra cứu thông tin CSKH của một DV GTGT, người dùng bấm vào tên DV ở cột bên trái hoặc bấm vào icon tương ứng ở bên phải. 
+ 
+ 
+ 
+ 
+ 
+ Hệ thống sẽ tự động đăng nhập vào trang CSKH của DV được chọn. Hình dưới minh họa về tra cứu thông tin CSKH của DV Mvoice 
+ 
+ 
+ 
+ 
+  
+ 3 . Hướng dẫn sử dụng và xử lý các DV: chọn "	" Tài nguyên "	", chọn "	"Hướng dẫn CSKH các DV GTGT"	" 
+  
+ 
+  
+ 4 . Đầu mối hỗ trợ đăng ký và sử dụng hệ thống: (chỉ VMS liên hệ) 
+  
+ 
+ 
+ 
+ Đơn vị 
+ Nhân viên 
+ Mail 
+ Điện thoại 
+ 
+ 
+ Phòng Phát triển Dịch vụ 
+ Pham Đức Hòa: Hỗ trợ KT trang CSKH tập trung 
+ hoapd@vms.com.vn 
+ 0902141144 
+ 
+ 
+ Ph òng Kế hoạch - Kinh doanh 
+ Phạm Thị Huê - Hỗ trợ CSKH 
+ huept1@vms.com.vn 
+ 0904868646 
+ 
+ 
+ Chi nhánh VAS Hà Nội - Hỗ trợ TTDĐ KV I, V 
+ Nguyễn Ngọc Thúy - Hỗ trợ cấp account, cấu hình SSO, CSKH 
+ thuynn1@vms.com.vn 
+  0939000055 
+ 
+ 
+ Chi nhánh VAS Đà Nẵng - Hỗ trợ TTDĐ KV III 
+ Phan Thị Minh Bé - Hỗ trợ cấp account, cấu hình SSO, CSKH 
+ Beptm@vms.com.vn 
+ 0903565653 
+ 
+ 
+ Chi nhánh VAS Hồ Chí Minh - Hỗ trợ TTDĐ KV II, IV, VI 
+ Lâm Thanh Giang - Hỗ trợ cấp account, cấu hình SSO 
+ gianglt@vms.com.vn 
+ 0907708082 
+ 
+ 
+ Nguyễn Quốc Liên - Hỗ trợ CSKH 
+ liennq@vms.com.vn 
+ 0903110311 
+ 
+ 
+ 
+  
+ 5. Công văn: 2822/VMS-CSKH 1. Đăng nhập: vào Chương trình Vas tập trung http://cskh-vas.vms.com.vn/ theo user và PW đã cấp: Chọn mục hoặc biểu tượng CMDV (Cắt mở dịch vụ). 
+ 
+ 2. Tra cứu thông tin: 
+ 
+ T ra cứu DV mà TB đang dùng: Chọn mục Tra cứu thông tin sử dụng VAS 
+ T ra cứu lịch sử sử dụng DV: Chọn mục Tra cứu thông tin lịch sử sử dụng VAS 
+ Nhập số thuê bao KH và bấm vào nút Xem thông tin 
+ 
+ 
+ 3 . Xem kết quả: 
+ 
+ Thông tin sử dụng: 
+ 
+ 
+ 
+ Lịch sử sử dụng: 
+ 
+ 

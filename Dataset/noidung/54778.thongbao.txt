@@ -1,0 +1,1 @@
+ Chọn mục [LS nạp thẻ] trên trang http://qlkh.mobifone.vn/1090/ Hướng dẫn tra cứu: Đầu vào: nhập thời gian cần tra cứu, từ ngày đến thời gian hiện tại. Đầu ra: thời gian nạp tiền, tiền nạp, số thẻ, nguồn nạp thẻ. Lưu ý: dữ liệu trả cứu được từ 3/2022 về sau, thời gian trước đó không tra cứu được. 

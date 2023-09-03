@@ -1,0 +1,1 @@
+Tên gói Data Giá bán tối_thiểu ( đồng ) Giá bán tối_đa ( đồng ) Thời_gian sử_dụng UD72 4096 MB 60.000 72.000 Trong vòng 15 ngày sau khi cộng UD93 5632 MB 77.000 92.400 Trong vòng 20 ngày sau khi cộng UD118 7168 MB 98.000 117.600 Trong vòng 30 ngày sau khi cộng UD120 8192 MB 100.000 120.000 Trong vòng 30 ngày sau khi cộng

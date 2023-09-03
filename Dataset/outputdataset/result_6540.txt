@@ -1,0 +1,294 @@
+1 . Danh_sách các DV trên hệ_thống CSKH tập_trung các DV GTGT : 
+ 
+ 
+ 
+ 
+ 
+ ADC 
+ 
+ 
+ Mạng XH_Zoota 
+ 
+ 
+ Mobilist 
+ 
+ 
+ SMPP GW HN 
+ 
+ 
+ 
+ 
+ Cổng thông_tin Video 
+ 
+ 
+ MCA 
+ 
+ 
+ mPlus 
+ 
+ 
+ SMS QC 090 
+ 
+ 
+ 
+ 
+ DV trò_chơi tương_tác 
+ 
+ 
+ Media_Call 
+ 
+ 
+ mSpace 
+ 
+ 
+ Thông_tin Thời_tiết 
+ 
+ 
+ 
+ 
+ FastMail 
+ 
+ 
+ mExpress 
+ 
+ 
+ mStory 
+ 
+ 
+ Thế_giới nhạc 
+ 
+ 
+ 
+ 
+ FoneBackup 
+ 
+ 
+ mGame 
+ 
+ 
+ Music_Talk 
+ 
+ 
+ Tin nhắn Video 
+ 
+ 
+ 
+ 
+ Funring 
+ 
+ 
+ mGame - SMS báo_cáo 
+ 
+ 
+ mVoice 
+ 
+ 
+ USSD 
+ 
+ 
+ 
+ 
+ FunRing sáng_tạo 
+ 
+ 
+ MobiClip 
+ 
+ 
+ MWorld 
+ 
+ 
+ Voice_SMS 
+ 
+ 
+ 
+ 
+ Hệ_thống Cắt - Mở_DV 
+ 
+ 
+ MobiFone_Info 
+ 
+ 
+ Ngoại_hạng Anh 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ KM máy ĐT ( bundling ) 
+ 
+ 
+ MobiFun_Live 
+ 
+ 
+ Nạp_tiền 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LiveScore 
+ 
+ 
+ Mobile_TV 
+ 
+ 
+ SMPP GW HCM 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 . Hướng_dẫn sử_dụng : 
+ 
+ a . Bước 1 : Đăng_nhập trang CSKH tập_trung : http://cskh-vas.vms.com.vn bằng account LDAP. 
+ 
+ 
+ 
+ - Lưu_ý : Mỗi đơn_vị , cá_nhân có account sử_dụng riêng . 
+ 
+ 
+ b . Bước 2 : Cài cấu_hình đăng_nhập SSO cho các DV GTGT ( Thực_hiện cho lần đầu đăng_nhập ) 
+ 
+ - Cách 1 : Bấm trực_tiếp lên các DV chưa được cài cấu_hình SSO : 
+ 
+ 
+ K hi truy_cập vào 1 DV chưa được cài cấu_hình , hệ_thống sẽ hiển_thị cửa_sổ cho người dùng tự cài , có hiện tên của DV tương_ứng . Ví_dụ : DV mSpace . 
+ 
+ 
+ 
+ 
+ 
+ Bấm " " Lưu " " để lưu cấu_hình vào hệ_thống . Người dùng quay trở_lại tab " " Hệ_thống tích_hợp " " Bấm vào DV vừa được cài_đặt để kiểm_tra lại . DV sẽ tự_động đăng_nhập với account đã cài đăt . 
+ 
+ 
+ B ấm vào tab " " Cấu_hình tài_khoản SSO " " để kiểm_tra cấu_hình đã được lưu vào hệ_thống chưa ? 
+ 
+ 
+ 
+ 
+ 
+ D anh sách các DV đã và chưa được cài_đặt hiện ra như hình dưới . 
+ 
+ 
+ Các DV có " " Cập_nhật | Xóa " " là các DV đã cài cấu_hình . Ví_dụ : ADC 
+ 
+ 
+ Các DV chỉ có " " Cập_nhật " " là các DV chưa được cài cấu_hình . Ví_dụ : Voice_SMS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ - Cách 2 : Bấm vào tab " " Cấu_hình tài_khoản SSO " " cài_đặt cho tất_cả các DV 
+ 
+ 
+ Để quản_lý các account đã cài_đặt , người dùng truy_cập theo link Cấu_hình tài_khoản SSO : 
+ 
+ 
+ 
+ 
+ 
+ Khi đó , hệ_thống sẽ hiển_thị danh_sách các account cho tất_cả các DV. Đối_với các hệ_thống chưa được cài cấu_hình thì trường Tên đăng_nhập và Mật_khẩu được để trống : 
+ 
+ 
+ 
+ 
+ 
+ Người dùng có_thể chọn Cập_nhật hoặc Xóa_account đăng_nhập này tùy theo yêu_cầu 
+ 
+ 
+ - Lưu_ý : Nếu thay_đổi mật_khẩu trên trang CSKH của một DV , Quản_trị CSKH phải vào mục " " Cấu_hình tài_khoản SSO " " để cập_nhật lại mật_khẩu đã thay_đổi . 
+ 
+ - Cách 3 : Sử_dụng tính_năng tra_cứu CSKH các DV GTGT 
+ 
+ 
+ Sau khi cài cấu_hình đăng_nhập SSO ở bước 2 , để tra_cứu thông_tin CSKH của một DV GTGT , người dùng bấm vào tên DV ở cột bên trái hoặc bấm vào icon tương_ứng ở bên phải . 
+ 
+ 
+ 
+ 
+ 
+ Hệ_thống sẽ tự_động đăng_nhập vào trang CSKH của DV được chọn . Hình dưới minh_họa về tra_cứu thông_tin CSKH của DV_Mvoice 
+ 
+ 
+ 
+ 
+ 
+ 3 . Hướng_dẫn sử_dụng và xử_lý các DV : chọn " " Tài_nguyên " " , chọn " " Hướng_dẫn CSKH các DV GTGT " " 
+ 
+ 
+ 
+ 4 . Đầu_mối hỗ_trợ đăng_ký và sử_dụng hệ_thống : ( chỉ VMS liên_hệ ) 
+ 
+ 
+ 
+ 
+ Đơn_vị 
+ Nhân_viên 
+ Mail 
+ Điện_thoại 
+ 
+ 
+ Phòng Phát_triển Dịch_vụ 
+ Pham_Đức_Hòa : Hỗ_trợ KT trang CSKH tập_trung 
+ hoapd@vms.com.vn 
+ 0902141144 
+ 
+ 
+ Ph òng Kế_hoạch - Kinh_doanh 
+ Phạm_Thị_Huê - Hỗ_trợ CSKH 
+ huept1@vms.com.vn 
+ 0904868646 
+ 
+ 
+ Chi_nhánh VAS Hà_Nội - Hỗ_trợ TTDĐ KV I , V 
+ Nguyễn_Ngọc_Thúy - Hỗ_trợ_cấp account , cấu_hình SSO , CSKH 
+ thuynn1@vms.com.vn 
+ 0939000055 
+ 
+ 
+ Chi_nhánh VAS Đà_Nẵng - Hỗ_trợ TTDĐ KV III 
+ Phan_Thị Minh_Bé - Hỗ_trợ_cấp account , cấu_hình SSO , CSKH 
+ Beptm@vms.com.vn 
+ 0903565653 
+ 
+ 
+ Chi_nhánh VAS Hồ_Chí_Minh - Hỗ_trợ TTDĐ KV II , IV , VI 
+ Lâm_Thanh_Giang - Hỗ_trợ_cấp account , cấu_hình SSO 
+ gianglt@vms.com.vn 
+ 0907708082 
+ 
+ 
+ Nguyễn_Quốc_Liên - Hỗ_trợ CSKH 
+ liennq@vms.com.vn 
+ 0903110311 
+ 
+ 
+ 
+ 
+ 5 . Công_văn : 2822 / VMS - CSKH 1 . Đăng_nhập : vào Chương_trình Vas tập_trung http://cskh-vas.vms.com.vn/ theo user và PW đã cấp : Chọn mục hoặc biểu_tượng CMDV ( Cắt mở dịch_vụ ) . 
+ 
+ 2 . Tra_cứu thông_tin : 
+ 
+ T ra cứu DV mà TB đang dùng : Chọn mục Tra_cứu thông_tin sử_dụng VAS 
+ T ra cứu lịch_sử sử_dụng DV : Chọn mục Tra_cứu thông_tin lịch_sử sử_dụng VAS 
+ Nhập số thuê_bao KH và bấm vào nút Xem thông_tin 
+ 
+ 
+ 3 . Xem kết_quả : 
+ 
+ Thông_tin sử_dụng : 
+ 
+ 
+ 
+ Lịch_sử sử_dụng : 
+ 

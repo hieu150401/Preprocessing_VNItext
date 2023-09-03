@@ -1,0 +1,1 @@
+ Từ 7/6/2013, khi KH gọi đến số thuê bao không có thực: hệ thống sẽ thông báo "	" thuê bao quý khách vừa gọi hiện không liên lạc được, xin quý khách vui lòng gọi lại sau "	" thay cho câu "	"số máy không tồn tại......"	". 

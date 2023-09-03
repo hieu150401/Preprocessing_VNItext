@@ -1,0 +1,1 @@
+ 1. MỤC ĐÍCH: - Mời khách hàng thuộc đối tượng chương trình tham gia chuyến du lịch Đài Loan từ ngày 13/12/2016 đến 18/12/2016 2. ĐỐI TƯỢNG: - KH thuộc đối tượng chương trình Cảm ơn Khách hàng lâu năm 2016 3. SỐ GỌI RA: 0613.942711 4. THỜI GIAN: Từ 23/11/2016 

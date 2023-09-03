@@ -1,0 +1,1 @@
+ - Thống nhất các bước xử lý khi có phản ánh của KH : Bước 1: ĐTV khuyến cáo KH không nên gọi lại các thuê bao có đầu số lạ, có thể bị tính cước gọi quốc tế Bước 2: ĐTV yêu cầu KH cung cấp số thuê bao nháy máy. Bước 3: ĐTV nhập feedback ( Bộ phận xử lý thống kê và gửi danh sách thuê bao nghi ngờ gian lận cho TT VTQT ). 

@@ -1,0 +1,527 @@
+ 1. Đối tượng và nội dung chương trình: các thuê bao là Hội viên hạng Titan, Vàng và Kim cương của chương trình KNDL sẽ được cấp 01 thẻ Hội viên tương ứng với Hạng hội viên: 
+ 
+ 
+ H ội viên Titan được cấp thẻ Titan (là Hội viên có cước sử dụng khoảng 600.000đ/ tháng, và trong 12 tháng liên tục). 
+ 
+ 
+ H ội viên Vàng được cấp thẻ Vàng ( là Hội viên có cước sử dụng khoảng 2 triệu/ tháng, và trong 12 tháng liên tục). 
+ 
+ 
+ Hội viên Kim cương được cấp thẻ Kim cương (là Hội viên có cước sử dụng khoảng 4 triệu/ tháng, và trong 12 tháng liên tục). 
+ 
+ 
+ 2. Qui định cấp thẻ: 
+ 
+ 
+ Qui định cấp thẻ cho HV Kim cương, HV Vàng: áp dụng từ 1/7/2010 
+ 
+ 
+ Qui định cấp thẻ cho HV Titan: áp dụng từ 1/1/2012 
+ 
+ 
+ Thẻ sẽ được gửi đến KH bằng thư bảo đảm qua đường bưu điện. 
+ 
+ 
+ Lưu ý: trường hợp KH đã được cấp thẻ rồi, sau đó chuyển chủ quyền thì KH cũ cũng sẽ không dùng được thẻ nữa do thông tin TB không còn trên hệ thống. KH mới được CCQ thì có 2 tình huống: Áp dụng cho Trả trước và trả sau 
+ 
+ 
+ Nếu KH xác nhận với nhân viên giao dịch về việc tiếp tục duy trì làm HV KNDL: số điểm còn lại được chuyển qua KH mới. Hạng HV được tính là Hạng đồng. Nê n không sẽ không còn là hội viên cao cấp. 
+ 
+ 
+ Nếu KH không đồng ý tiếp tục tham gia KNDL: Hủy thành viên KNDL, điểm, hạng của HV. Khi muôn đăng ký lại, KH tuân theo quy định của chương trình 
+ 
+ 
+ Trả sau: KH mới được giữ điểm nhưng không được giữ hạng (xuống hạng Đồng) nên không sẽ không còn là hội viên cao cấp. 
+ 
+ 
+ Trả trước: KH mới được giữ điểm và hạng nên có thể liên hệ MF để yêu cầu cấp thẻ .  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Đối tượng 
+ 
+ 
+ Quy định 
+ 
+ 
+ Thời gian cấp thẻ 
+ 
+ 
+ 
+ 
+ Cấp thẻ mới 
+  
+ 
+ 
+ - Trước khi cấp thẻ, MobiFone sẽ tiến hành liên lạc với thuê bao để xác minh thông tin. 
+ 
+ 
+ Thuê bao cá nhân: chỉ cấp thẻ cho đúng chủ thuê bao. 
+ 
+ 
+ Thuê bao công ty: do thẻ hội viên cấp cho tên cá nhân cụ thể, nên có 2 trường hợp: 
+ 
+ 
+ Nếu tên thuê bao bao gồm "	"Tên công ty - Tên cá nhân"	": chỉ cấp thẻ cho đúng "	"Tên cá nhân"	" đã được đăng ký. 
+ 
+ 
+ Nếu tên thuê bao chỉ có "	"Tên công ty"	": công ty cần cung cấp thêm thông tin cá nhân của người đăng ký sử dụng thẻ. 
+ 
+ 
+ 
+ 
+ 
+ 
+ T rong vòng 60 ngày kể từ ngày Hội viên thăng hạng. 
+ 
+ 
+ 
+ 
+ Cấp lại thẻ cho HV bị mất thẻ 
+  
+ 
+ 
+ - Soạn tin Capthe gửi 9237. Hệ thống sẽ kiểm tra thông tin và phản hồi nội dung >> Hiện tại đang tạm ngưng không thực hiện được. 
+ - Phí cấp thẻ là 200 điểm KNDL và được trừ vào tài khoản điểm KNDL theo thứ tự ưu tiên điểm thưởng trước, điểm xét hạng sau (hiện nay cấp lại thẻ chưa bị trừ điểm). 
+ 
+ 
+ Trong vòng 60 ngày kể từ ngày Hội viên gửi SMS. 
+ 
+ 
+ 
+ 
+ Cấp lại thẻ khi thẻ hết hiệu lực 
+ 
+ 
+ Chỉ cấp thẻ cho Hội viên vẫn giữ được hạng thành viên và không vi phạm các qui định về sử dụng thẻ hội viên. 
+ 
+ 
+ Trong vòng 60 ngày kể từ ngày xét hạng 
+ 
+ 
+ 
+ 
+ 
+ 3 . Qui định cho các thuê bao thuộc đối tượng được cấp thẻ, tuy nhiên chưa có thẻ hội viên: 
+ a. Một số trường hợp thuộc đối tượng tham gia chương trình nhưng chưa được cấp thẻ, lý do: 
+ 
+ 
+ Trường hợp 1: 
+ 
+ 
+ Trước đó Hội viên đã từ chối cấp thẻ. 
+ 
+ 
+ Hoặc là thuê bao tổ chức/ doanh nghiệp đã từ chối cung cấp thông tin cá nhân người đang sử dụng khi MobiFone xác minh thông tin. 
+ 
+ 
+ Hoặc MobiFone không liên lạc được với Hội viên khi cần xác minh thông tin. 
+ 
+ 
+ 
+ 
+ Trường hợp 2: tên người sử dụng khi MobiFone xác minh không trùng với thông tin đã đăng ký. 
+ 
+ 
+ b. Hướng xử lý nếu khách hàng có nhu cầu được cấp thẻ: 
+ 
+ 
+ Trường hợp 1: chọn 1 trong 3 cách sau: 
+ 
+ 
+ Liên hệ với tổng đài của MobiFone. (Nên gọi 18001090 và chọn nhánh 222 để vào line ưu tiên cho đối tượng này) => ĐTV ghi nhận feedback cho phòng CSKH. 
+ 
+ 
+ Điền thông tin vào "	" Phiếu yêu cầu cấp thẻ hội viên KNDL "	" v à gửi mail đến kndl@vms.com.vn (có thể tải mẫu thẻ từ địa chỉ web: http://ketnoidailau.mobifone.com.vn ) 
+ 
+ 
+ Liên hệ CH MobiFone để đăng ký. 
+ 
+ 
+ 
+ 
+ Trường hợp 2 : Liên hệ CH MobiFone để thay đổi thông tin người sử dụng và đăng ký cấp thẻ. 
+ 
+ 
+ c. Thời gian cấp thẻ: 
+ 
+ 
+ Trong vòng 60 ngày kể từ ngày Hội viên yêu cầu 
+ 
+ 
+ Trường hợp KH khiếu nại, có lý do để cần thẻ gấp thì thông thường có thể gửi cho KH t rong vòng 1 tuần kể từ ngày yêu cầu. 
+ 
+ 
+ 4. Quyền lợi của Hội viên khi được cấp thẻ: 
+ 
+ 
+ Thông tin về chương trình thẻ hội viên KNDL: KH truy cập website http://ketnoidailau.mobifone.com.vn > chọn Tab Thẻ hội viên để xem các thông tin sau: 
+ 
+ 
+ Ưu đãi cho chủ thẻ 
+ 
+ 
+ Nội quy sử dụng 
+ 
+ 
+ Đối tượng cấp thẻ 
+ 
+ 
+ Điều kiện cấp thẻ 
+ 
+ 
+ 
+ 
+ Ngoài các ưu đãi hiện có của chương trình KNDL , KH sẽ được 2 ưu đãi của nhóm đối tác liên kết khi sở hữu thẻ hội viên. 
+ 
+ 
+ Tùy thuộc vào từng đối tác liên kết, các ưu đãi có thể chỉ áp dụng cho một số đối tượng Hội viên nhất định (vd chỉ áp dụng cho Hội viên vàng, kim cương mà không áp dụng cho Hội viên Titan...) 
+ 
+ 
+ 2 ưu đãi khi sở hữu thẻ hội viên (xem chi tiết trên web KNDL) gồm: 
+ 
+ 
+ a. Ưu đãi mức 1 - Là ưu đãi giảm giá cho Hội viên xuất trình Thẻ hội viên khi thanh toán hóa đơn hoặc đăng ký dịch vụ tại các điểm cung cấp dịch vụ của đối tác liên kết. Gồm: 
+ 
+ 
+ Nhóm Resort, khách sạn, du thuyền: Giảm giá khi sử dụng phòng nghỉ, ăn uống... 
+ 
+ 
+ Nhóm Chăm sóc sức khỏe: Giảm giá + các ưu đãi thêm về gói dịch vụ tặng kèm khi dùng dịch vụ Spa, khám chữa bệnh... 
+ 
+ 
+ Nhóm Hàng tiêu dùng: Giảm giá khi mua các sản phẩm đồng hồ, nữ trang, cao cấp, hàng quần áo thời trang... 
+ 
+ 
+ Nhóm Ăn uống: Giảm giá khi sử dụng sản phẩm nhà hàng, cà phê, rượu vang... 
+ 
+ 
+ Nhóm Giáo dục: Giảm 20% khi đăng ký học Anh văn tại British Council (TPHCM), .... 
+ 
+ 
+ Nhóm dịch vụ hàng không: sử dụng phòng chờ VIP, giảm giá 5-10% các dịch vụ/mua sắm.. của SASCO sân bay Tân Sơn Nhất 
+ 
+ 
+ b. Ưu đãi mức 2 - Là ưu đãi cộng thêm của MobiFone ngoài ưu đãi mức 1 (chỉ áp dụng cho một số đối tác nhất định). Gồm: 
+ 
+ 
+ Nhóm du thuyền: giảm tiếp 200.000 VND/ lần đặt dịch vụ Bhaya Cruises Vịnh Hạ Long. (Mã đối tác BHAYA). 
+ 
+ 
+ Nhóm Nhà hàng - khách sạn: tặng thêm tiền (giảm giá) và điểm KNDL (tùy đối tác) 
+ 
+ Để được hưởng ưu đãi này, KH cần thực hiện các bước sau:  
+ 
+ 
+ 
+ 
+ 
+ 
+ Các bước 
+ 
+ 
+ Nội dung 
+ 
+ 
+ 
+ 
+ Bước 1: 
+ KH phải dùng TB tham gia KNDL gửi 9237 
+ 
+ 
+ - Cú pháp: LK_Mã đối tác_Địa chỉ email KH_Nội dung khác (nếu có). Lưu ý "	"_"	" là khoảng trắng. 
+  
+ - Hệ thống phản hồi các thông tin sau: 
+ 
+ 
+ Tin nhắn 1: Yêu cầu của Quý khách đã được xác nhận. Hãy truy cập email để xem chi tiết ưu đãi của đối tác dành cho Quý khách. Mã giao dịch sẽ được gửi trong ít phút nữa. 
+ 
+ 
+ Tin nhắn 2: "	"Mã giao dịch của Quý khách là Xyyyy . Vui lòng xuất trình cùng với Thẻ Hội viên khi đặt chỗ hoặc thanh toán để hưởng ưu đãi từ chương trình"	". Trong đó mã giao dịch sẽ có ký tự đầu tiên là Hạng hội viên (D - Diamond, G - Gold, T - Titan … và 4 ký tự số, đánh thứ tự từ 0001…. Đến 9999) 
+ 
+ 
+ E-mail: Gửi email đến địa chỉ email của KH nội dung ưu đãi mà đối tác dành cho Hội viên. 
+ 
+ 
+ Nội dung khác: có thể ghi hoặc không ghi 
+ 
+ 
+ 
+ 
+ 
+ 
+ Bước 2: 
+ Hội viên xuất trình mã giao dịch 
+ 
+ 
+ Hội viên xuất trình mã giao dịch khi thanh toán hóa đơn hay khi đăng ký dịch vụ để được nhận ưu đãi mức 2. 
+ 
+ 
+ 
+ 
+ 
+ 5 . Quy định về sử dụng Thẻ hội viên: 
+ 
+ 
+ KH đứng tên nhiều TB, mỗi TB đủ điều kiện thì được cấp 1 thẻ Hội viên riêng và KH được hưởng quyền lợi trên mỗi thẻ Hội viên. 
+ 
+ 
+ Mọi ưu đãi kèm theo thẻ Hội viên chỉ có giá trị khi Hội viên xuất trình thẻ và thực hiện theo các nội dung hướng dẫn của chương trình khi mua sắm hàng hóa hay sử dụng dịch vụ tại các điểm cung cấp dịch vụ của đối tác liên kết của MobiFone. 
+ 
+ 
+ Trường hợp KH chưa nhận được thẻ mà yêu cầu được xác nhận với đối tác, hướng dẫn KH liên hệ hotlinehỗ trợ 9237. 
+ 
+ 
+ 
+ 
+ Ưu đãi chỉ được áp dụng khi Hội viên gửi tin nhắn theo cú pháp quy định. Dấu "	"_"	" trong các cú pháp nhắn tin là một khoảng trống. 
+ 
+ 
+ Các ưu đãi này không có giá trị khi được áp dụng chung với bất kỳ chương trình khuyến mại, giảm giá, phiếu mua sắm nào khác trừ khi có quy định hay thông báo khác. 
+ 
+ 
+ Số lượng đêm nghỉ (áp dụng với nhóm khách sạn/Resorts) hoặc lần đặt dịch vụ (áp dụng với nhóm Du thuyền) được quy định như sau: mức ưu đãi cộng thêm khi nhắn tin chỉ áp dụng tối đa cho 07 đêm nghỉ/tháng đối với nhóm khách sạn/Resorts hoặc 07 lần đặt dịch vụ/tháng đối với nhóm du thuyền (tính từ ngày 01 đến ngày cuối cùng của tháng). Các nhóm dịch vụ khác được quy định cụ thể tại từng đối tác. Số đêm nghỉ hoặc lần đặt dịch vụ vượt quá sẽ chỉ áp dụng mức giảm giá ưu đãi của đối tác liên kết. 
+ 
+ 
+ Các điểm thưởng do MobiFone tặng khi Hội viên sử dụng dịch vụ của đối tác liên kết (nếu có) chỉ có giá trị khi quy đổi thành giải thưởng của chương trình Kết nối dài lâu và không có giá trị để xét hạng Hội viên 
+ 
+ 
+ Các mức ưu đãi không có giá trị quy đổi thành tiền mặt cũng như không thể chuyển nhượng cho người khác. 
+ 
+ 
+ Mọi thông tin của chương trình sẽ được thông báo tại trang web www.mobifone.com.vn hoặc http://ketnoidailau.mobifone.com.vn 
+ 
+ 
+ MobiFone có quyền sửa đổi, bổ sung, giới hạn, hủy bỏ các ưu đãi mà không cần thông báo trước. 
+ 
+ 
+ MobiFone không chịu trách nhiệm về chất lượng hàng hóa, dịch vụ được cung cấp bởi các đối tác liên kết. 
+ 
+ 
+ Trong trường hợp xảy ra tranh chấp, quyết định của MobiFone sẽ là quyết định cuối cùng. 
+ 
+ 
+ Hội viên giữ hạng nhưng phát hiện có dấu hiệu gian lận, cấu kết với đối tác liên kết để hưởng ưu đãi, thì: 
+ 
+ 
+ Hội viên không bị thu hồi thẻ nhưng bị đánh dấu Thẻ hết hiệu lực trên hệ thống. 
+ 
+ 
+ Khi đó Hội viên chỉ nhận được ưu đãi mức 1 (ưu đãi mức 2 hết hiệu lực ngay khi Thẻ hội viên hết hiệu lực) 
+ 
+ 
+ 
+ 
+ Nếu đến kỳ xét hạng mà thuê bao bị xuống hạng thì sẽ không được cấp lại thẻ, mà tùy thuộc vào hạng thành viên lúc đó để cấp thẻ tương ứng (Ví dụ: thuê bao được cấp thẻ Kim Cương, đến kỳ xét hạng tiếp theo bị xuống hạng Vàng, thì thuê bao chi được cấp thẻ Vàng). 
+ 
+ 
+ 6. Thông tin về chương trình: 
+ 
+ 
+ Website: http://ketnoidailau.mobifone.com.vn 
+ 
+ 
+ Đường dây trợ giúp các vấn đề về thẻ hội viên (khiếu nại/ thắc mắc, chưa nhận được thẻ/yêu cầu cấp lại/mất thẻ): KH cần liên hệ trực tiếp số 9237 (8h-20h tất cả các ngày trong tuần, cước nội mạng) để được hỗ trợ trực tiếp (ĐTV chỉ hướng dẫn gọi 9237, không hứa in/cấp thẻ lại cho KH) 
+ 
+ 
+ Các nội dung khác về chương trình KNDL (nội dung chương trình, các ưu đãi, phản ảnh chất lượng đối tác,...) thì ĐTV (9090/9393/18001090/144) vẫn hỗ trợ bình thường . >> Cần lưu ý tư vấn line 9237 chuyên hỗ trợ về thẻ để tránh KH gọi line thường dẫn đến thông tin không thống nhất làm cho KH khiếu nại. 
+ 
+ 
+ Thông tin về số 9237 có trên website và email cho KH. 
+ 
+ 
+ 
+ 
+ Email: kndl@vms.com.vn 
+ 
+ 
+ 7 . Thông tin về thẻ: 
+ 
+ 
+ Khi được cấp thẻ, Hội viên sẽ nhận được 01 thẻ Hội viên, không gửi kèm cẩm nang sử dụng và cẩm nang bỏ túi. 
+ 
+ 
+ Trên thẻ có các thông ti n: hình ảnh thẻ 
+ 
+ 
+ Tên hội viên: là tên cá nhân của khách hàng. 
+ 
+ 
+ Mã số thẻ gồm 9 ký tự: 
+ 
+ 
+ Ký tự đầu là Hạng Hội viên (D: Kim cương, G: Vàng, T: Titan) 
+ 
+ 
+ 8 ký tự mã số tham chiếu của Hội viên. 
+ 
+ 
+ 
+ 
+ Thời hạn sử dụng của thẻ (Valid thru): Theo chu kỳ xét hạng của Hội viên 
+ 
+ 
+ 
+ 
+  1. Nội dung:  
+ 
+ 
+ 
+ 
+ 
+ Thời gian nhắn tin dự kiến 
+ 
+ 
+ Nội dung tin nhắn (chữ không dấu) 
+ 
+ 
+ 
+ 
+ Sau khi phát hành thẻ 
+ 
+ 
+ 
+ 
+ T hẻ được báo kết quả phát được đến người nhận 
+ (mm/yyyy: tháng/ năm) 
+ 
+ 
+ Ketnoidailau: Trong tháng mm/yyyy, MobiFone đã chuyển phát thẻ Hội viên tới Quý Hội viên. Trong vòng 2 ngày, nếu chưa nhận được thẻ Quý Hội viên vui lòng liên hệ 9237 hoặc email tới kndl@vms.com.vn để được hỗ trợ. Sau thời gian này, nếu không có phản hồi, thẻ của quý vị sẽ được xác nhận là chuyển thành công. Xin cảm ơn . 
+ 
+ 
+ 
+ 
+ T hẻ đã phát hành nhưng bị trả về 
+ 
+ 
+ Ketnoidailau: Trong tháng mm/yyyy MobiFone đã chuyển phát thẻ Hội viên tới Quý Hội viên tuy nhiên thẻ đã bị trả lại. Vui lòng liên hệ 9237 hoặc email tới kndl@vms.com.vn để được hỗ trợ. Xin cảm ơn 
+ 
+ 
+ 
+ 
+ Sau khi chuẩn hóa thông tin 
+ 
+ 
+ 
+ 
+ Đ ã gọi điện chuẩn hóa 2 lần nhưng đều không liên lạc được 
+ (month year: tháng, năm) 
+ 
+ 
+ Tiếng Việt: "	" Ketnoidailau: Trong tháng mm/yyyy , MobiFone đã hai lần liên hệ với số thuê bao của Hội viên để xác minh thông tin phát hành thẻ Hội viên hạng Titan nhưng không liên hệ được. Trong trường hợp Quý khách có nhu cầu phát thẻ Hội vien KNDL, vui lòng email tới kndl@vms.com.vn để được hỗ trợ. Xin cảm ơn ."	" 
+ 
+ 
+ 
+ 
+ Tiếng Anh: "	" Loyalty: In month year , MobiFone failed to contact you twice to verify your information for Loyalty Member card issuance. If you need to issue Member card, please email to kndl@vms.com.vn for further assistance. "	" 
+ 
+ 
+ 
+ 
+ 
+ 2. Hỏi đáp: 
+ 
+ 
+ Trường hợp chủ thẻ chưa nhận được thẻ, thời hạn 2 ngày để phản hồi lại được tính như thế nào? Ví dụ: TB nhận tin nhắn ngày 8/11/2013 => KH phải phản hồi trước ngày 10/11/2013 
+ 
+ 
+ Thời gian nhắn tin sau khi phát hành thẻ thường là ngày nào? => Tùy thuộc vào thời gian đối tác chuyển phát nhanh trả kết quả, íat nhất là sau 20 ngày kể từ ngày gửi. 
+ 
+ 1. Các bước tiếp nhận và chuẩn hóa thông tin KH: 
+ 
+ Bước 1: Kiểm tra hạng Hội viên hiện hành tại mục "	"Loyalty information"	" phải là hạng Titan và Có hiệu lực. 
+ Bước 2: Chuẩn hóa thông tin thẻ Hội viên Titan 
+ 
+ ĐTV Đài 1090 và GDVCH đã được cấp quyền chuẩn hóa truy cập http://10.151.6.229:8080/ và nhập đầy đủ thông tin của KH vào mục "	"Cập nhật thẻ"	". Hướng dẫn chi tiết 
+ Đối với các CH chưa được cấp quyền chuẩn hóa: GDV yêu cầu KH điền phiếu yêu cầu cấp thẻ Hội viên (theo mẫu) và fax về P.CSKH để cập nhật thông tin KH. 
+ 
+ 
+ 
+ 2. Quy định chuẩn hóa thẻ: 
+ 
+ KH phải dùng đúng số ĐT đủ điều kiện cấp thẻ gọi vào tổng đài. 
+ GDV/ ĐTV chỉ tiếp nhận yêu cầu cấp thẻ đối với các trường hợp thẻ còn hiệu lực tối thiểu là 45 ngày. 
+ GDV/ ĐTV chỉ chuẩn hóa thông tin với điều kiện: 
+ 
+ Đối với KH cá nhân: "	"Tên người sử dụng thẻ"	" do KH cung cấp trùng với "	"Tên thuê bao"	" trên Hệ thống TC&QLKH. 
+ Đối với KH là tổ chức, doanh nghiệp: 
+ 
+ Nếu "	"Tên thuê bao"	" có kèm tên người sử dụng: "	"Tên người sử dụng thẻ"	" do KH cung cấp trùng thông tin này. 
+ Nếu "	"Tên thuê bao"	" không kèm theo tên người sử dụng: "	"Tên người sử dụng"	" cập nhật theo thông tin KH cung cấp mới. 
+ 
+ 
+ Phiếu yêu cầu cấp thẻ Hội viên hợp lệ là phiếu được điền đầy đủ tất cả các thông tin, có chữ ký của KH và GDV. 
+ 
+ 
+ 
+ 3. Công văn: 114/VMSC2-CSKH 1. Hướng dẫn: 
+ Mở chương trình Loyalty - Kết nối dài lâu - đăng nhập > nhập số KH tìm thông tin > Xem dữ liệu hiển thị của những phần được khoanh đỏ để đưa ra hướng xử lý phù hợp với KH. 
+ 
+ 
+ 
+ 
+ Ngày kết thúc 
+ Trạng thái 
+ Xác nhận 
+ DV chuẩn hóa + Chọn loại mã 
+ Lịch sử thay đổi 
+ Cách xử lý 
+ 
+ 
+ >=60 ngày (so với hiện tại) 
+ Hiệu lực 
+ Chờ duyệt 
+ không có thông tin 
+ - 
+ Cập nhật thông tin để chuẩn hóa cho KH 
+ 
+ 
+ Chờ duyệt 
+ có thông tin 
+ Kiểm tra ngày cập nhật dữ liệu Tên/Địa chỉ cuối cùng 
+ Kiểm tra lại thông tin đã chuẩn hóa đúng chưa. Hẹn KH trong vòng 60 ngày kể từ ngày chuẩn hóa cuối cùng. Nếu đã quá 60 ngày thì nhập FB cho P.CSKH xử lý tiếp. 
+ 
+ 
+ Đã duyệt 
+ 
+ 
+ Đã in 
+ - 
+ - 
+ Nhập FB cho P.CSKH xử lý tiếp. 
+ 
+ 
+ <60 ngày (so với hiện tại) 
+ Hiệu lực 
+ không có thông tin 
+ - 
+ - 
+ Từ chối chuẩn hóa, hẹn KH kỳ xét hạng sau nếu đủ điều kiện sẽ chuẩn hóa. 
+ 
+ 
+ Hết hiệu lực 
+ không có thông tin 
+ - 
+ - 
+ Giải thích cho KH thẻ đã hết hạn (KH không còn là Hội viên Titan/Vàng/Kim cương) 
+ 
+ 
+ 
+ 
+ 2. Ví dụ: 
+ 
+ 
+ 3. Lưu ý 
+ 
+ Trường hợp địa chỉ cũ không đúng, KH đổi địa chỉ mới, vẫn áp dụng quy định 60 ngày kể từ ngày chuẩn hóa gần nhất --> nhập FB cho P.CSKH. 
+ Các trường hợp mới chuẩn hóa và thời hạn thẻ còn dài --> hẹn KH đúng 60 ngày (đó là thỏa thuận giữa MF và KH khi tham gia, nếu KH nào cũng cần gấp thì sẽ ảnh hưởng đến tiến trình in thẻ chung bị chậm) vì vậy ĐTV nên cố gắng giải thích và thuyết phục KH trước, với những trường hợp quá khó thì mới nhập FB cho P.CSKH 
+ 
+ Chương trình KM tháng 4 và 5 sắp kết thúc, nên khả năng thẻ sẽ không in kịp. ĐTV nên giải thích thêm là sắp tới sẽ còn nhiều chương trình hấp dẫn hơn. 
+ 
+ 

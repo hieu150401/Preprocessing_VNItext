@@ -1,0 +1,1 @@
+nội_dung thông_tin làm rõ khi đăng_ký dv lần đầu_tiên tb đăng_ký dv lần đầu_tiên không áp_dụng khi hủy và đăng_ký lại đăng_ký lại dv tb đã từng sử_dụng dv và đăng_ký lại không áp_dụng cho lần thứ trở_đi

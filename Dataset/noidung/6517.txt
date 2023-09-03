@@ -1,0 +1,182 @@
+ Khi trừ cước cho KH, Mobifone sẽ trừ theo nguyên tắc sau: 
+ 
+ Không trừ nợ cước các chu kỳ trước. 
+ Trừ tối đa bằng cước phát sinh trong chu kỳ đó, phần còn dư nếu có sẽ tiếp tục trừ vào các chu kỳ sau. 
+ Trường hợp KH có cước phát sinh có VAT và cước phát sinh không có VAT (ví dụ cước roaming quốc tế) sẽ trừ như sau: 
+ 
+ Cước được KM (có VAT)- cước phát sinh (có VAT) = A 
+ Lấy kết quả A chia cho 1.1 để tính phần không bao gồm VAT và trừ cho phần cước không có VAT. 
+ 
+ 
+ Khi ĐTV xem trong giải trình là cách tính đã có VAT (trừ các cột cước không bao gồm VAT) nên hơi ngược với cách xem trên TBC của KH 
+ 
+ Thứ tự trừ cước KM-CSKH: 
+ 
+ 
+ 
+ 
+ 
+ Thứ tự trừ 
+ 
+ 
+ Loại KM-CSKH 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ Nhóm KM cước thuê bao 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ Nhóm KM về gói cước 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ Nhóm KM cước nội mạng 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ Nhóm KM cước VNPT: nội mạng, vinaphone, cố định VNPT 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ Nhóm KM sms nội mạng 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ Nhóm KM thoại và sms nội mạng 
+ 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ Nhóm KM cước cuộc gọi trong nước 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ Nhóm KM cước cuộc gọi trong nước và dịch vụ GTGT trong nước 
+ 
+ 
+ 
+ 
+ 9 
+ 
+ 
+ Nhóm KM dịch vụ phụ 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ Nhóm KM trừ mọi loại cước (CMSN, Loyalty..) 
+ 
+ 
+ 
+ 
+ Ví dụ: KH được tặng CMSN 600.000đ, trong kỳ nợ trước 400.000đ; cước phát sinh 500.000đ chưa VAT (có VAT 550.000đ) và 200.000 cước roaming (không có VAT) 
+ 
+ Nợ trước 400.000đ không được trừ KM 
+ Cách xem theo giải trình - đã có VAT: 
+ 
+ 600.000đ-550.000đ= 50.000đ 
+ Trừ tiếp vào phần không tính VAT: 50.000đ/1.1 - cước không VAT= 45454.54 - 200.000= -154545.46đ >> KH được thông báo thanh toán 154545đ 
+ 
+ 
+ Cách xem theo TBC: 
+ 
+ Tổng cước chưa VAT = cước TB +cước trong nước+cước quốc tế+cước dịch vụ = 500.000đ 
+ KM chưa VAT là 600.000đ/1.1 = 545454.54đ được trừ như sau: 
+ 
+ trừ trước cho phần cước 545454.54 - 500.000đ = 45454.54đ, sau đó trừ cho phần không có VAT: 
+ 45454.54 - 200.000= -154545.46đ >> KH được thông báo thanh toán 154545đ 
+ 
+ 
+ 
+ 
+ 
+ Ví dụ: KH được tặng CMSN 600.000đ, nợ trước 1000.000đ; cước phát sinh chưa VAT 700.000đ (có VAT là 770.000đ) 
+ 
+ Nợ trước 1.000.000đ không được trừ KM 
+ TBC của KH thể hiện phần KM được trừ là 600.000đ/1.1 = 545454.54đ 
+ KH còn phải thanh toán (700.000đ - 545454.54đ) x1.1 = 170.000đ 
+ 
+ Ví dụ: H được tặng CMSN 600.000đ, nợ trước 1000.000đ; cước phát sinh chưa VAT 200.000đ (có VAT là 220.000đ) 
+ 
+ Nợ trước 1.000.000đ không được trừ KM 
+ Vì cước phát sinh của KH < số tiền được KM nên KH được trừ hết cước. 
+ Phần KM còn dư chưa VAT= 545454.54đ - 200.000đ = 345454.54 đ sẽ được trừ tiếp vào các tháng sau 
+ KH vừa được KM CSMN và M-Bussiness: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chu 
+ kỳ 
+ 
+ Tháng 
+ 
+ Tiền khuyến 
+ mại có thuế 
+ 
+ 
+ Tiền khuyến 
+ mại không thuế 
+ 
+ 
+ Loại khuyến mại 
+ 
+ 
+ 
+ 1 
+ 06-2012 
+ 871 
+ 0 
+ M-Business: 5-29 thuê bao mức 1, 
+ tặng SMS 
+ 
+ 
+ 1 
+ 06-2012 
+ 308,559 
+ 264,946 
+ 
+ Khuyến mại nhân dịp sinh nhật cho 
+ nhóm khách hàng cao cấp 
+ 
+ 
+ 
+ 
+ 

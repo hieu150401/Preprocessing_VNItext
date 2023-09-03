@@ -1,0 +1,1 @@
+1 . GÓI CƯỚC : 3TIKA , 6TIKA , 12TIKA ; 3FIKA , 6FIKA , 12FIKA 3C120 , 6C120 , 12C120 6THAGA5 , 12THAGA5 3C90N , 6C90N , 12C90N 6C90 , 12C90 3TS4G , 6TS4G , 12TS4G 2 . QUY_ĐỊNH : Khách_hàng sử_dụng các gói sản_phẩm , dịch_vụ thuộc đối_tượng áp_dụng , khi gia_hạn gói đơn thành_công , thuê_bao sẽ được cộng 60 ngày sử_dụng . 3 . THỜI_GIAN ÁP_DỤNG : từ 20 / 9 / 2020 .

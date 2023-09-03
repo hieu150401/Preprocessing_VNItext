@@ -1,0 +1,1830 @@
+ 1. Giải cá nhân : Du lịch trong nước (Nha Trang - Đại Lãnh) 
+ 
+ 
+ 
+ 
+ STT 
+ 
+ 
+ Họ tên 
+ 
+ 
+ ID 
+ 
+ 
+ Đối tác 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ Đinh Thị Miền 
+ 
+ 
+ 1205 
+ 
+ 
+ ĐTV - MobiTechs 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ Bùi Thị Mỹ Trang 
+ 
+ 
+ 2185 
+ 
+ 
+ ĐTV - Minh Phúc 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ Nguyễn Thị Thu Hiền 
+ 
+ 
+ 3111 
+ 
+ 
+ ĐTV - Trường Minh 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ Đỗ Thị Thúy Hạnh 
+ 
+ 
+ 3257 
+ 
+ 
+ Tổ GS - Trường Minh 
+ 
+ 
+ 
+ 
+ 2. Giải tập thể : Du lịch trong nước 01 ngày - Dự kiến: tại Tản Đà Resort - Hà Nội 
+ 
+ 
+ 
+ 
+ MobiTechs 
+ 
+ 
+ Minh Phúc 
+ 
+ 
+ Trường Minh 
+ 
+ 
+ 
+ 
+ Nguyễn Thị Hải An - 1348 
+ 
+ 
+ Bùi Thị Mỹ Trang - 2185 
+ 
+ 
+ Trần Kim Oanh - 3314 
+ 
+ 
+ 
+ 
+ Nguyễn Thu Hồng - 1190 
+ 
+ 
+ Bùi Văn Sơn - 2524 
+ 
+ 
+ Nguyễn Thị Hà - 3248 
+ 
+ 
+ 
+ 
+ Phan Thị Hồng Phương - 1566 
+ 
+ 
+ Đặng Thị Thư - 2287 
+ 
+ 
+ Nguyễn Phương Trang - 3384 
+ 
+ 
+ 
+ 
+ Dương Thị Thoa - 1172 
+ 
+ 
+ Lương Xuân Bá Tiến - 2868 
+ 
+ 
+ Nguyễn Thị Thu Hiền - 3111 
+ 
+ 
+ 
+ 
+ Đinh Thị Miền - 1205 
+ 
+ 
+ Nguyễn Thúy Đạt - 2947 
+ 
+ 
+ Phạm Văn Phượng - 3407 
+ 
+ 
+ 
+ 
+ Trần Thị Ước - 1187 
+ 
+ 
+ Nguyễn Thị Thể - 2463 
+ 
+ 
+ Đỗ Thị Thúy Hạnh - 3257 
+ 
+ 
+ 
+ 
+ Phạm Thị Vân - 1232 
+ 
+ 
+ Trần Ngọc Hòa - 2221 
+ 
+ 
+ Phan Thị Lành - 3001 
+ 
+ 
+ 
+ 
+ Nguyễn Thị Hải - 1284 
+ 
+ 
+  
+ 
+ 
+ Đào Thị Loan - 3062 
+ 
+ 
+ 
+ 1. Giải cá nhân : Du lịch trong nước (Nha Trang - Đại Lãnh) 
+ 
+ 
+ 
+ 
+ 
+ STT 
+ 
+ 
+ Tên 
+ 
+ 
+ Danh Số 
+ 
+ 
+ Đơn vị 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ Hoàng Thị Thu Thủy 
+ 
+ 
+ 405 
+ 
+ 
+ Mobitechs 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ Nguyễn Thị Kiều Trang 
+ 
+ 
+ 189 
+ 
+ 
+ Mobitechs 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ Hà Anh Tuấn 
+ 
+ 
+ 620 
+ 
+ 
+ Mobitechs 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ Hoàng Kim Uyên Trinh 
+ 
+ 
+ 1622 
+ 
+ 
+ Minh Phúc 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ Đoàn Thị Lượm 
+ 
+ 
+ 1821 
+ 
+ 
+ Minh Phúc 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ Đặng Thanh Hoàng 
+ 
+ 
+ 3941 
+ 
+ 
+ Minh Phúc 
+ 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ Đỗ Thị Trang 
+ 
+ 
+ 2238 
+ 
+ 
+ Trường Minh 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ Đoàn Thị Lại 
+ 
+ 
+ 2802 
+ 
+ 
+ Trường Minh 
+ 
+ 
+ 
+ 
+ 9 
+ 
+ 
+ Đặng Thị Lương 
+ 
+ 
+ 2077 
+ 
+ 
+ Trường Minh 
+ 
+ 
+ 
+ 
+ 2. Giải tập thể : Du lịch trong nước 01 ngày - Dự kiến: tại Phan Thiết 
+ 
+ 
+ 
+ 
+ 
+ MobiTechs 
+ 
+ 
+ Minh Phúc 
+ 
+ 
+ Trường Minh 
+ 
+ 
+ VN Global 
+ 
+ 
+ 
+ 
+ Đào Thị Tú Uyên - 358 
+ 
+ 
+ Nguyễn Thị Thảo Quyên - 1806 
+ 
+ 
+ Trần Đức Phương - 2772 
+ 
+ 
+ Kim Hoàng Anh - 34 
+ 
+ 
+ 
+ 
+ Sơn Thị Sa Phia - 144 
+ 
+ 
+ Lưu Thị Mỹ Hạnh - 1156 
+ 
+ 
+ Đặng Thị Lương - 2077 
+ 
+ 
+ Nguyễn Thị Như Thảo - 38 
+ 
+ 
+ 
+ 
+ Nguyễn Thị Minh Trang - 182 
+ 
+ 
+ Nguyễn Thị Lệ Hằng - 1288 
+ 
+ 
+ Trần Thị Thắm - 2185 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Nguyễn Thị Kiều Trang - 189 
+ 
+ 
+ Nguyễn Đình Lê Vương - 1507 
+ 
+ 
+ Lâm Ngươn Trung - 2232 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Nguyễn Tấn Lợi - 380 
+ 
+ 
+ Phan Thị Ánh Dương - 1528 
+ 
+ 
+ Ngô Thị Đạt - 2264 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Hoàng Thị Chinh - 161 
+ 
+ 
+ Nguyễn Quốc Anh - 1690 
+ 
+ 
+ Hà Thị Mỹ Thanh - 2184 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Hoàng Thị Thu Thủy - 405 
+ 
+ 
+ Huỳnh Thị Lệ Huyền - 1091 
+ 
+ 
+ Nguyễn Thị Trâm - 2698 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Nguyễn Thị Lê - 464 
+ 
+ 
+ Bùi Văn Thảo - 1178 
+ 
+ 
+ Đỗ Thị Trang - 2238 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Hà Anh Tuấn - 620 
+ 
+ 
+ Phan Thanh Trúc - 1383 
+ 
+ 
+ Lê Thị Đo - 2023 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Nguyễn Đình Hải - 646 
+ 
+ 
+ Bùi Thị Kim Ngân - 1385 
+ 
+ 
+ Đỗ Thị Trang - 2238 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Trần Thị Cẩm Thúy - 527 
+ 
+ 
+ Trịnh Thị Diễm My - 1421 
+ 
+ 
+ Đỗ Hồng Phương Trúc - 2308 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Nguyễn Ngọc Huy - 482 
+ 
+ 
+ Hồ Đắc Huy - 1140 
+ 
+ 
+ Lê Thị Thanh Trâm - 2187 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Nguyễn Thị Minh Tâm - 491 
+ 
+ 
+ Lê Quốc Cường - 1338 
+ 
+ 
+ Trần Minh Thiện - 2942 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Vũ Thị Minh Tâm - 922 
+ 
+ 
+ Trần Ngọc Hoàng Anh - 1776 
+ 
+ 
+ Bùi Xuân Quân - 2086 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Đoàn Thị Lan Hồng - 377 
+ 
+ 
+ Ngô Thị Xuân Yến - 1313 
+ 
+ 
+ Trần Văn Phụng - 2065 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Đỗ Thành Kiệt - 745 
+ 
+ 
+ Nguyễn Thị Anh Thư - 1191 
+ 
+ 
+ Huỳnh Mỹ Kiêm - 2754 
+ 
+ 
+  
+ 
+ 
+ 
+ 1. Giải cá nhân xuất sắc: 1 chuyến du lịch trong nước (địa điểm dự kiến: Nha Trang - Đại Lãnh) 
+ 
+ 
+ 
+ STT 
+ 
+ Họ và tên 
+ 
+ 
+ Danh số 
+ 
+ 
+ Chức danh 
+ 
+ Điểm thi đua 
+ 
+ Ghi chú 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ Võ Thị Thu Thường 
+ 
+ 
+ 
+ 348 
+ 
+ ĐTV 
+ 
+ 24.31 
+ 
+ MobiTechs 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ Lê Thị Liên 
+ 
+ 
+ 945 
+ 
+ ĐTV 
+ 
+ 23.88 
+ 
+ Minh Phúc 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ Hứa Thị Tuyết Giao 
+ 
+ 
+ 1460 
+ 
+ ĐTV 
+ 
+ 23.88 
+ 
+ Trường Minh 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ Dụng Thị Mỹ Tiên 
+ 
+ 
+ 656 
+ 
+ ĐTV 
+ 
+ 23.80 
+ 
+ 
+ Minh Phúc 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ Võ Thị Thúy Hằng 
+ 
+ 
+ 942 
+ 
+ ĐTV 
+ 
+ 23.64 
+ 
+ 
+ Minh Phúc 
+ 
+ 
+ 
+ 6 
+ Hoàng Thị Lài 
+ 1202 
+ Tổ trưởng & Trưởng ca 
+ Trường Minh 
+ 
+ 
+ 7 
+ Bùi Đỗ Bích Trâm 
+ 58 
+ Trưởng nhóm 
+ MobiTechs 
+ 
+ 
+ 
+  2. Giải tập thể xuất sắc: 1 chuyến du lịch trong nước ( địa điểm: Phong Nha - Quảng Bình) 
+ 
+ 
+ 
+ STT 
+ 
+ Họ và tên 
+ 
+ 
+ Danh số 
+ 
+ 
+ Đối tác 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ Trần Thị Hoàng Oanh 
+ 
+ 985 
+ Minh Phúc 
+ 
+ 
+ 
+ 2 
+ 
+ Hồ Thị Lan Phương 
+ 
+ 745 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ Trần Thị Liễu 
+ 853 
+ 
+ 
+ 
+ 4 
+ 
+ Vương Thị Mỹ Linh 
+ 692 
+ 
+ 
+ 
+ 5 
+ 
+ Trương Thị Thu Sương 
+ 980 
+ 
+ 
+ 6 
+ Trần Thị Thắm 
+ 1010 
+ 
+ 
+ 7 
+ Nguyễn Thị Như Nguyệt 
+ 922 
+ 
+ 
+ 8 
+ Trương Thị Thùy Vân 
+ 870 
+ 
+ 
+ 9 
+ Lê Thị Thùy Anh 
+ 675 
+ 
+ 
+ 10 
+ Võ Thị Tuyết Loan 
+ 679 
+ 
+ 
+ 11 
+ Võ Thị Kim Hồng 
+ 988 
+ 
+ 
+ 12 
+ Trần Thị Thùy Dương 
+ 888 
+ 
+ 
+ 13 
+ Ngô Thị Thu Hiền 
+ 672 
+ 
+ 
+ 
+  3. Danh sách cán bộ hỗ trợ của VMS 
+ 
+ 
+ 
+ STT 
+ 
+ Họ và tên 
+ 
+ 
+ Số điện thoại 
+ 
+ Email 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ Trần Đăng Thành 
+ 
+ 
+ 0905020202 
+ thanhtd@vms.com.vn 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ Lại Thị Ngọc Liên 
+ 
+ 0905472477 
+ lienltn@vms.com.vn 
+ 
+ 
+ 1. Giải cá nhân xuất sắc: 1 chuyến du lịch trong nước (địa điểm dự kiến: Nha Trang - Đại Lãnh) 
+ 
+ 
+ 
+ 
+ STT 
+ Họ tên 
+ Danh Số 
+ Đơn vị 
+ 
+ 
+ 1 
+ Trần Thị Tố Vân 
+ 6653 
+ Mobitechs 
+ 
+ 
+ 2 
+ Nguyễn Ngọc Nhi 
+ 6860 
+ 
+ 
+ 3 
+ Nguyễn Hoàng Anh Thư 
+ 6967 
+ 
+ 
+ 4 
+ Phạm Thị Kéo 
+ 6970 
+ 
+ 
+ 5 
+ Lê Thị Kiều Tuyên 
+ 6056 
+ 
+ 
+ 
+ 
+ 2. Giải tập thể xuất sắc: 1 chuyến du lịch trong nước (địa điểm dự kiến: Trà Sư - Hà Tiên) 
+ 
+ 
+ 
+ 
+ STT 
+ Họ tên 
+ Danh số 
+ Chức danh 
+ Đơn vị 
+ 
+ 
+ 1 
+ Lê Trường Thọ 
+ 6272 
+ Tổ trưởng 
+ Mobitechs 
+ 
+ 
+ 2 
+ Lê Thanh Toàn 
+ 6225 
+ Xử lý viên 
+ 
+ 
+ 3 
+ Châu Hoàng Xa 
+ 6288 
+ TT Giám Sát 
+ 
+ 
+ 4 
+ Nguyễn Thị Thu Ba 
+ 6569 
+ ĐTV 
+ 
+ 
+ 5 
+ Trương Mai Thanh 
+ 6628 
+ ĐTV 
+ 
+ 
+ 6 
+ Ngô Thanh Ngoan 
+ 6646 
+ ĐTV 
+ 
+ 
+ 7 
+ Lê Thị Kim Anh 
+ 6664 
+ ĐTV 
+ 
+ 
+ 8 
+ Lê Thị Thùy Dương 
+ 6671 
+ ĐTV 
+ 
+ 
+ 9 
+ Trần Thị Ly Na 
+ 6677 
+ ĐTV 
+ 
+ 
+ 10 
+ Phan Thanh Tâm 
+ 6678 
+ ĐTV 
+ 
+ 
+ 11 
+ Nguyễn Thị Sê 
+ 6683 
+ ĐTV 
+ 
+ 
+ 12 
+ Trần Kim Em 
+ 6781 
+ ĐTV 
+ 
+ 
+ 13 
+ Nguyễn Tú Huyền Trân 
+ 6798 
+ ĐTV 
+ 
+ 
+ 14 
+ Võ Thị Út 
+ 6809 
+ ĐTV 
+ 
+ 
+ 15 
+ Phạm Lê Cư 
+ 6819 
+ ĐTV 
+ 
+ 
+ 16 
+ Danh Nguyễn Thị Thanh Thúy 
+ 6846 
+ ĐTV 
+ 
+ 
+ 17 
+ Nguyễn Kim Thẫm 
+ 6848 
+ ĐTV 
+ 
+ 
+ 18 
+ Đoàn Hằng Nga 
+ 6853 
+ ĐTV 
+ 
+ 
+ 19 
+ Lý Thị Cẩm Loan 
+ 6867 
+ ĐTV 
+ 
+ 
+ 20 
+ Huỳnh Trọng Nhân 
+ 6872 
+ ĐTV 
+ 
+ 
+ 21 
+ Võ Thị Ngọc Điệp 
+ 6876 
+ ĐTV 
+ 
+ 
+ 22 
+ Đỗ Thị Thu Trang 
+ 6956 
+ ĐTV 
+ 
+ 
+ 23 
+ Nguyễn Cao Cường 
+ 6957 
+ ĐTV 
+ 
+ 
+ 24 
+ Trang Ngọc Mi 
+ 6979 
+ ĐTV 
+ 
+ 
+ 25 
+ Hồ Duy Quyền 
+ 6997 
+ ĐTV 
+ 
+ 
+ 26 
+ Hồ Hữu Nghị 
+ 7027 
+ ĐTV 
+ 
+ 
+ 27 
+ Đặng Thị Kim Duyên 
+ 7082 
+ ĐTV 
+ 
+ 
+ 
+ 1. Giải cá nhân xuất sắc: 1 chuyến du lịch trong nước (địa điểm dự kiến: Nha Trang - Đại Lãnh) 
+ 
+ 
+ 
+ 
+ STT 
+ 
+ Họ và tên 
+ 
+ 
+ Danh số 
+ 
+ 
+ Chức danh 
+ 
+ Điểm thi đua 
+ 
+ Ghi chú 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ Nguyễn Thị Nhung 
+ 
+ 
+ 
+ 8637 
+ 
+ ĐTV 
+ 24,55 
+ ĐTV trực tiếp có Điểm thi đua tính theo thang điểm tối đa là 25đ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ Trần Thị Hồng Hạnh 
+ 
+ 
+ 8384 
+ 
+ ĐTV 
+ 24,39 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ Lâm Thị Hiền 
+ 
+ 
+ 8116 
+ 
+ TC 
+ 9,80 
+ ĐTV gián tiếp có Điểm thi đua tính theo thang điểm tối đa là 10đ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ Đào Thị Minh Trang 
+ 
+ 
+ 8647 
+ 
+ ĐTV 
+ 23,27 
+ Dự bị 1 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ Cao Thị Doan 
+ 
+ 
+ 8668 
+ 
+ ĐTV 
+ 23,19 
+ Dự bị 2 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ Lương Thị Phiên 
+ 
+ 
+ 8568 
+ 
+ ĐTV 
+ 20,35 
+ Dự bị 3 
+ 
+ 
+ 
+ 
+ 2. Giải tập thể xuất sắc: 
+ 
+ Nhóm xuất sắc nhất: Nhóm 6 
+ 
+ 
+ 
+ 
+ 
+ STT 
+ 
+ Họ và tên 
+ 
+ 
+ Danh số 
+ 
+ 
+ Điểm thi đua 
+ 
+ Ghi chú 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ Nguyễn Thị Vân 
+ 
+ 
+ 
+ 8199 
+ 
+ 8,10 
+ Trưởng nhóm 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ Nguyễn Thị Nhung 
+ 
+ 
+ 8637 
+ 
+ 24,55 
+  
+ 
+ 
+ 
+ 3 
+ 
+ 
+ Đào Thị Minh Trang 
+ 
+ 
+ 8647 
+ 
+ 23,27 
+  
+ 
+ 
+ 
+ 4 
+ 
+ 
+ Cao Thị Doan 
+ 
+ 
+ 8668 
+ 
+ 23,19 
+  
+ 
+ 
+ 
+ 5 
+ 
+ 
+ Phạm Thị Phương Thảo 
+ 
+ 
+ 8336 
+ 
+ 22,76 
+  
+ 
+ 
+ 6 
+ Trần Thị Thu Ngà 
+ 8709 
+ 18,77 
+  
+ 
+ 
+ 7 
+ Trần Thị Thu Hiền 
+ 8349 
+ 18,03 
+  
+ 
+ 
+ 8 
+ Lưu Hà Thu 
+ 8455 
+ 17,68 
+  
+ 
+ 
+ 9 
+ Phạm Thị Đông 
+ 8729 
+ 17,31 
+  
+ 
+ 
+ 10 
+ Nguyễn Thị Hương 
+ 8722 
+ 16,66 
+  
+ 
+ 
+ 11 
+ Phạm Tuấn Hà 
+ 8219 
+ 16,33 
+  
+ 
+ 
+ 
+ 
+ 
+ ĐTV có thành tích thi đua xuất sắc nhất thuộc 03 nhóm gián tiếp: 
+ 
+ 
+ 
+ 
+ 
+ STT 
+ 
+ Họ và tên 
+ 
+ 
+ Danh số 
+ 
+ 
+ Điểm thi đua 
+ 
+ Ghi chú 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ Nguyễn Thị Kim Phượng 
+ 
+ 
+ 
+ 8101 
+ 
+ 9,40 
+ Tổ Điều hành 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ Phạm Thị Hồng Thủy 
+ 
+ 
+ 8387 
+ 
+ 9,70 
+ Tổ Giám sát 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ Nguyễn Mai Trung 
+ 
+ 
+ 8128 
+ 
+ 9,60 
+ Tổ Xử lý 
+ 
+ 
+ 
+ 
+      03 ĐTV xuất sắc nhất thuộc 3 nhóm ĐTV gián tiếp trên cùng với Nhóm ĐTV có thành tích thi đua xuất sắc (nhóm 6) sẽ tham gia thực hiện giải thưởng là 1 chuyến du lịch , dự kiến Cát Bà (2 ngày 1 đêm) và sẽ thực hiện trong tháng 6/2013. 
+ 3. Danh sách cán bộ hỗ trợ của VMS 
+ 
+ 
+ 
+ 
+ STT 
+ 
+ Họ và tên 
+ 
+ 
+ Số điện thoại 
+ 
+ Email 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ Nguyễn Thùy Linh 
+ 
+ 
+ 0932731988 
+ linhnt2@vms.com.vn 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ Phạm Bích Thủy 
+ 
+ 0906033366 
+ thuypb1@vms.com.vn 
+ 
+ 
+ 
+ 1. Giải cá nhân xuất sắc: 1 chuyến du lịch trong nước (địa điểm dự kiến: Nha Trang - Đại Lãnh) 
+ 
+ 
+ 
+ STT 
+ 
+ Họ và tên 
+ 
+ 
+ Danh số 
+ 
+ 
+ Chức danh 
+ 
+ Điểm thi đua 
+ 
+ Ghi chú 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ Lê Thị Bé Thảo 
+ 
+ 
+ 
+ 6047 
+ 
+ ĐTV 
+ 24,88 
+ Minh Phúc 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ Nguyễn Thị Mỹ Trang 
+ 
+ 
+ 6046 
+ 
+ ĐTV 
+ 24,84 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ Lê Thị Thu Liên 
+ 
+ 
+ GS 
+ 
+ NV KGT 
+ 10.00 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ Nguyễn Thị Thùy Dung 
+ 
+ 
+ 6119 
+ 
+ ĐTV 
+ 24.78 
+ Dự bị 1 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ Nguyễn Thị Thanh Thủy 
+ 
+ 
+ 6146 
+ 
+ ĐTV 
+ 24.20 
+ Dự bị 2 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ Ngô Thị Hiền 
+ 
+ 
+ GS 
+ 
+ NV KGT 
+ 10.00 
+ Dự bị 3 
+ 
+ 
+ 7 
+ Vũ Thị Thu Hà 
+ 7217 
+ ĐTV 
+ 24.50 
+ Trường Minh 
+ 
+ 
+ 8 
+ Phạm Tuấn Anh 
+ TC 
+ NV KGT 
+ 9.80 
+ 
+ 
+ 9 
+ Nguyễn Thị Minh Huyền 
+ 7141 
+ ĐTV 
+ 22.26 
+ Dự bị 1 
+ 
+ 
+ 10 
+ Trần Văn Phụng 
+ TC 
+ NV KGT 
+ 9.40 
+ Dự bị 2 
+ 
+ 
+ 11 
+ Hoàng Thị Mơ 
+ 8197 
+ ĐTV 
+ 23.64 
+ MBTs ĐN 
+ 
+ 
+ 12 
+ Tống Thị Hoàng Yến 
+ 8364 
+ ĐTV 
+ 22.81 
+ Dự bị 
+ 
+ 
+ 
+  2. Giải tập thể xuất sắc: 1 chuyến du lịch trong nước ( địa điểm : Long Hải) 
+ 
+ 
+ 
+ STT 
+ 
+ Họ và tên 
+ 
+ 
+ Danh số 
+ 
+ 
+ Điểm thi đua 
+ 
+ Ghi chú 
+ 
+ 
+ 
+ 1 
+ 
+ Vũ Thành Nam 
+ 6049 
+ 24.33 
+ Minh Phúc 
+ 
+ 
+ 
+ 2 
+ 
+ Nguyễn Thị Thu Yến 
+ 6052 
+ 24.33 
+ 
+ 
+ 
+ 3 
+ 
+ Lê Thị Thanh Thúy 
+ 6160 
+ 24.16 
+ 
+ 
+ 
+ 4 
+ 
+ Nguyễn Thị Hướng 
+ 6162 
+ 24.09 
+ 
+ 
+ 
+ 5 
+ 
+ Nguyễn Lê Như Quỳnh 
+ 6241 
+ 24.03 
+ 
+ 
+ 6 
+ Đặng Thế Diễn 
+ 6459 
+ 23.96 
+ 
+ 
+ 7 
+ Lê Thị Thùy Trang 
+ 6075 
+ 23.71 
+ 
+ 
+ 8 
+ Nguyễn Thị Thúy 
+ 6442 
+ 22.97 
+ 
+ 
+ 9 
+ Trần Thanh Thảo 
+ 6074 
+ 22.07 
+ 
+ 
+ 10 
+ Đinh Thị Ngọc Diễm Phương 
+ 6458 
+ 21.62 
+ 
+ 
+ 11 
+ Lê Vĩnh Thắng 
+ TT 
+ 9.60 
+ 
+ 
+ 12 
+ Trương Hữu Long 
+ GS 
+ 10.00 
+ 
+ 
+ 13 
+ Đỗ Văn Thể 
+ KT 
+ 10.00 
+ 
+ 
+ 14 
+ Nguyễn Thị Loan 
+ 6076 
+ 24.58 
+ Dự bị 1 
+ 
+ 
+ 15 
+ Võ Thùy Mai Trâm 
+ 6456 
+ 19.81 
+ Dự bị 2 
+ 
+ 
+ 16 
+ Đỗ Văn Danh 
+ GS 
+ 10.00 
+ Dự bị 3 
+ 
+ 
+ 17 
+ Đặng Thị Mỹ 
+ 7027 
+ 24.36 
+ Trường Minh 
+ 
+ 
+ 18 
+ Phạm Thị Mỹ An 
+ 7212 
+ 23.41 
+ 
+ 
+ 19 
+ Nguyễn Thị Ngọc Bích 
+ 7202 
+ 23.24 
+ 
+ 
+ 20 
+ Phạm Thị Thanh Nhàn 
+ 7214 
+ 21.54 
+ 
+ 
+ 21 
+ Nguyễn Thị Lệ Sương 
+ 7139 
+ 19.86 
+ 
+ 
+ 22 
+ Phan Yến Ngọc 
+ 7091 
+ 19.45 
+ 
+ 
+ 23 
+ Đặng Văn Bình 
+ 7092 
+ 23.57 
+ 
+ 
+ 24 
+ Lê Thị Kim Hiền 
+ TT 
+ 9.48 
+ 
+ 
+ 25 
+ Trần Thị Ngọc Huyền 
+ XL 
+ 9.50 
+ 
+ 
+ 26 
+ Trịnh Kim Huê 
+ 7091 
+ 23.55 
+ Dự bị 1 
+ 
+ 
+ 27 
+ Chế Thị Anh Quốc 
+ 7045 
+ 22.09 
+ Dự bị 2 
+ 
+ 
+ 28 
+ Trần Thị Kim Trinh 
+ GS 
+ 9.40 
+ Dự bị 3 
+ 
+ 
+ 29 
+ Nguyễn Thị Mỹ Linh 
+ 8204 
+ 23.91 
+ MBTs ĐN 
+ 
+ 
+ 30 
+ Trần Thị Kim Chung 
+ 8436 
+ 23.49 
+ 
+ 
+ 31 
+ Trần Thị Ngọc Bích 
+ 8435 
+ 21.07 
+ 
+ 
+ 32 
+ Đinh Thùy Trang 
+ 8389 
+ 20.60 
+ 
+ 
+ 33 
+ Trần Đặng Kỳ Quốc 
+ TT 
+ 9.50 
+ 
+ 
+ 34 
+ Phan Trần Tín 
+ KT 
+ 9.50 
+ 
+ 
+ 35 
+ Nguyễn Thu Trang 
+ 8276 
+ 20.05 
+ Dự bị 1 
+ 
+ 
+ 36 
+ Lê Thị Hoàng Mỹ 
+ 8370 
+ 18.56 
+ Dự bị 2 
+ 
+ 
+ 37 
+ Phạm Vinh Quang 
+ XL 
+ 9.00 
+ Dự bị 3 
+ 
+ 
+ 
+  3. Danh sách cán bộ hỗ trợ của VMS 
+ 
+ 
+ 
+ STT 
+ 
+ Họ và tên 
+ 
+ 
+ Số điện thoại 
+ 
+ Email 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ Nguyễn Thị Bích Hồ 
+ 
+ 
+ 0908556699 
+ hontb@vms.com.vn 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ Lý Trực Thịnh 
+ 
+ 0907506789 
+ thinhlt@vms.com.vn 
+ 
+ 
+ 
+  4. CV: 1019/VMSC6-HTKH1090 

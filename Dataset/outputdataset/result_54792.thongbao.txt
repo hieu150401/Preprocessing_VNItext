@@ -1,0 +1,1 @@
+Nếu KH hỏi về thời_gian sử_dụng thẻ cào , ĐTV tra_cứu thông_tin thẻ cào : Nếu thẻ đã hết hạn sử_dụng : ĐTV báo thẻ không_thể nạp được nữa ( như hình dưới , thực_tế các thẻ này ngày hết hạn trên thẻ là 2019 , đã gia_hạn đến 2021 rồi , và sẽ không gia_hạn nữa ) Nếu KH hỏi có được gia_hạn nữa không : KHÔNG gia_hạn nữa .

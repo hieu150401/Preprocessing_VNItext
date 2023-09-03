@@ -1,0 +1,129 @@
+ 1. Đối tượng: 
+ 
+ 
+ Thuê bao trả trước đang hoạt động 2 chiều, cập nhật VLR Trung tâm IV tại thời điểm lấy dữ liệu, vi phạm một trong các quy định tại Mục 1_công văn số 141 /TTIV-CSKH ngày 16/01 /201 3 và được chia thành 2 nhóm: 
+ 
+ Đối tượng 1: T huê bao sai thông tin . 
+ Đối tượng 2: Thuê bao thiếu thông tin (ngày sinh, ngày cấp hoặc nơi cấp CMND). 
+ 
+ 
+ 
+ 
+ Ghi chú: Khách hàng cao cấp không thuộc đối tượng chương trình này. 
+ 2. Nội dung thực hiện: 
+  
+ a) Nhắn tin thông báo, mời khách hàng đăng ký lại thông tin thuê bao: 
+ 
+ Nội dung tin nhắn: 
+ 
+ 
+ 
+ 
+ 
+ Đối tượng 
+ Tin nhắn lưu 
+ Tin nhắn flash 
+ 
+ 
+ Đối tượng 1 
+ 
+ Thong tin TB X dang ky voi MobiFone chua dung quy dinh cua Nha nuoc. Soan TTTB gui 1414 (mien phi) de biet thong tin chi tiet. Quy khach vui long lien he cua hang MobiFone gan nhat de dang ky lai thong tin TB truoc ngay Z. Lien he 9090 de duoc ho tro 
+ 
+ 
+ Thong tin TB X dang ky voi MobiFone chua dung quy dinh Nha nuoc. Quy khach vui long lien he cua hang MobiFone de dang ky thong tin truoc Z. L/H 9090 
+ 
+ 
+ 
+ Đối tượng 2 
+ 
+ Thong tin TB X dang ky voi MobiFone con thieu Y. Soan TTTB gui 1414 (mien phi) de biet thong tin chi tiet. Quy khach vui long lien he cua hang MobiFone gan nhat de dang ky bo sung thong tin TB truoc ngay Z. Lien he 9090 de duoc ho tro 
+ 
+ 
+ Thong tin TB X dang ky voi MobiFone con thieu Y. Quy khach vui long lien he cua hang MobiFone de dang ky thong tin truoc Z. L/H 9090 
+ 
+ 
+ 
+ 
+ 
+ Với X là số thuê bao nhắn tin, Y là dữ liệu còn thiếu, Z là thời hạn phải đăng ký lại thông tin (30 ngày kể từ ngày nhắn tin lần đầu) . 
+ 
+ Tần suất nhắn tin : 2 lần/tháng (1 lần lưu và 1 lần flash). 
+ Tổng đài nhắn tin hiển thị trên máy khách hàng: MobiFone . 
+ 
+ b) Gọi ra mời khách hàng đăng ký lại thông tin thuê bao: 
+ 
+ Đối tượng : Thuê bao cập nhật VLR liên tục 7 ngày tại Trung tâm IV, ưu tiên cho các thuê bao cước cao, lâu năm và các thuê bao có nơi cấp CMND tại Tp.Cần Thơ. 
+ Hình thức thực hiện : 
+ 
+ Gọi ra thông báo và hướng dẫn khách hàng đến điểm giao dịch gần nhất để đăng ký lại thông tin. 
+ Đối với các khách hàng chưa đăng ký chương trình Kết nối dài lâu: Đài HTKH giới thiệu, tư vấn và đăng k&lrm;ý cho khách hàng tham gia chương trình. 
+ 
+ 
+ 
+ 3. Thời gian thực hiện : Từ ngày 10/07/2013 đến ngày 31/12/2013. 
+ 4. Công văn tham khảo: 2024/TTIV-CSKH 1. Trường hợp KH cá nhân sử dụng hộ chiếu để ĐKTT (ko thay đổi được thông tin trên CT đấu nối): 
+ 
+ Phần này đã có hướng dẫn trên cẩm nang 1090, một số CH có thắc mắc khi thực hiện thay đổi thông tin, nhắc lại các thông tin bắt buộc cập nhập như sau: 
+ 
+ 
+ 
+ 
+ 
+ Đối tượng 
+ Thông tin bắt buộc 
+ 
+ 
+ Khách hàng là cá nhân người Việt Nam 
+ 
+  
+ 1. Sử dụng CMND: 5 thông tin 
+ -  Họ tên; 
+ -  Ngày sinh; 
+ -  Số CMND; 
+ -  Nơi cấp CMND; 
+ -  Ngày cấp CMND. 
+ 2. Sử dụng Hộ chiếu còn thời hạn: 7 thông tin 
+ -  Họ tên; 
+ -  Ngày sinh; 
+ -  Số hộ chiếu; 
+ -  Ngày cấp Hộ chiếu; 
+ -  Nơi cấp Hộ chiếu; 
+ -  Số CMND (sử dụng số CMND ghi trên Hộ chiếu); 
+ -  Nơi cấp CMND: chọn "	"XNC"	". 
+ 
+ 
+ 
+ Khách hàng là cá nhân người nước ngoài 
+ 
+  
+ Sử dụng Hộ chiếu và Visa (Thị thực) còn thời hạn lưu hành tại Việt Nam: 10 thông tin 
+ -  Họ tên; 
+ -  Ngày sinh; 
+ -  Số hộ chiếu; 
+ -  Ngày cấp Hộ chiếu; 
+ -  Nơi cấp Hộ chiếu; 
+ -  Số CMND: sử dụng số Hộ chiếu; 
+ -  Nơi cấp CMND: chọn "	"XNC"	"; 
+ -  Quốc tịch: nhập tên nước, ví dụ Mỹ, Pháp… 
+ 
+ 
+ 
+ 
+ 
+ Ngoài ra phải cập nhật giới tính và đề nghị, khuyến khích KH cung cấp thêm thông tin sở thích, nghề nghiệp, địa chỉ, email… phục vụ công tác chuẩn hóa thông tin KH cá nhân, CSKH. 
+  
+ 2. Trường hợp KH sử dụng CMND đã quá 15 năm kể từ ngày cấp, Chứng minh quân đội, công an để ĐKTT: 
+ 
+ Mời KH đến CH để thay đổi thông tin theo CMND mới. 
+ Nếu khách hàng không đồng ý: Thông báo với KH tạm thời MobiFone vẫn giữ thông tin TB như hiện tại (nếu mất sim thì không thay sim được do không đúng chủ TB). Khi nào KH đổi giấy CMND, vui lòng ra CH MobiFone gần nhất để thay đổi thông tin. 
+ Thông tin thêm để KH được rõ: 
+ 
+ Theo quy định của Bộ Công an Thời hạn sử dụng CMND là 15 năm kể từ ngày cấp, đổi, cấp lại và phải làm thủ tục cấp đổi lại khi CMND hết giá trị sử dụng, giấy CMND của KH ko có giá trị sử dụng khi làm giao dịch với cơ quan, tổ chức….. 
+ Theo quy định của Bộ Thông tin truyền thông thì thông tin đăng ký của TB trả trước phải sử dụng số CMND hoặc hộ chiếu, do đó không áp dụng CM quân đội hoặc công an để đăng ký thông tin. 
+ 
+ 
+ 
+ 3. Trường hợp KH hỏi lý do ĐKTT, nếu không ĐKTT thì như thế nào? 
+ 
+ MobiFone tiến hành rà soát lại thông tin của toàn bộ thuê bao trả trước theo quy định của Bộ Thông tin & Truyền Thông và để đảm bảo quyền lợi của KH (đặc biệt là về quyền sở hữu SIM), tránh trường hợp TB bị cắt liên lạc do thông tin không đúng quy định. Vì vậy KH vui lòng liên hệ CH MF để đăng ký lại đúng thông tin trong thời gian sớm nhất . 
+ 

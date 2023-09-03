@@ -1,0 +1,1 @@
+ Ảnh hưởng nghiệp vụ đăng ký/gia hạn các gói cước qua tổng đài 789, 999 có đấu nối cờ lên HLR Ảnh hưởng nghiệp vụ đăng ký dịch vụ CVQT, tắt/ bật data (Data on/off) Ảnh hưởng nghiệp vụ tra cứu thông tin thuê bao trên tổng đài HLR. Ảnh hưởng nghiệp vụ đấu nối thuê bao. Các nghiệp vụ chặn/mở báo đỏ, chặn/mở nợ cước. Các nghiệp vụ chặn/mở chiều đi/đến thuê bao do người dùng yêu cầu 

@@ -1,0 +1,916 @@
+ 1 . Giới thiệu : 
+ 
+ 
+ Công ty Cổ phần Dịch vụ Thẻ Smartlink (Smartlink), được thành lập bởi Ngân hàng TMCP Ngoại thương VN và 15 Ngân hàng Thương mại cổ phần khác nhằm cung cấp dịch vụ trung gian hỗ trợ thanh toán, cung ứng các giải pháp thanh toán điện tử hiện đại theo hướng chuyên nghiệp hóa và đa dạng hóa các dịch vụ hỗ trợ xử lý giao dịch thanh toán không dùng tiền mặt theo chủ trương của Chính phủ và Ngân hàng Nhà nước. 
+ 
+ 
+ Hiện tại Smartlink đang vận hành một hệ thống xử lý thông tin kết nối với 30 ngân hàng thành viên và các công ty hàng không, viễn thông và các doanh nghiệp lớn ở Việt Nam để cung ứng các sản phẩm, dịch vụ thanh toán tiện ích trên các kênh giao dịch điện tử ATM, POS, điện thoại di động, Internet. Các dịch vụ chính Smartlink đang cung cấp và phát triển gồm có: 
+ 
+ 
+ Dịch vụ xử lý dữ liệu điện tử các giao dịch tài chính - Smartlink Switching, bao gồm: 
+ 
+ 
+ Dịch vụ xử lý dữ liệu giao dịch ATM 
+ 
+ 
+ Dịch vụ xử lý dữ liệu giao dịch POS. 
+ 
+ 
+ 
+ 
+ Dịch vụ cổng thanh toán - Smartlink Payment Gateway, bao gồm:: 
+ 
+ 
+ Cổng thanh toán trực tuyến qua Internet (e-Commerce) 
+ 
+ 
+ Cổng thanh toán điện tử phục vụ nạp tiền, thanh toán hóa đơn (Topup, Billing) 
+ 
+ 
+ 
+ 
+ Dịch vụ cung cấp giải pháp và phương tiện thanh toán Ví điện tử - Smartlink Ewallet 
+ 
+ 
+ Dịch vụ tư vấn đào tạo phát triển dịch vụ thẻ và thanh toán điện tử. 
+ 
+ 
+ Các dịch vụ khác. 
+ 
+ 
+ 
+ 
+ Sau 3 năm chính thức đi vào hoạt động, Smartlink đã mở rộng kết nối liên thông hệ thống ATM, POS cho các ngân hàng thành viên tham gia với mạng lưới kết nối gồm hơn 5.000 ATM và 26.000 máy POS tại Việt Nam. Hệ thống xử lý lên tới 1.000.000 giao dịch/ngày và chấp nhận thanh toán cho 8 triệu thẻ nội địa. 
+ 
+ 
+ Đặc biệt, dưới sự chỉ đạo sát sao và trực tiếp của Ngân hàng Nhà nước, Smartlink đã kết nối liên thông hệ thống ATM thành công với Công ty Chuyển mạch tài chính quốc gia - Banknetvn vào năm 2008 và Công ty cổ phần Thẻ thông minh Vina - V.N.B.C vào năm 2009, tạo ra một mạng lưới kết nối ATM giữa các ngân hàng thống nhất trên toàn quốc, mang lại sự thuận tiện cho người sử dụng thẻ với khả năng rút tiền tại mọi máy ATM của các ngân hàng. 
+ 
+ 
+ Trên nền tảng kết nối thành công hệ thống ATM giữa các ngân hàng và các công ty chuyển mạch, thực hiện chỉ đạo của Ngân hàng Nhà nước, Smartlink tiếp tục triển khai mở rộng kết nối liên thông hệ thống POS với Banknetvn vào tháng 09/2010 và V.N.B.C vào tháng 12/2010 nhằm tạo điều kiện cho khách hàng của các ngân hàng có thể sử dụng chung các máy POS để thực hiện chi tiêu, thanh toán hàng hóa dịch vụ bằng thẻ nội địa, giảm bớt thanh toán tiền mặt, góp phần nâng cao văn minh thương mại. 
+ 
+ 
+ Với các đối tác trong nước, Smartlink đã đạt được thỏa thuận hợp tác với các công ty hàng không, viễn thông và các doanh nghiệp cung cấp hàng hóa dịch vụ lớn ở Việt Nam như Tổng công ty Hàng Không VN, Công ty Viễn thông Viettel, Công ty thông tin di động VMS, Công ty dịch vụ viễn thông Vinaphone, Công ty cổ phần Tập đoàn Vina … để cung ứng các sản phẩm, dịch vụ thanh toán tiện ích trên các kênh giao dịch điện tử ATM, POS, điện thoại di động và Internet, phục vụ nhu cầu thanh toán thiết yếu của khách hàng. 
+ 
+ 
+ Về mảng hợp tác quốc tế, Smartlink đang tích cực tìm kiếm, trao đổi khả năng hợp tác, kết nối hệ thống với các Tổ chức thẻ Quốc tế như Visa, MasterCard, American Express, China Union Pay, JCB, …nhằm cung cấp các dịch vụ hỗ trợ thanh toán hiện đại cho các ngân hàng. 
+ 
+ 
+ 
+ 
+ 2. Điều kiện sử dụng dịch vụ cho KH cá nhân: 
+ 
+ 
+ 
+ 
+ 
+ Tên dịch vụ 
+ 
+ 
+ Điều kiện sử dụng 
+ 
+ 
+ 
+ 
+ ATM 
+ 
+ 
+ - Khách hàng có tài khoản và thẻ nội địa (thẻ ATM) của ngân hàng đã tham gia vào hệ thống ATM nội mạng và liên mạng SML 
+ - Khách hàng có đủ số dư trong tài khoản để thực hiện rút tiền 
+ 
+ 
+ 
+ 
+ POS 
+ 
+ 
+ - Khách hàng có tài khoản và thẻ nội địa (thẻ ATM) của ngân hàng đã tham gia vào hệ thống POS nội mạng và liên mạng SML 
+ - Khách hàng có đủ số dư trong tài khoản để thực hiện thanh toán 
+ 
+ 
+ 
+ Ecom 
+ 
+ - Khách hàng có tài khoản và có thẻ nội địa (thẻ ATM) của ngân hàng tham gia dịch vụ Thương mại điện tử với Smartlink 
+ - Khách hàng đã đăng kí sử dụng dịch vụ Internet banking của ngân hàng 
+ - Khách hàng có đủ số dư trong tài khoản để thực hiện thanh toán 
+ 
+ 
+ 
+ Topup/Billing 
+ 
+ - Khách hàng có tài khoản ngân hàng tham gia dịch vụ Thanh toán điện tử SML (có thể có hoặc không có thẻ ATM) 
+ - Khách hàng đã đăng kí dịch vụ Internet banking, SMS banking của ngân hàng 
+ - Khách hàng có đủ số dư trong tài khoản để thực hiện thanh toán 
+ - Hướng dẫn chi tiết: 
+ 
+ 
+ Đối với khách hàng của Vietcombank: khách hàng có tài khoản tại Vietcombank, đăng kí dịch vụ Internet Banking và SMS Banking của Vietcombank. 
+ 
+ 
+ Đối với khách hàng của VIBank: khách hàng có tài khoản thanh toán tại VIBank, đăng ký dịch vụ Ngân hàng trực tuyến VIB4U. 
+ 
+ 
+ Đối với khách hàng của GPBank: khách hàng có tài khoản tại GP.Bank, đăng ký sử dụng dịch vụ SMS Banking của GP.Bank. 
+ 
+ 
+ Đối với khách hàng Techcombank: khách hàng có tài khoản tại Techcombank, đăng kí sử dụng dịch vụ F@stMobipay gói thường (thanh toán qua SMS banking) hoặc gói trọn gói của Techcombank. 
+ 
+ 
+ Đối với khách hàng của Tienphongbank: khách hàng mở tài khoản thanh toán tại Tienphongbank, đăng kí dịch vụ Mobile banking của Tienphongbank (có thể đăng kí tại quầy giao dịch hoặc qua kênh Internet banking của ngân hang). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3. Danh sách thẻ ATM/POS: 
+ 
+ 
+ 
+ 
+ 
+ Tên viết tắt 
+ 
+ Ngân hàng 
+ Tên viết tắt 
+ 
+ Ngân hàng 
+ 
+ 
+ 
+ VCB 
+  
+ Sea bank 
+  
+ 
+ 
+ ACB 
+  
+ Sacombank 
+  
+ 
+ 
+ MB 
+  
+ Viet A bank 
+  
+ 
+ 
+ Marinetime bank 
+  
+ Navibank 
+  
+ 
+ 
+ Bắc Á bank 
+  
+ IVB 
+  
+ 
+ 
+ VIB 
+  
+ SHB 
+  
+ 
+ 
+ GP bank 
+  
+ VID Public bank 
+  
+ 
+ 
+ ABbank 
+  
+ Standard Chartered 
+  
+ 
+ 
+ HDbank 
+  
+ Phương Nam 
+  
+ 
+ 
+ Phương Đông 
+  
+ Bảo Việt 
+  
+ 
+ 
+ TienPhong 
+  
+ Shinhan bank 
+  
+ 
+ 
+ SCB 
+  
+ Hong Leong 
+  
+ 
+ 
+ Tín Nghĩa 
+  
+ MHB 
+  
+ 
+ 
+ VPbank 
+  
+ LienVietPostbank 
+  
+ 
+ 
+ Eximbank 
+  
+ Techcombank 
+  
+ 
+ 
+ 
+ 
+ 4. Danh sách thẻ chấp nhận: 
+ 
+ 
+ 
+ 
+ 
+ Tên viết tắt 
+ 
+ Ngân hàng 
+ Tên viết tắt 
+ 
+ Ngân hàng 
+ 
+ 
+ 
+ Vietcombank 
+ 
+ 
+ Với mục tiêu trở thành một tập đoàn tài chính hàng đầu Việt Nam và trở thành ngân hàng tầm cỡ quốc tế ở khu vực trong thập kỷ tới, hoạt động đa năng, kết hợp với điều kiện kinh tế thị trường, thực hiện tốt phương châm "	"Luôn mang đến cho khách hàng sự thành đạt"	" 
+ INDOVINA Bank 
+ 
+ 
+ Ngân hàng trách nhiệm hữu hạn Indovina (IVB) là Ngân hàng liên doanh đầu tiên của Việt Nam được thành lập ngày 21 tháng 11 năm 1990 theo Giấy phép của Ủy Ban Nhà Nước về hợp tác và đầu tư số 135/GP sau được thay bằng Giấy phép số 08/NH-GP do Ngân hàng Nhà nước Việt Nam cấp ngày 29 tháng 10 năm 1992. 
+ 
+ 
+ NH TMCP An Bình 
+ 
+ 
+ Ngân hàng An Bình (ABBANK) là một trong 10 ngân hàng TMCP có vốn điều lệ lớn nhất VN hiện nay. Tính đến tháng 12/2010, vốn điều lệ của ABBANK đạt trên 3.830 tỷ đồng. 
+ Viet A Bank 
+ 
+ 
+ Chiến lược kinh doanh hiện nay và những năm tới tập trung vào các mục tiêu: Tiếp tục tái cấu trúc, xây dựng Ngân hàng Việt Á thành một Ngân hàng hiện đại về tổ chức hoạt động, ngăn ngừa mọi rủi ro và đạt hiệu quả kinh tế cao trên nền tảng quản trị chặt chẽ, hiện đại. 
+ 
+ 
+ NH TMCP Phương Nam 
+ 
+ 
+ Được thành lập vào năm 1993 với vốn điều lệ ban đầu là 10 tỷ đồng. Đến nay, Ngân hàng Phương Nam trở thành một ngân hàng thương mại cổ phần phát triển 
+ HDBank Lady 
+ 
+ 
+ Thành lập: HDBank được thành lập ngày 04/01/1990, là một trong những ngân hàng TMCP đầu tiên của cả nước với vốn điều lệ ban đầu là 3 tỷ đồng. Đến thời điểm cuối năm 2010, HDBank đã đạt được mức vốn điều lệ là 3.000 tỷ đồng. 
+ 
+ 
+ NH TMCP Sài Gòn (Lộc) 
+ 
+ 
+ "	"SCB luôn hướng đến sự hoàn thiện vì khách hàng"	". 
+ ORICOM Bank 
+ 
+ 
+ Với việc BNP Paribas nắm giữ 15% vốn điều lệ của OCB, hai bên đã phối hợp có hiệu quả những nội dung trong thỏa thuận liên minh và đã thực hiện được đồng bộ các dự án quan trọng tạo thuận lợi cho OCB phát triển bền vững trong tương lai. 
+ 
+ 
+ NH TMCP Sài Gòn (Rose) 
+ 
+ 
+ Đây là một thể thức tiết kiệm mới nhằm tạo điều kiện thuận lợi cho Quý khách muốn chủ động nguồn tài chính của mình. Khi cần thanh toán các chi phí phát sinh, Quý khách thể rút một phần (hoặc toàn bộ) gốc bất cứ lúc nào mà vẫn được hưởng mức lãi suất lũy tiến phù hợp với thời gian đã gửi.chính của mình 
+ NH Techcombank 
+ 
+  
+ 
+ Được thành lập ngày 27/09/1993 với số vốn ban đầu là 20 tỷ đồng, trải qua hơn 16 năm hoạt động, đến nay Techcombank đã trở thành một trong những ngân hàng thương mại cổ phần hàng đầu Việt Nam với tổng tài sản đạt trên 107.910 tỷ đồng (tính đến hết tháng 6/2010). 
+  
+ 
+ 
+ 
+ NH TMCP Sài gòn (Phú) 
+ 
+ 
+ Tiền thân là Ngân hàng TMCP Quế Đô được thành lập năm 1992 theo Giấy phép hoạt động số 00018/NH-GP ngày 06/06/1992 của Thống đốc Ngân Hàng Nhà Nước Việt Nam và giấy phép thành lập số 308/GP-UB ngày 26/06/1992 của Ủy ban Nhân dân TP.HCM cấp 
+ NH TMCP Phát Triển Nhà TP.HCM 
+ 
+  
+ 
+ Thành lập: HDBank được thành lập ngày 04/01/1990, là một trong những ngân hàng TMCP đầu tiên của cả nước với vốn điều lệ ban đầu là 3 tỷ đồng. Đến thời điểm cuối năm 2010, HDBank đã đạt được mức vốn điều lệ là 3.000 tỷ đồng. 
+ 
+ 
+ NH TMCP Sài gòn (Quý) 
+ 
+ 
+ Với các chính sách linh hoạt và các sản phẩm dịch vụ toàn diện, đáp ứng được yêu cầu đa dạng của khách hàng là cơ sở vững chắc để SCB đạt được kết quả và hiệu quả kinh doanh 
+ NH TMCP Sài gòn (Tài) 
+ 
+  
+ 
+ Tiền thân là Ngân hàng TMCP Quế Đô được thành lập năm 1992 theo Giấy phép hoạt động số 00018/NH-GP ngày 06/06/1992 của Thống đốc Ngân Hàng Nhà Nước Việt Nam và giấy phép thành lập số 308/GP-UB ngày 26/06/1992 của Ủy ban Nhân dân TP.HCM cấp, đến ngày 08/04/2003, chính thức đổi tên thành Ngân hàng TMCP Sài Gòn (SCB). 
+  
+ 
+ 
+ 
+ NH TMCP Sài gòn (SCB link) 
+ 
+ 
+ Đây là một thể thức tiết kiệm mới nhằm tạo điều kiện thuận lợi cho Quý khách muốn chủ động nguồn tài chính của mình. Khi cần thanh toán các chi phí phát sinh, Quý khách thể rút một phần (hoặc toàn bộ) gốc bất cứ lúc nào mà vẫn được hưởng mức lãi suất lũy tiến phù hợp với thời gian đã gửi.chính của mình 
+  
+  
+ 
+ 
+ 
+ 
+ 5. Tham khảo: 
+ 
+ 
+ http://smartlink.com.vn/Home/ 
+ 
+ 1. Giới thiệu dịch vụ: 
+ 
+ 
+ Smartlink Ecom - Dịch vụ cổng thanh toán trực tuyến Smartlink là dịch vụ xử lý xác thực và cấp phép giao dịch thanh toán điện tử trên môi trường internet. 
+ 
+ 
+ Dịch vụ cổng thanh toán trực tuyến Smartlink cho phép các Doanh nghiệp bán hàng trực tuyến chấp nhận thanh toán qua Thẻ quốc tế, Thẻ ghi nợ nội địa của các Ngân hàng thành viên trong Liên minh thẻ Smartlink 
+ 
+ 
+ Thẻ quốc tế : Visa, MasterCard, American Express, JCB, DinerClub, CUP… 
+ 
+ 
+ Thẻ ghi nợ nội địa : Thẻ thanh toán nội địa (Thẻ ATM) do các ngân hàng phát hành 
+ 
+ 
+ 
+ 
+ Cổng thanh toán trực tuyến Smartlink là một trong những cổng thanh toán trực tuyến hàng đầu tại thị trường Việt Nam, dựa trên nền tảng kết nối Switch sẵn có với hơn 30 Ngân hàng thành viên, áp dụng các tiêu chuẩn công nghệ bảo mật an toàn hàng đầu trong ngành Tài chính - Ngân hàng và Tổ chức thẻ quốc tế. 
+ 
+ 
+ 2. Ưu điểm dịch vụ: 
+ 
+ 
+ So với các hình thức thanh toán truyền thống (tiền mặt, chuyển khoản…) 
+ 
+ 
+ Thực hiện giao dịch thanh toán hoàn toàn trực tuyến , đơn giản thuận tiện cho khách hàng và doanh nghiệp 
+ 
+ 
+ An toàn bảo mật cho khách hàng trong thanh toán 
+ 
+ 
+ Khách hàng được đảm bảo quyền lợi khi có các khiếu nại tranh chấp 
+ 
+ 
+ Doanh nghiệp nhận tiền hàng nhanh , quay vòng vốn nhanh, không phải quản lý tiền mặt, tránh nhiều rủi ro. 
+ 
+ 
+ Doanh nghiệp không phải mở tài khoản ở nhiều ngân hàng khác nhau để chấp nhận phương thức chuyển khoản của khách hàng. 
+ 
+ 
+ 
+ 
+ So với các cổng thanh toán, ví điện tử khác 
+ 
+ 
+ Doanh nghiệp nhận tiền hàng là tiền thật , được quản lý đảm bảo bởi các ngân hàng, không phải các đồng tiền ảo, nhiều rủi ro như các hình thức thanh toán ví điện tử. 
+ 
+ 
+ Số lượng thẻ quốc tế, thẻ nội địa được chấp nhận trên cổng thanh toán trực tuyến Smartlink nhiều nhất, rộng nhất. 
+ 
+ 
+ Triển khai tích hợp với các website doanh nghiệp nhanh chóng, đơn giản . 
+ 
+ 
+ Quy trình thanh toán đơn giản, thống nhất, dễ thực hiện với khách hàng 
+ 
+ 
+ Cung cấp thêm các kênh thanh toán đa dạng khác dựa trên nền tảng kết nối sẵn có với ngân hàng. 
+ 
+ 
+ Các công cụ báo cáo giao dịch cho ngân hàng và đơn vị bán hàng, quản lý rủi ro, các hệ thống theo dõi cảnh báo giao dịch giả mạo theo tiêu chuẩn quốc tế . 
+ 
+ 
+ 
+ 
+ Kết nối với nhiều doanh nghiệp lớn, nhiều khách hàng có thói quen thanh toán trực tuyến như VietnamAirlines, VinaGames, Ngân Lượng, Bảo Kim… 
+ 
+ 
+ Triển khai với các NHTV nhanh chóng, đơn giản trên nền tảng kết nối Switch sẵn có. 
+ 
+ 
+ Các luồng giao dịch được chuẩn hoá, hạn chế tối đa các giao dịch rủi ro, sai lệch và lỗi, nâng cao chất lượng dịch vụ. 
+ 
+ 
+ Các công cụ đối soát, thanh quyết toán tự động, theo tiêu chuẩn ngành tài chính ngân hàng. 
+ 
+ 
+ 3. Mô hình dịch vụ: 
+ 
+ Dịch vụ cổng thanh toán trực tuyến Smartlink cho phép các doanh nghiệp có website TMĐT chấp nhận thanh toán trực tuyến theo mô hình dưới đây: 
+ 
+ 
+ Mô hình thanh toán Thẻ quốc tế: 
+ 
+ 
+ 
+- Khách hàng mua hàng hoá dịch vụ trên website và lựa chọn phương thức thanh toán. 
+- Khách hàng sẽ được chuyển sang giao diện cổng thanh toán trực tuyến Smartlink. 
+- Khách hàng nhập thông tin thẻ và xác nhận việc thanh toán. 
+- Cổng thanh toán trực tuyến Smartlink sẽ chuyển thông điệp yêu cầu thanh toán đến tổ chức thẻ quốc tế để xử lý. 
+- Sau khi nhận thông báo giao dịch thanh toán đã được thực hiện từ phía tổ chức thẻ quốc tế, cổng thanh toán trực tuyến Smartlink sẽ gửi thông báo cho Đơn vị chấp nhận thẻ và hiển thị thông báo cho khách hàng giao dịch đã thành công. 
+ 
+ 
+ Mô hình thanh toán Thẻ nội địa: 
+ 
+ 
+ 
+  
+ - Quy trình thanh toán đối với thẻ nội địa cũng tương tự như với thẻ quốc tế, khách hàng sau khi mua hàng và thanh toán sẽ được chuyển sang giao diện cổng thanh toán trực tuyến Smartlink, tại đây khách hàng điền thông tin thẻ và xác thực giao dịch thanh toán. 
+- Điểm khác biệt với cổng thanh toán quốc tế: Smartlink trực tiếp gửi yêu cầu thanh toán đến Ngân hàng phát hành. 
+ 
+ 4 . Đối tượng tham gia dịch vụ: 
+ 
+ 
+ Doanh nghiệp - Đơn vị chấp nhận thẻ (Merchant): 
+ 
+ 
+ Các Doanh nghiệp (có đăng ký kinh doanh) có website Thương mại điện tử B2C, có nhu cầu thanh toán trực tuyến bằng các loại Thẻ quốc tế và Thẻ ghi nợ nội địa (Thẻ ngân hàng, Thẻ ATM, Thẻ thanh toán). 
+ 
+ 
+ Các Doanh nghiệp (có đăng ký kinh doanh) có website Thương mại điện tử C2C, có nhu cầu cung cấp dịch vụ thanh toán trực tuyến cho các gian hàng trên website thông qua mô hình Đại diện trung gian thanh toán - Master Merchant. 
+ 
+ 
+ Các Doanh nghiệp, Ngân hàng có cổng thanh toán trực tuyến có nhu cầu kết nối liên thông với cổng thanh toán trực tuyến Smartlink theo mô hình PG2PG (Payment Gateway to Payment Gateway) 
+ 
+ 
+ 
+ 
+ Đại lý phát triển Đơn vị chấp nhận thẻ (Reseller): 
+ 
+ 
+ Các Doanh nghiệp hiện đang triển khai phân phối dịch vụ POS cho các khách hàng của mình, có nhu cầu phát triển thêm gói dịch vụ thanh toán mới trên kênh Internet cho khách hàng 
+ 
+ 
+ 
+ 
+ 5. Quy trình thanh toán trên cổng Smartlink Ecom: 
+ 
+ 
+ Bước 1 : Khách hàng mua hàng hoá dịch vụ tại website Đơn vị chấp nhận thẻ 
+ 
+ 
+ Bước 2 : Khách hàng lựa chọn phương thức thanh toán Thẻ 
+ 
+ 
+ Bước 3 : Khách hàng nhập thông tin thẻ trên giao diện trang thanh toán 
+ 
+ 
+ Bước 4 : Khách hàng nhận OTP qua điện thoại và nhập trên giao diện trang xác thực 
+ 
+ 
+ Bước 5 : Khách hàng hoàn tất và kết thúc giao dịch. Đơn vị chấp nhận thẻ thực hiện giao hàng háo dịch vụ theo đơn hàng. 
+ 
+ 
+ 6. Thuật ngữ: 
+ 
+ 
+ Đơn vị chấp nhận thẻ (Merchant) : Là tên gọi Doanh nghiệp cung cấp hàng hoá dịch vụ qua website, chấp nhận phương thức thanh toán trực tuyến bằng thẻ của khách hàng thông qua kết nối với hệ thống cổng thanh toán trực tuyến Smartlink. 
+ 
+ 
+ Ngân hàng phát hành (Issuing Bank) : Là tên gọi ngân hàng được phép phát hành thẻ theo quy định của pháp luật. 
+ 
+ 
+ Ngân hàng thanh toán (Acquiring Bank) : Là tên gọi ngân hàng được phép thực hiện dịch vụ thanh toán thẻ. Ngân hàng thanh toán tổ chức quản lý tài khoản thanh toán của Đơn vị chấp nhận thẻ, đảm bảo việc thanh toán cho Đơn vị chấp nhận thẻ. 
+ 
+ 
+ BIN (Bank Indentification Number) : Là mã tổ chức của các ngân hàng. 
+ 
+ 
+ PIN (Personal Indentification Number) : Là mã số bí mật của chủ thẻ 
+ 
+ 
+ OTP (One Time Password) : Là giải pháp mật khẩu ngẫu nhiên sinh 1 lần, được khởi tạo và gửi cho khách hàng để xác thực các giao dịch trên môi trường Internet. Thông thường OTP chỉ có hiệu lực trong vòng 30s - 60s. 
+ 
+ 
+ Thẻ (Card) : Là phương tiện thanh toán do ngân hàng phát hành cho chủ thẻ để thực hiện giao dịch thẻ theo các điều kiện và điều khoản được các bên thoả thuận. Có hai loại thẻ cơ bản là Thẻ quốc tế và Thẻ nội địa 
+ 
+ 
+ Tại Việt Nam, khách hàng hay sử dụng thuật ngữ Thẻ ATM, Thẻ ngân hàng , Thẻ thanh toán … đây là những cách gọi không chính xác để chỉ Thẻ ghi nợ nội địa, có phạm vi giao dịch và thanh toán trong lãnh thổ Việt Nam . 
+ 
+ 1. Giới thiệu dịch vụ: 
+ 
+ 
+ Dịch vụ Smartlink Mobile Banking là dịch vụ cung cấp giải pháp ngân hàng điện tử trên kênh điện thoại di động, cho phép khách hàng của các ngân hàng thực hiện các giao dịch ngân hàng điện tử (bao gồm và không giới hạn các giao dịch tài chính và phi tài chính trên tài khoản, thẻ ngân hàng) một cách nhanh chóng, tiện lợi và an toàn thông qua các hình thức ứng dụng phần mềm trên điện thoại di động (mobile client) hoặc trình duyệt trên điện thoại di động (mobile web). 
+ 
+ 
+ Dịch vụ Smartlink Mobile Banking là một hệ thống ứng dụng cho phép Ngân hàng dễ dàng giao tiếp với khách hàng nhận và xử lý các giao dịch ngân hàng trên kênh điện thoại di động của khách hàng 
+ 
+ 
+ 2. Đối tượng của dịch vụ: 
+ 
+ a. Đối tượng: 
+ 
+ 
+ Dịch vụ Mobile Banking hướng tới đối tượng là các nhà cung cấp dịch vụ thẻ và tài khoản bao gồm nhưng không giới hạn: các ngân hàng, các Tổ chức Thẻ trong và ngoài nước 
+ 
+ 
+ b. Các tính năng giao dịch khách hàng có thể thực hiện bao gồm nhưng không giới hạn: 
+ 
+ 
+ Giao dịch phi tài chính: 
+ 
+ 
+ Đăng ký/ Kich hoạt/ Khóa/ Mở dịch vụ 
+ 
+ 
+ Thay đổi tên và mật khẩu truy cập 
+ 
+ 
+ Truy vấn số dư tài khoản/thẻ 
+ 
+ 
+ Truy vấn lịch sử giao dịch tài khoản/thẻ 
+ 
+ 
+ Tra cứu lãi suất, tỷ giá vàng, tỷ giá ngoại tệ … 
+ 
+ 
+ Tra cứu địa điểm chi nhánh/phòng giao dịch, điểm đặt máy ATM/POS 
+ 
+ 
+ Tra cứu thông tin dịch vụ Ngân hàng 
+ 
+ 
+ v..v... 
+ 
+ 
+ 
+ 
+ Giao dịch tài chính: 
+ 
+ 
+ Chuyển khoản trong nội bộ ngân hàng 
+ 
+ 
+ Chuyển khoản liên ngân hàng 
+ 
+ 
+ Giao dịch nạp tiền dịch vụ 
+ 
+ 
+ Giao dịch thanh toán hóa đơn 
+ 
+ 
+ Giao dịch thanh toán dịch vụ khác 
+ 
+ 
+ v...v... 
+ 
+ 
+ 
+ 
+ 3 . Mô hình dịch vụ: 
+ 
+  
+ 
+ 
+ Mô hình hợp tác dịch vụ Smartlink Mobile Banking được triển khai dựa trên mô hình dịch vụ Switch to Switch giữa Smartlink và Ngân hàng. 
+ 
+ 
+ Mô hình hợp tác dịch vụ này sẽ tận dụng tối đa hệ thống Switch của Smartlink, cho phép xử lý các giao dịch tài chính trên nền tảng hệ thống công nghệ bao gồm và không giới hạn cho các giao dịch ATM/POS, các giao dịch khác trong hệ thống liên minh ngân hàng thành viên. 
+ 
+ 
+ 4. Lợi ích dịch vụ: 
+ 
+ a. Đối với ngân hàng: 
+ 
+ 
+ Tận dụng kết nối sẵn có trong mô hình Switch to Switch giữa Smartlink và Ngân hàng. 
+ 
+ 
+ Đa dạng hóa kênh giao dịch ngân hàng điện tử 
+ 
+ 
+ Giảm chi phí đầu tư hệ thống và chi phí giao dịch 
+ 
+ 
+ Thời gian triển khai nhanh chóng và thuận tiện 
+ 
+ 
+ Mở rộng thêm kênh quảng bá và truyền thông thương hiệu sản phẩm đến khách hàng 
+ 
+ 
+ b. Đối với khách hàng: 
+ 
+ 
+ Thêm kênh giao dịch ngân hàng điện tử nhanh chóng và thuận tiện, tiết kiệm thời gian và chi phí. 
+ 
+ 
+ Sự tiện lợi : KH có thể thực hiện các giao dịch ngân hàng điện tử một cách nhanh chóng, tiện lợi, mọi lúc mọi lợi. 
+ 
+ 
+ Độ an toàn và bảo mật cao : Thông tin giao dịch được mã hóa và bảo mật theo đúng tiêu chuẩn bảo mật khắt khe của Ngân hàng. Các tính năng giao dịch ngân hàng đa dạng với các giải pháp bảo mật tối ưu. 
+ 
+ 
+ Tiết kiệm thời gian và chi phí đi lại cho khách hàng 
+ 
+ 
+ Tính năng dịch vụ đa dạng : Khách hàng có thể thực hiện các giao dịch tài chính, giao dịch phi tài chính và các tiện ích khác một cách nhanh chóng và dễ dàng. 
+ 
+ 
+ Cài đặt ứng dụng dễ dàng : Khách hàng có thể dễ dàng cài đặt và sử dụng ứng dụng trên tất cả các điện thoại di động có hỗ trợ Java và GPRS hiện có trên thị trường 
+  
+ 
+ 1. Giới thiệu dịch vụ: 
+ 
+ 
+ Smartlink Topup - Dịch vụ nạp tiền tài khoản trả trước Smartlink là dịch vụ kết nối Ngân hàng và Nhà cung cấp dịch vụ, cho phép khách hàng có Thẻ hoặc Tài khoản ngân hàng sử dụng các kênh giao dịch điện tử để nạp tiền tài khoản dịch vụ trả trước. 
+ 
+ 
+ Các dịch vụ nạp tiền bao gồm: 
+ 
+ 
+ Nạp tiền trả trước tài khoản dịch vụ điện thoại di động: Vinaphone, Mobifone, Viettel… 
+ 
+ 
+ Nạp tiền tài khoản games, tài khoản dịch vụ khác: VinaGames, FPT Online, VTC Online… 
+ 
+ 
+ Nạp tiền tài khoản ví điện tử, thẻ trả trước, thẻ liên kết ngân hàng…: Ngân Lượng, Bảo Kim 
+ 
+ 
+ 
+ 
+ Các kênh giao dịch có thể áp dụng: 
+ 
+ 
+ ATM - POS 
+ 
+ 
+ Internet Banking 
+ 
+ 
+ Mobile Banking/SMS Banking 
+ 
+ 
+ Các kênh giao dịch khác của ngân hàng 
+ 
+ 
+ 
+ 
+ 2. Ưu điểm dịch vụ: 
+ 
+ a. Ưu điểm: 
+ 
+ 
+ Cung cấp nhiều dịch vụ nạp tiền giá trị gia tăng cho các KH cá nhân của doanh nghiệp có tài khoản ngân hàng. 
+ 
+ 
+ Kết nối với nhiều ngân hàng nhất, nhanh nhất, dựa trên nền tảng Switch với 29 Ngân hàng thành viên. 
+ 
+ 
+ Kết nối với nhiều Nhà cung cấp dịch vụ thuộc nhiều lĩnh vực đa dạng như viễn thông, games, ví điện tử, thẻ trả trước, thẻ liên kết ngân hàng … 
+ 
+ 
+ Cung cấp nhiều kênh giao dịch đa dạng dựa trên nền tảng các giải pháp kết nối với ngân hàng. 
+ 
+ 
+ b. Lợi ích đối với khách hàng cá nhân (end-users): 
+ 
+ 
+ Sự thuận tiện : Nạp tiền tài khoản dịch vụ dễ dàng nhanh chóng, mọi lúc mọi nơi. 
+ 
+ 
+ Đăng ký dễ dàng : Khách hàng chỉ cần có tài khoản/thẻ của ngân hàng, không cần phải đăng ký thêm có thể sử dụng dịch vụ. 
+ 
+ 
+ Hỗ trợ nhiều phương thức thanh toán : Khách hàng có thể lựa chọn nhiều kênh nạp tiền khác nhau. 
+ 
+ 
+ 3. Mô hình dịch vụ: 
+ 
+ 
+ 
+ 
+ Khách hàng thông qua các kênh ngân hàng như (ATM, POS, Internet Banking, Mobile Banking …) yêu cầu dịch vụ nạp tiền tài khoản dịch vụ 
+ 
+ 
+ Ngân hàng kiểm tra thông tin khách hàng, thực hiện trừ tiền và chuyển yêu cầu nạp tiền sang Smartlink 
+ 
+ 
+ Smartlink xử lý và chuyển thông tin đến Nhà cung cấp dịch vụ 
+ 
+ 
+ Nhà cung cấp dịch vụ nạp tiền tài khoản dịch vụ và gửi lại kết quả cho Smartlink - Ngân hàng 
+ 
+ 
+ Ngân hàng thông báo kết quả cho khách hàng. 
+ 
+ 
+ 4. Đối tượng tham gia dịch vụ: 
+ 
+ 
+ Các Ngân hàng thành viên của Smartlink, các Ngân hàng khác có nhu cầu cung cấp các dịch vụ Nạp tiền tài khoản dịch vụ cho khách hàng 
+ 
+ 
+ Các Nhà cung cấp dịch vụ có nhu cầu nạp tiền trên các kênh điện tử của ngân hàng 
+ 
+ 
+ 5. Hướng dẫn sử dụng: 
+ 
+ - Khách hàng tìm hiểu thông tin chi tiết về sử dụng dịch vụ tại website của các Ngân hàng: 
+ 
+ 
+ Ngân hàng TMCP Ngoại Thương Việt Nam Vietcombank 
+ 
+ 
+ Ngân hàng TMCP Quốc Tế Việt Nam VIBank 
+ 
+ 
+ Ngân hàng TMCP Tiên Phong Tienphongbank 
+ 
+ 
+ Ngân hàng TMCP Dầu khí toàn cầu GP Bank 
+ 
+ 
+ Ngân hàng TMCP Nhà đồng bằng sông Cửu Long MHB  
+  
+ 
+ 1. Giới thiệu dịch vụ: 
+ 
+ Dịch vụ Smartlink SMS Banking là dịch vụ giá trị gia tăng của Smartlink cung cấp cho các Ngân hàng thành viên và các Ngân hàng khác có nhu cầu, cho phép khách hàng của các ngân hàng có thể giao dịch với ngân hàng một cách nhanh chóng, dễ dàng, mọi lúc mọi nơi thông qua các tin nhắn SMS. 
+ Smartlink cung cấp dịch vụ SMS Banking trên các đầu số ngắn dễ đọc, dễ nhớ 8x66, 8x88 và 6x65 
+ Với dịch vụ Smartlink SMS Banking trên các đầu số 8x66, 8x88 và 6x65 , Smartlink hỗ trợ các ngân hàng, cho phép khách hàng thực hiện các giao dịch bao gồm: 
+ 
+ Giao dịch phi tài chính: 
+ 
+ Truy vấn thông tin: tài khoản, giao dịch, tỷ giá, lãi suất, địa điểm ATM … 
+ Thông báo biến động số dư, thông báo mật khẩu OTP, thông báo các chương trình khuyến mãi của ngân hàng. 
+ Đăng ký/khoá/mở thẻ và các dịch vụ mới của ngân hàng. 
+ Nhắc nợ/tất toán tiết kiệm/… 
+ 
+ 
+ Giao dịch tài chính: 
+ 
+ Nạp tiền tài khoản dịch vụ trả trước 
+ Thanh toán tiền/cước/hoá đơn dịch vụ trả sau 
+ Chuyển khoản 
+ 
+ 
+ 
+ 
+ 
+ 2. Ưu điểm dịch vụ: 
+ 
+ Khả năng kết nối rộng đến tất cả các mạng di động 
+ Đầu số dịch vụ đẹp, ngắn, dễ nhớ, dễ thao tác (8x66, 8x88, 6x65 thay vì các đầu số dài có 8 chữ số) 
+ Tận dụng nền tảng kết nối sẵn có giữa Smartlink và các ngân hàng, tiết kiệm chi phí, tiết kiệm nhân lực 
+ Nhiều chính sách ưu đãi của Smartlink với ngân hàng 
+ Độ ổn định cao, chất lượng dịch vụ tốt, giảm thiểu số tin nhắn thất thoát 
+ Hạn chế tối đa các tin nhắn quảng cáo, tin nhắn spam 
+ Được hỗ trợ liên tục bởi đội ngũ kỹ thuật viên của Smartlink 
+ Là tiền đề để tiếp tục hợp tác triển khai các dịch vụ giá trị gia tăng khác của Smartlink 
+ 
+ 3. Đối tượng tham gia dịch vụ: 
+ 
+ Ngân hàng thành viên của Smartlink 
+ Ngân hàng khác có nhu cầu hợp tác 
+ 
+  
+ 1. Giới thiệu dịch vụ: 
+ 
+ 
+ Smartlink Bill Payment - Dịch vụ thanh toán hoá đơn Smartlink là dịch vụ kết nối Ngân hàng và Nhà cung cấp dịch vụ, cho phép khách hàng có Thẻ hoặc Tài khoản ngân hàng sử dụng các kênh giao dịch điện tử thanh toán tiền/cước/hoá đơn hàng hoá dịch vụ. 
+ 
+ 
+ Các dịch vụ thanh toán bao gồm : 
+ 
+ 
+ Thanh toán hoá đơn điện thoại trả sau. 
+ 
+ 
+ Thanh toán vé máy bay, vé tàu hoả, tàu thuỷ, đặt phòng tour du lịch, khách sạn … 
+ 
+ 
+ Thanh toán hoá đơn các dịch vụ thiết yếu: internet, truyền hình cáp, điện, nước … 
+ 
+ 
+ Thanh toán hoá đơn dịch vụ bảo hiểm, … 
+ 
+ 
+ 
+ 
+ Các kênh giao dịch có thể áp dụng : 
+ 
+ 
+ ATM/POS 
+ 
+ 
+ Internet Banking 
+ 
+ 
+ Mobile Banking/SMS Banking 
+ 
+ 
+ Telephone Banking 
+ 
+ 
+ Quầy giao dịch 
+ 
+ 
+ Website đối tác như ebank.vnexpress.net; VMS Portal; … 
+ 
+ 
+ 
+ 
+ 2. Ưu điểm của dịch vụ: 
+ a. Ưu điểm: 
+ 
+ 
+ Cung cấp nhiều dịch vụ thanh toán hiện đại, tiện ích cho các KH của doanh nghiệp có tài khoản tại các ngân hàng 
+ 
+ 
+ Kết nối với nhiều ngân hàng nhất, nhanh nhất, dựa trên nền tảng Switch với 29 Ngân hàng thành viên. 
+ 
+ 
+ Kết nối với nhiều Nhà cung cấp dịch vụ thuộc nhiều lĩnh vực đa dạng như viễn thông, truyền hình, bảo hiểm, internet… 
+ 
+ 
+ Cung cấp nhiều kênh thanh toán đa dạng dựa trên nền tảng các giải pháp kết nối với ngân hàng. 
+ 
+ 
+ Tận dụng hệ thống các điểm quầy giao dịch sẵn có của các ngân hàng. 
+ 
+ 
+ b. Lợi ích đối với khách hàng cá nhân (end-users) 
+ 
+ 
+ Sự thuận tiện : Thanh toán hoá đơn đơn giản dễ dàng, mọi lúc mọi nơi. 
+ 
+ 
+ An toàn, bảo mật : Là kênh thanh toán an toàn, bảo mật với các tiêu chuẩn kỹ thuật bảo mật chặt chẽ của ngành ngân hàng, đáp ứng mọi yêu cầu về xác thực và bảo mật của các tổ chức thanh toán quốc tế. 
+ 
+ 
+ Tiết kiệm : Khách hàng không phải mất thời gian, chi phí đi lại. Chi phí sử dụng dịch vụ rất phù hợp với nhiều khách hàng và thấp hơn nhiều so với những tiện ích mang lại. 
+ 
+ 
+ Đăng ký dễ dàng : Khách hàng chỉ cần có tài khoản internet banking, thẻ của ngân hàng, không cần phải đăng ký thêm để có thể sử dụng dịch vụ. 
+ 
+ 
+ Hỗ trợ nhiều phương thức thanh toán : Khách hàng có thể lựa chọn nhiều phương thức thanh toán khác nhau cả online và offline. 
+ 
+ 
+ 3. Mô hình dịch vụ: 
+ 
+  
+ 
+ 
+ Khách hàng thông qua các kênh ngân hàng như (ATM, POS, Internet Banking, Mobile Banking…) yêu cầu dịch vụ thanh toán hoá đơn. 
+ 
+ 
+ Ngân hàng kiểm tra thông tin khách hàng, thực hiện trừ tiền và chuyển yêu cầu thanh toán sang Smartlink. 
+ 
+ 
+ Smartlink xử lý và chuyển thông tin đến Nhà cung cấp dịch vụ 
+ 
+ 
+ Nhà cung cấp dịch vụ gạch nợ hoá đơn và gửi lại kết quả cho Smartlink - Ngân hàng. 
+ 
+ 
+ Ngân hàng thông báo kết quả cho khách hàng. 
+ 
+ 
+ 4 . Đối tượng tham gia dịch vụ: 
+ - Các Nhà cung cấp dịch vụ có nhu cầu thu hộ tiền/cước/hoá đơn thanh toán hàng hoá dịch vụ 
+ 
+ 
+ Dịch vụ viễn thông: hoá đơn tiền điện thoại di động, điện thoại cố định,.. 
+ 
+ 
+ Dịch vụ thiết yếu: hoá đơn truyền hình cáp, internet, tiền điện, nước,… 
+ 
+ 
+ Dịch vụ vận tải: vé máy bay, vé tàu hoả, vé tàu thuỷ… 
+ 
+ 
+ Dịch vụ du lịch: đặt phòng khách sạn, tour du lịch… 
+ 
+ 
+ Dịch vụ bảo hiểm 
+ 
+ 
+ Các dịch vụ khác 
+ 
+ 

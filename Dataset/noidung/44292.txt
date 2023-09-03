@@ -1,0 +1,1 @@
+ 1. ĐỐI TƯỢNG : khách hàng trúng giải Chung cuộc và giải Nhất của CT "	"Dự sinh nhật Nhận quà chất"	" 2. THỜI GIAN GỌI RA: Từ 19/06/2019 - 21/06/2019 3. MỤC ĐÍCH: Xác nhận thông tin khách hàng trúng thưởng xem có khớp với thông tin trên hệ thống hay không. Hướng dẫn thủ tục nhận giải thưởng. Giải đáp các thắc mắc của khách hàng liên quan về chương trình 

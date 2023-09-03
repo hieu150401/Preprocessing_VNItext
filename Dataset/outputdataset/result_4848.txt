@@ -1,0 +1,146 @@
+1 . Đối_tượng : 
+ 
+ Thuê_bao có thời_gian sử_dụng từ 36 tháng trở_lên 
+ Thời_gian sử_dụng được tính theo đơn_vị tháng tính đến thời_điểm xét chiết_khấu 
+ 
+ 2 . Mức ưu_đãi : mức ưu_đãi được tính dựa theo thời_gian sử_dụng của thuê_bao 
+ 
+ Từ 3 đến dưới 5 năm : 50.000 đ / lần xét 
+ Từ 5 đến dưới 10 năm : 75.000 đ / lần xét 
+ Từ 10 năm trở lên : 150.000 đ / lần xét 
+ 
+ 3 . Lưu_ý : 
+ 
+ Nếu thuê_bao thỏa_mãn đồng_thời chính_sách khuyến_khích cho KH có mức cước cao , và chính_sách khuyến_khích cho KH lâu năm thì chỉ được hưởng mức khuyến_khích có giá_trị cao nhất . 
+ Thời_điểm xét dữ_liệu 1 / 1 và 1 / 7 hàng năm ( đối_với đối_tượng cước cao thì xét cho 6 tháng / chu_kỳ cước liền kề trước thời_điểm xét ) 
+ Thời_điểm xét và cộng ưu_đãi phải đang hoạt_động 2 chiều . 
+ KHÔNG áp_dụng đối_với KH là thành_viên KNDL ; đăng_ký gói M - Business , M - Home , M - Friends , KH cao_cấp ( đối_tượng 1 ) , thuê_bao công_vụ , nghiệp_vụ , SIM thử và thuê_bao thuộc đối_tượng chăm_sóc khách_hàng nội_bộ - Lý_do : các đối_tượng trên được đã hưởng ưu_đãi lớn hơn chính_sách này . ( Ví_dụ khi xét chưa thuộc nhóm MHome nhưng thời_điểm cộng đã đăng_ký nhóm : không được KK ) 
+ Thuê_bao được hưởng ưu_đãi của chính_sách này vẫn được tham_gia các chương_trình khuyến_mại khác , chương_trình chăm_sóc khách_hàng ( Chúc_mừng sinh_nhật khách_hàng trả sau , Thay Simcard dung_lượng cao miễn_phí ) . 
+ Nếu chuyển_đổi từ trả sau < > trả trước hoặc CCQ : tính thời_gian sử_dụng từ thời_điểm chuyển_đổi . Nếu chuyển giữa các hình_thức trả trước : tính từ thời_điểm kích_hoạt 
+ Tiền chiết_khấu : 
+ 
+ Đối_với trả sau : KH sẽ được trừ dần vào các hóa_đơn cước của chu_kỳ tiếp sau gần nhất sau khi chốt danh_sách KH được hưởng ưu_đãi , chỉ được dùng cho các dịch_vụ nội mạng ( thoại , SMS , data ) và các dịch_vụ GTGT không phải phân_chia doanh_thu với đối_tác . 
+ Đối_với trả trước : được cộng vào tài_khoản KM1 trong thời_gian từ ngày 3 - 5 của tháng 1 và tháng 7 hàng năm ( sau khi chốt danh_sách KH được hưởng ưu_đãi ) . 
+ 
+ 
+ 
+ = > Chương_trình ngưng thực_hiện từ 19 / 04 / 2012 . Đối_với các KH chưa được cộng tiền tại thời_điểm chốt danh_sách tháng 01 / 2012 : 
+ 
+ TB lâu năm : được cộng bổ_sung ngày 23 - 24 / 04 / 2012 
+ TB cước cao và TB thỏa điều_kiện đồng_thời cước cao - lâu năm ( chỉ cộng ưu_đãi lớn nhất ) : được cộng ngày 21 - 22 / 05 / 2012 24 / 05 / 2012 - 25 / 05 / 2012 
+ 
+ Lưu_ý : 
+ 
+ Tiền được cộng vào tài_khoản KMDK1 ( thoại , SMS / MMS , data trong nước ) 
+ Thời_hạn sử_dụng số tiền khuyến_khích : 30 ngày 
+ 
+ 
+ 
+ 
+ 
+ Số công_văn 
+ 
+ 
+ Tiêu_đề 
+ 
+ 
+ Thời_gian áp_dụng 
+ 
+ 
+ Nội_dung 
+ 
+ 
+ 
+ 264 / VMSC2 - CSKH 
+ Cập_nhật lại danh_sách thuê_bao trả trước thm gia chương_trình CSKH đặc_biệt 
+ 15 / 02 / 2008 
+ Cập_nhật lại danh_sách thuê_bao trả trước thm gia chương_trình CSKH đặc_biệt 
+ 
+ 
+ 271 / VMSC2 - CSKH 
+ Cập_nhật lại danh_sách thuê_bao trả trước tham_gia chương_trình CSKH đặc_biệt 
+ 18 / 02 / 2008 
+ Cập_nhật lại danh_sách thuê_bao trả trước tham_gia chương_trình CSKH đặc_biệt 
+ 
+ 
+ 
+ 1740 / QD - VMS - GCTT 
+ 
+ 
+ Chính_sách khuyến_khích đối_với khách_hàng sử_dụng dịch_vụ thông_tin di_động của MobiFone 
+ 
+ 
+ 01 / 11 / 2008 - 31 / 03 / 2010 
+ 
+ 
+ - Nhóm đồng_nghiệp ( trả trước và trả sau ) 
+ - Nhóm cả nhà đều vui 
+ - Nhóm bạn_bè 
+ - Chính_sách đối_với KH cá_nhân ( lâu năm , cước cao , đặc_biệt ) 
+ - Chiết_khấu thương_mại 
+ 
+ 
+ 
+ 
+ 320 / QD - VMS - GCTT 
+ 
+ 
+ Ban_hành chính_sách khuyến_khích đối_với khách_hàng sử_dụng dịch_vụ thông_tin di_động của MobiFone 
+ 
+ 
+ 1 / 4 / 2010 - 30 / 06 / 2010 
+ 
+ 
+ - Nhóm đồng_nghiệp ( trả trước và trả sau ) 
+ - Nhóm cả nhà đều vui 
+ - Nhóm bạn_bè 
+ - Chính_sách đối_với KH cá_nhân ( lâu năm , cước cao , đặc_biệt ) 
+ - Chiết_khấu thương_mại 
+ 
+ 
+ 
+ 
+ 771 / QĐ - VMS - GCTT 
+ 
+ 
+ Ban_hành chính_sách khuyến_khích đối_với khách_hàng sử_dụng dịch_vụ thông_tin di_động của MobiFone 
+ 
+ 
+ 01 / 07 / 2010 
+ 
+ 
+ - Nhóm đồng_nghiệp ( trả trước và trả sau ) 
+ - Nhóm cả nhà đều vui 
+ - Nhóm bạn_bè 
+ - Chính_sách đối_với KH cá_nhân ( lâu năm , cước cao , đặc_biệt ) 
+ - Chiết_khấu thương_mại 
+ 
+ 
+ 
+ 
+ 1888 / VMS - GCTT 
+ 
+ 
+ Ban_hành chính_sách khuyến_khích đối_với khách_hàng cá_nhân sử_dụng dịch_vụ thông_tin di_động của MobiFone 
+ 
+ 
+ 01 / 11 / 2011 
+ 
+ 
+ Hiệu_lực từ 01 / 11 / 2011 , thay_thế 771 / QĐ - VMS - GCTT 11 / 06 / 2010 
+ 
+ 
+ 
+ 1528 / VMS - GCTT - KHBH 
+ Ngừng thực_hiện chương_trình khuyến_khích khách_hàng cá_nhân theo QĐ 1888 / VMS - GCTT ngày 01 / 11 / 2011 
+ 19 / 04 / 2012 
+ Các KH chưa cộng sẽ được cộng làm 2 đợt bổ_sung tháng 4 và tháng 5 / 2012 
+ 
+ 
+ 2028 / VMS - GCTT 
+ Điều_chỉnh thời_gian cộng tiền khuyến_khích khách_hàng theo công_văn 1528 / VMS - GCTT ngày 23 / 04 / 2012 
+ 22 / 05 / 2012 
+ 24 / 5 - 25 / 5 / 2012 
+ 
+ 
+ 
