@@ -1,0 +1,1 @@
+test hiển thị bản tin chứa file đính kèm nội dung bản tin mới

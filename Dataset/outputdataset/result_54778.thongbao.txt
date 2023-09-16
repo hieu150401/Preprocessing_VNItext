@@ -1,0 +1,1 @@
+chọn mục ls nạp thẻ trên trang hướng dẫn tra cứu đầu vào nhập thời gian cần tra cứu từ ngày đến thời gian hiện tại đầu ra thời gian nạp tiền tiền nạp số thẻ nguồn nạp thẻ lưu ý dữ liệu trả cứu được từ 3 2022 về sau thời gian trước đó không tra cứu được

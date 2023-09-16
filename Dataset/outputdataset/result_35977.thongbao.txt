@@ -1,0 +1,1 @@
+một số lưu ý đối với cửa hàng và đlc khi khách hàng hòa mạng phải kiểm tra trước đó trong vòng 48h có hòa mạng số nào rồi hay không kiểm tra kỹ cmnd vì đang có tình trạng giả cmnd dán hình khác đè lên cmnd kiểm tra thử trên hệ thống mình có cmnd nào trùng số mà khác ảnh không sẽ phát hiện được

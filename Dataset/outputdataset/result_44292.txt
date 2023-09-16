@@ -1,0 +1,1 @@
+1 đối tượng khách hàng trúng giải chung cuộc và giải nhất của ct dự sinh nhật nhận quà chất 2 thời gian gọi ra từ 3 mục đích xác nhận thông tin khách hàng trúng thưởng xem có khớp với thông tin trên hệ thống hay không hướng dẫn thủ tục nhận giải thưởng giải đáp các thắc mắc của khách hàng liên quan về chương trình

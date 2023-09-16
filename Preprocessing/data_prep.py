@@ -1,6 +1,6 @@
 import regex as re
 import utils
-from pyvi import ViTokenizer
+# from pyvi import ViTokenizer
 import os
 import html
 EMAIL = re.compile(r"([\w0-9_\.-]+)(@)([\d\w\.-]+)(\.)([\w\.]{2,6})")

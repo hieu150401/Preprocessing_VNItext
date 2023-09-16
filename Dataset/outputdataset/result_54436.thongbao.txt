@@ -1,0 +1,1 @@
+tên gói data giá bán tối thiểu đồng giá bán tối đa đồng thời gian sử dụng ud72 4096 mb 60 000 72 000 trong vòng 15 ngày sau khi cộng ud93 5632 mb 77 000 92 400 trong vòng 20 ngày sau khi cộng ud118 7168 mb 98 000 117 600 trong vòng 30 ngày sau khi cộng ud120 8192 mb 100 000 120 000 trong vòng 30 ngày sau khi cộng

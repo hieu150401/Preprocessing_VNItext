@@ -1,0 +1,1 @@
+số dư tkc của thuê bao mức trừ cước đã bao gồm vat tkc > 5 000 đ 5 000 đ 4 000 đ tkc < 5 000 đ 4 000 đ 3 000 đ tkc < 4 000 đ 3 000 đ 2 000 đ tkc < 3 000 đ 2 000 đ 1 000 đ tkc < 2 000 đ 1 000 đ trừ cước thành công bất cứ mức cước nào gia hạn gói cước trừ cước không thành công dù bất cứ mức cước nào hủy gói cước và nhắn tin thông báo cho kh

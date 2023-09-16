@@ -1,0 +1,1 @@
+1 đối tượng khách hàng cao cấp 2 thời gian từ 17 10 3 mục đích xác nhận thông tin khách hàng thuộc khcc đã nhận được bộ ấn phẩm khcc chưa nếu chưa nhận được thì kh phản ánh lại tổng đài 9090 trong ngày để mobifone ghi nhận và tặng quà lại cho kh giải đáp đáp các thắc mắc của khách hàng về chương trình chính sách khcc nếu cần khảo sát nhu cầu nhận quà của kh
