@@ -6,11 +6,11 @@ requires = [
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "py_package_template"
-description = "A sample python package to start sharing your code with the world"
-version = "0.0.1"
+name = "Pre_Processing_VNI_Text"
+description = "Pre_Processing_VNI_Text"
+version = "0.0.2"
 readme = "README.md"
 requires-python = ">=3.7"
 dependencies = [
-                ""
+                "pyvi"
                 ]
