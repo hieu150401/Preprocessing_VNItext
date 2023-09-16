@@ -1,1 +1,0 @@
-S TT Đầu số Mức cước hiện_tại ( đồng / phút ) Mức cước điều_chỉnh ( đồng / phút ) Thời_gian áp_dụng Chưa bao_gồm thuế VAT Đã bao_gồm thuế VAT Chưa bao_gồm thuế VAT Đã bao_gồm thuế VAT 1 19008673 909 1.000 909 1000 Gia_hạn từ 19 / 8 / 2022 đến 15 / 12 / 2022 2 1900986843 1.364 1.500 909 1000 Từ 20 / 8 / 2022

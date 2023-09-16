@@ -1,1 +1,0 @@
-Cập_nhật thông_tin đến hiện_tại như sau : Lỗi các gói data IP do lỗi kết_nối đến CCSP của TT MDS đang xử_lý , các giao_dịch vẫn chưa thực_hiện được . Lỗi liên_quan đến các nghiệp_vụ HRL đã xử_lý xong , ĐTV kiểm_tra lại ( tra_cứu , đấu sim , đăng_ký / gia_hạn / hủy các gói cước khác gói data IP ) . Trung_tâm TCTK đang quét gia_hạn cho các thuê_bao còn tiền trong tài_khoản chính .

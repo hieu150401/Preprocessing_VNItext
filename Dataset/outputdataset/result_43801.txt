@@ -1,1 +1,0 @@
-1 . ĐỐI_TƯỢNG : khách_hàng trúng giải Vàng và Bạc của CT " " Nạp tiền ngay trúng xe hay " " 2 . THỜI_GIAN GỌI RA : Từ 9 / 5 / 2019 - 13 / 5 / 2019 3 . MỤC_ĐÍCH : Xác_nhận thông_tin khách_hàng trúng thưởng xem có khớp với thông_tin trên hệ_thống hay không . Hướng_dẫn thủ_tục nhận giải_thưởng . Giải_đáp các thắc_mắc của khách_hàng liên_quan về chương_trình

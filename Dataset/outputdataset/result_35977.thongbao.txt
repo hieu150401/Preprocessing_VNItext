@@ -1,1 +1,0 @@
-một_số lưu_ý đối_với cửa_hàng và đlc khi khách_hàng hòa mạng phải kiểm_tra trước đó trong vòng có hòa mạng số nào rồi hay không kiểm_tra kỹ cmnd vì đang có tình_trạng giả cmnd dán hình khác đè lên cmnd kiểm_tra thử trên hệ_thống mình có cmnd nào trùng số mà khác ảnh không sẽ phát_hiện được

@@ -1,1 +1,0 @@
-3 . QUY_ĐỊNH VỀ THỜI_HẠN SỬ_DỤNG : STT Loại gói cước Thời_hạn sử_dụng Chu_kỳ đăng_ký Chu_kỳ gia_hạn 1 Gói cước đơn kỳ 45 ngày 30 ngày 2 Gói cước dài kỳ Chu_kỳ 1 : 45 ngày Chu_kỳ 2 - hết : 30 ngày . Gia_hạn mới : 30 ngày / chu_kỳ

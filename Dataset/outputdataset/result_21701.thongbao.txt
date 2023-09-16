@@ -1,1 +1,0 @@
-tb khi nhắn_tin đăng_ký gói có phải bắt_buộc phải đứng ở tỉnh áp_dụng km >> không cần làm cách nào để kiểm_tra tb được hưởng km tại tỉnh nào >> tb hòa mạng mới trên bộ hmm sẽ có dán tỉnh áp_dụng km tb đang hoạt_động sẽ cập_nhật danh_sách trên ct tra_cứu tập_trung đối_với các gói không có ưu_đãi data tb có_thể đăng_ký chung với gói mi hoặc gói km data khác không >> không được

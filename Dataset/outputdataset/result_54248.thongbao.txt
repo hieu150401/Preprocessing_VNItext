@@ -1,1 +1,0 @@
-Cụ_thể : - Thông_tin cũ Tỷ_lệ chuyển : 100 điểm từ TK tặng = 90 điểm TK nhận . Điều_kiện : tối_thiểu 100 điểm / lần chuyển và là bội_số của 100 . - Thông_tin điều_chỉnh : Tỷ_lệ chuyển : 100 điểm từ TK tặng = 8 0 điểm TK nhận . Số điểm tối_thiểu để chuyển là 2.000 điểm .

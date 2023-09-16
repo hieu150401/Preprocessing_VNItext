@@ -1,1 +1,0 @@
-1 . THỜI_GIAN : Từ 27 / 08 / 2020 2 . NỘI_DUNG : Thay_đổi cú_pháp bán gói trên các kênh online : Gói cước và các gói dài kỳ của gói Cú_pháp đăng_ký_gửi 9084 C120 DV8 _ < mã gói > Gửi 9084 C120N G80 GYM1 2S50 Các gói HD ( HD70 , HD90 , HD120 , HD200 , HD300 , HD400 , HD500 ) D15 , D30 Ví_Dụ : DV8 HD70 gửi 9084

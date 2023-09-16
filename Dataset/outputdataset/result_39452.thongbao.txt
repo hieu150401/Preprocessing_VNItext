@@ -1,1 +1,0 @@
-K iểm tra chi_tiết cước của số TB , chi_tiết sẽ hiển_thị trừ tài_khoản KM1 vào ngày 8 / 5 với Reason code là RutKM1 :

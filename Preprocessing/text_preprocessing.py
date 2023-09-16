@@ -154,7 +154,7 @@ def remove_stopword(input_text_or_list: Union[str, List[str]], stop_words: Optio
     """ Remove stop words """
 
     if stop_words is None:
-        stop_words = set(stopwords.words('english'))
+        stop_words = set(stopwords.words('EN'))
     if isinstance(stop_words, list):
         stop_words = set(stop_words)
     if isinstance(input_text_or_list, str):

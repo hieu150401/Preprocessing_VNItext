@@ -1,1 +1,0 @@
-Chọn mục [ LS nạp thẻ ] trên trang http://qlkh.mobifone.vn/1090/ Hướng_dẫn tra_cứu : Đầu_vào : nhập thời_gian cần tra_cứu , từ ngày đến thời_gian hiện_tại . Đầu_ra : thời_gian nạp tiền , tiền nạp , số thẻ , nguồn nạp thẻ . Lưu_ý : dữ_liệu trả cứu được từ 3 / 2022 về sau , thời_gian trước đó không tra_cứu được .

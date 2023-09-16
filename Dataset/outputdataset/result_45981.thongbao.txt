@@ -1,1 +1,0 @@
-Câu_lệnh HỦY : - Hủy từng gói : HUY_ < tên gói > - Hủy_cả dịch_vụ : HUY

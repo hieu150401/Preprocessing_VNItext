@@ -1,1 +1,0 @@
-Nhận_dạng thuê_bao Mkid : thuê_bao có OCSI = 37 hoặc TCSI = 37
